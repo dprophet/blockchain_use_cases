@@ -1,3 +1,6 @@
+Erik Anderson
+Bloomberg
+
 For the purpose of this document lets replace Blockchain with DLT (Distributed Ledger Technology). DLT is:
   - A ledger that generally runs in a hostile environment like the public internet
   - It uses cryptography to try and solve identity and ownership problems in this public environment
