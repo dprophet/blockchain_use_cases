@@ -338,17 +338,17 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 101. Americans, bankers, venture capitalists, regulatory agencies and legislators know about digital currency seems to be based on fiction and not fact.
 102. Cash: It's anonymous, invisible to the IRS, law enforcement and hackers, as well as to irritating marketers and data brokers.
 103. Distributed Economy, Linked Data, HTTP message signing.
-104. 5 Reasons Paper Currency Should Be Eliminated
-   a. It would be more efficient: Change left at airport checkin, no looking for ATM.
-   b. Help foil crime: Cash is hard to trace, Prevent Bank Roberies, limit tax evasion.
-   c. It would be cheaper: It costs 2x the price of penny/nickel to produce.
-   d. Allow for negative interest rate: With physical cash, there can never be negative interest rates because consumers can always
+104. Reasons Paper Currency Should Be Eliminated
+  - It would be more efficient: Change left at airport checkin, no looking for ATM.
+  - Help foil crime: Cash is hard to trace, Prevent Bank Roberies, limit tax evasion.
+  - It would be cheaper: It costs 2x the price of penny/nickel to produce.
+  - Allow for negative interest rate: With physical cash, there can never be negative interest rates because consumers can always
       withdraw money and keep it under their mattresses. Below-zero interest rates could conceivably draw investment and boost the economy.
-   e. Paper money is filthy: Teeming with bacteria related to pneumonia, food poisoning, gastric ulcers and staph infections
-   There are many legitimate objections to this idea
-   a. Consumers should be allowed to make anonymous purchases if they wish.
-   b. Not everyone has access to broadband and can afford it.
-   c. An electric currency would be vulnerable to power outages, among other threats.
+  - Paper money is filthy: Teeming with bacteria related to pneumonia, food poisoning, gastric ulcers and staph infections
+  - There are many legitimate objections to this idea
+    - Consumers should be allowed to make anonymous purchases if they wish.
+    - Not everyone has access to broadband and can afford it.
+    - An electric currency would be vulnerable to power outages, among other threats.
    Bitcoin seems to fit the bill. Maybe it will replace it as well.
 105. Bitcoin API, SDKs and enterprise infrastructure help developers focus their time and resources on building amazing apps, and not needlessly rolling out payments infrastructure.
 106. Automation is Vital to Drive Business Value
