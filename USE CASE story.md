@@ -1,5 +1,5 @@
-Erik Anderson
-Bloomberg
+# Use cases and stories around Financial Services and Blockchain.
+Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
 
 For the purpose of this document lets replace Blockchain with DLT (Distributed Ledger Technology). DLT is:
   - A ledger that generally runs in a hostile environment like the public internet
@@ -12,7 +12,7 @@ For the purpose of this document lets replace Blockchain with DLT (Distributed L
   - Transactions are absolute, there is no reverting the transaction. Chargebacks/returns are a business process because the ledger cannot be reversed. You must initiate a transaction back to the originating party.
   - Current DLT Identity & Data security mechanisms is 'relatively unused' cryptography built for financial services in 1990's. These mathematics has a certain lifetime because computers and distributed calculations are getting faster & more efficient. The current cryptography is not resistive to quantum computer attacks, 5-10yr max additional lifetime, target window 2021-2026.
 
-DLT will eventually become a means to alter existing financial services infrastructure, but not by itself. DLT is missing the same 3 critical puzzle pieces that has plagued all open networks like the Internet: Identity & Data Protection & Legal Insight.
+#### DLT will eventually become a means to alter existing financial services infrastructure, but not by itself. DLT is missing the same 3 critical puzzle pieces that has plagued all open networks like the Internet: Identity & Data Protection & Legal Insight.
   - Identity:
     - Cryptography is very abstract, hard for users to why & how to securely protect their encryption keys.
     - Simple access to Public key: 1BoJiyRnCN5E2FEG3gbC85d6h3c7Xmcqs1 discloses every transaction performed under that identity
@@ -49,7 +49,7 @@ DLT will eventually become a means to alter existing financial services infrastr
         - Basically, most of the cryptographic research into non-repudiation schemes has the wrong threat model. It is based on assumptions that we've since discovered are faulty.
       - Interestingly if you combine identity and data security but further utilize cryptography for event sequencing you can enforce business processes to be strictly adhered to. Business processes, if codified, cant be skipped because the mathematical steps & sequences wont unlock.
 
-Blockchain technology is not "the key" problem in Financial Services. Its business problems.
+#### Blockchain technology is not "the key" problem in Financial Services. Its business problems.
   - The key business change is going from a closed to an open ledger, regardless of whether it is distributed or not.
   - Financial Services is the first profitable social network. Like Facebook, for a social network to be have real value you need 'real names' and identities. Open/distributed ledgers without real names is voodoo.
   - The key concept is that the true position is a social construct - whether facilitated by crypto or not. Custody disputes are resolved through processes. Crypto is neither here nor there, and potentially a distraction. Disputes resolution is a business process not a technology problem.
@@ -62,7 +62,7 @@ In order for DLT to meet those expectations, other problems must be solved. Solv
 
 Meanwhile, the short-term business imperatives of current Blockchain-focused FinTech start-ups are directed purely toward developing a single use case for the technology that solves one particular element of the overall puzzle. Mainstream capital markets industry is eager to adopt the Blockchain as a new piece of technology that is both disruptive and empowering, but there is, at present, a misalignment of imperatives between what the Blockchain offers today, and what it needs to offer tomorrow.
 
-To address the above needs we must solve 2 requirements. These requirements are part of 'what Blockchain needs to offer but doesn't and are in no way isolated to Blockchain. As a matter of fact, solving these 2 requirements opens a whole realm of possibilities that were, until now, historically unsolvable. NOTE: This has been attempted utilizing 1990's technology but that failed for reasons like privacy, scalability, performance, isolated approaches, and BIG brains working on small problems.
+To address the above needs we must solve 2 requirements. These requirements are part of 'what DLT needs to offer but doesn't and are in no way isolated to DLT. As a matter of fact, solving these 2 requirements opens a whole realm of possibilities that were, until now, historically unsolvable. NOTE: This has been attempted utilizing 1990's technology but that failed for reasons like privacy, scalability, performance, isolated approaches, and BIG brains working on small problems.
   - Privacy friendly Identity Management:
     - Usage of Identity in a hostile environment that is forensically trackable yet private at the same time. It needs to allow:
       - Friendly regulatory & legal tracking
@@ -80,7 +80,6 @@ To address the above needs we must solve 2 requirements. These requirements are 
     - Empower individual use cases like:
       - willable/transferable assets that were bound to the identity of the deceased.
       - Persona's and pure merit based identities and scoring mechanisms for online purchases. When Objective measurements of reliability is bound to a person, the merit becomes far more valuable than the drivers license.
-    - 
   - Secure yet configurable access to varying levels of sensitive data.
     - Usage of secure objects:
       - Secure objects allow the access controls for its contents to be integrated with the object. Regardless of where the object is stored, how it is transported, the data is secure.
