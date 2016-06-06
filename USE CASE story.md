@@ -49,6 +49,13 @@ DLT will eventually become a means to alter existing financial services infrastr
         - Basically, most of the cryptographic research into non-repudiation schemes has the wrong threat model. It is based on assumptions that we've since discovered are faulty.
       - Interestingly if you combine identity and data security but further utilize cryptography for event sequencing you can enforce business processes to be strictly adhered to. Business processes, if codified, cant be skipped because the mathematical steps & sequences wont unlock.
 
+Blockchain technology is not "the key" problem in Financial Services. Its business problems.
+  - The key business change is going from a closed to an open ledger, regardless of whether it is distributed or not.
+  - Financial Services is the first profitable social network. Like Facebook, for a social network to be have real value you need 'real names' and identities. Open/distributed ledgers without real names is voodoo.
+  - The key concept is that the true position is a social construct - whether facilitated by crypto or not. Custody disputes are resolved through processes. Crypto is neither here nor there, and potentially a distraction. Disputes resolution is a business process not a technology problem.
+  - It is a natural progress from CSD's (Central Securities Depository) to open ledgers. Once centralized, ledgers can be standardized, and then distributed.
+
+      
 Financial Institutions are faced with much higher regulatory, compliance costs as well as strict restrictions around capital exposure. These institutions are looking for innovative ways to reduce future regulatory and compliance costs as well as optimally manage their existing capital to generate new revenue streams.
 
 In order for DLT to meet those expectations, other problems must be solved. Solving Identity Management, Data Security, and regulatory controls has massive upside throughout all of financial services, DLT or not.
