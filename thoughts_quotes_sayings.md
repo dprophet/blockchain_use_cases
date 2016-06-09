@@ -192,3 +192,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 140. Debate over the priorities of law enforcement, regulation, and personal privacy.
 141. Blockchain: Disruption or distraction?
 142. Put transparency and immutability together and you have a dream scenario for regulators, auditors and compliance officers
+143. An economic productivity tool.
