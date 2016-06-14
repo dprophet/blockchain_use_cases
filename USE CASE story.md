@@ -18,6 +18,7 @@ For the purpose of this document lets replace Blockchain with DLT (Distributed L
     - Simple access to Public key: 1BoJiyRnCN5E2FEG3gbC85d6h3c7Xmcqs1 discloses every transaction performed under that identity
     - Theft of Private: 5KgEvEvubwVJGjVBr8UZPe73kksTLk2dqVXh3JavzGaaJSQBUk4 allows thieves to steal the assets protected by that mathematical identifier.
     - Its a public ledger. Its designed to allow financial inclusion by the 780 million without access to established financial services (unbanked, underbanked, and unbankable). Interestingly enough these individuals don't have the capacity to deal in cryptographic assets but they all have mobile phones. Ideally it allows 'transparency' & 'equality' among network participants.
+    - It is most likely the identity solution will become Registry Systems with linked data between the ledger and the registry.
   - Data protection:
     - Data is written to DLT. There is no confidentiality as everyone can see it. Even if you encrypt the private metadata how do you allow differential access to a pyramid of sensitive/private information.
     - Other data, such as HIPAA, has a 125 year storage requirement and existing data security mechanisms cant achieve this requirement since computer capabilities double every 2 years.
