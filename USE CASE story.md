@@ -95,6 +95,14 @@ To address the above needs we must solve 2 requirements. These requirements are 
     - Malware:
       - What if Grandpa's computer is infected with malware, which steals his private key? Malware on the person's computer can apply the private key without the human's consent.
 
+*********************************
+#### Ledger technology does not solve
+  - No high-speed access to data in the same manner as big data tech
+  - Does not improve on current data retrieval, inquiry, reporting or analytic tools
+  - Ability to cancel or reverse a transaction is not supported
+  - Does not integrate with modern data management tools
+  - Does not easily integrate with user identity management systems
+  - Does not include exception processing, complex matching, allocation etc.
 
 *********************************
 Direct Financial Services beneficiaries of Identity/Credentials/Verifiable assets
@@ -113,7 +121,7 @@ Direct Financial Services beneficiaries of Identity/Credentials/Verifiable asset
   - Trades
     - Real-time valuation of assets and settlement
     - Scoring, ranking, trustworthiness, and other compliant-obligatory algorithms to categorize 'codes of conduct'. This applies to organizations and individuals.
-        Even if Settlement occurs real-time, collateral still moves at a future date. We still need to score trustworthiness and bind that identities.
+    - For DLT, "The trade is the settlement" is an untrue statement. Even if Settlement occurs real-time, collateral still moves at a future date. We still need to score trustworthiness and bind to identities before this can be true.
     - Posting of collateral for OTC trades. The posting of collateral & verified assets needs to be tied back to real world identities. Currently 3rd parties (ie clearing houses) are required as part of this step to validate real world ID and asset ownerships. Without DLT+Identity+VerifyableAssets it will be impossible to construct consensus algorithms to facilitate real-time settlement and measure trustworthiness.
   - As a utility to servicing of other Instruments
     - Verifiable assets, by themselves, aren’t as valuable as the channels they create for servicing of other instruments.
