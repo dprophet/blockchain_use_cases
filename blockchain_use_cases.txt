@@ -7,7 +7,7 @@ For the purpose of this document lets replace Blockchain with DLT (Distributed L
   - It uses cryptography to try and automate business processes & reduce latency to accelerate the value of money
   - Assets are on and managed on the ledger. Off ledger interactions are considered legacy, slow, and inefficient.
   - Most real use cases of this technology are theoretical discussions, unimplemented, without a single live use case with enough scalability, security, or appropriate regulatory framework in place.
-  - Data on the DLT can be permissioned/private but all transactions are on this ledger are public and all parties can see those transactions.
+  - Data on the DLT can be permissioned/private but all transactions on this ledger are public and all parties can see those transactions.
   - DLT is the technology not the actual asset. The asset is the application utilizing the DLT (Stock trades, payments, swap trade, currencies, bonds & coupons, etc).
   - Transactions are absolute, there is no reverting the transaction. Chargebacks/returns are a business process because the ledger cannot be reversed. You must initiate a transaction back to the originating party.
   - Current DLT Identity & Data security mechanisms is 'relatively unused' cryptography built for financial services in 1990's. These mathematics has a certain lifetime because computers and distributed calculations are getting faster & more efficient. The current cryptography is not resistive to quantum computer attacks, 5-10yr max additional lifetime, target window 2021-2026.
@@ -160,6 +160,10 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
       - This schema also allows new advancements in cryptography to be added to the schema, accounting for advancements in math & technology, without breaking data encrypted through older versions of the schema.
     - In essence, the current financial systems reach consensus by reconciliation. This requires a lot of data collection, recording, auditing, processing, and reconciling of vast amounts of information. This process is slow, expensive, and difficult to automate. Existing Blockchain (token based ledger business model) is not a ledger to store enormous amounts of sensitive information with varying privacy, reporting, regulation & access control requirements.
     - When it comes to data security and Blockchain .... Its not about what they are doing right, its about what they are doing wrong.
+  - Love
+    - Dont shoot the messenger but is "crypto-love" or "chain of love" really a use case?
+      - http://motherboard.vice.com/read/blockchain-of-love-someone-proposed-using-bitcoin
+      - https://youtu.be/0_9HdZwf60U
 
   - WORDS OF WARNING:
     - 2015 saw a double increase in hacks targeting financial data
