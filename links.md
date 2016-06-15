@@ -18,4 +18,6 @@ https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust
 https://github.com/WebOfTrustInfo/ID2020DesignWorkshop
 
 
+Pseudo-anonymous/Pseudonymity but no privacy
+https://blockexplorer.com/address/1Em9H57e4iz3JqpRSR8b4pfp3P4DPhm4jm
 
