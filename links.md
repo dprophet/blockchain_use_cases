@@ -1,3 +1,5 @@
+# Useful links
+Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
 
 https://www.w3.org/2016/04/blockchain-workshop/
 
