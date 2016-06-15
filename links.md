@@ -2,6 +2,7 @@
 Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
 
 https://www.w3.org/2016/04/blockchain-workshop/
+https://github.com/w3c/blockchain
 
 https://www.w3.org/blog/wpig/2015/04/05/w3c-web-payments-information-control-and-information-flow/
 
