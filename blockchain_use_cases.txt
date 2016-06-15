@@ -164,6 +164,8 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
     - Dont shoot the messenger but is "crypto-love" or "chain of love" really a use case?
       - http://motherboard.vice.com/read/blockchain-of-love-someone-proposed-using-bitcoin
       - https://youtu.be/0_9HdZwf60U
+  - Data Distribution
+    - Distributed ledgers helps solve the long standing problems with databases and distribution of the data. Everyone has an active copy of the data.
 
   - WORDS OF WARNING:
     - 2015 saw a double increase in hacks targeting financial data
