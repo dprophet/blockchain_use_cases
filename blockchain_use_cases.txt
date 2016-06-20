@@ -1,5 +1,7 @@
 Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
 
+The below is strictly from news stories and documents I have accumulated over the years. It in no way indicates Bloomberg's backing of any such technologies or intended usage of such technologies.
+
 For the purpose of this document lets replace Blockchain with DLT (Distributed Ledger Technology). DLT is:
   - A ledger that generally runs in a hostile environment like the public internet
   - It uses cryptography to try and solve identity and ownership problems in this public environment
