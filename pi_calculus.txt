@@ -1,0 +1,85 @@
+# π-calculus. Useful information from Greg Meredith
+Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
+
+Github links
+    SpecialK - distributed, decentralized implementation of the applied π-calculus
+        https://github.com/synereo/special-k
+    Individual Agent - User Model on top of SpecialK
+        https://github.com/synereo/agent-service-ati-ia
+    GLoSEval - http bridge
+        https://github.com/synereo/gloseval
+    agentui - social network ui
+        https://github.com/synereo/agentui
+Bibliography
+    SpecialK as Decentralized Design Pattern
+        http://blog.synereo.com/2015/03/17/specialk-kvdb/
+    Applied π-calculus as social contracts
+        http://blog.synereo.com/2015/03/06/social-contracts-pt-ii/
+    Polyadic π-calculus tutorial
+        http://www.lfcs.inf.ed.ac.uk/reports/91/ECS-LFCS-91-180/
+    Reflective higher-order calculus
+        http://dl.acm.org/citation.cfm?id=1705674
+        https://www.researchgate.net/publication/220368672_A_Reflective_Higher-order_Calculus
+    Namespace logic
+        http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.95.9601
+    Higher category semantics of the π-calculus
+        http://arxiv.org/abs/1504.04311
+    Applied π-calculus
+        http://web.cs.wpi.edu/~guttman/cs559_website/chapter-6.pdf
+    Behavioral and spatial observations in a logic for the π-calculus
+        http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.9964&rep=rep1&type=ps
+Formal verification and simulation tools
+    Spatial logic model checker
+        http://ctp.di.fct.unl.pt/SLMC/
+    Proverif (Cryptographic protocol verifier in the formal model)
+        http://prosecco.gforge.inria.fr/personal/bblanche/proverif/
+    Spim (Stochastic Pi Machine (SPiM) is a programming language for designing and simulating computer models of biological processes)
+        http://research.microsoft.com/en-us/projects/spim/
+        Spim's abstract machine
+            http://research.microsoft.com/pubs/65228/Bioconcur04.pdf
+Videos
+    Interaction and introspection
+        https://www.youtube.com/playlist?list=PLtZ52LzwL9Lmop8WEOhM2mcT4gKgGZPNc
+    π-calculus for fun and profit
+        part 1 - https://www.youtube.com/watch?v=nXYGPYnCokE
+        part 2 - https://www.youtube.com/watch?v=5lfvRJkcOhQ
+        part 3 - https://www.youtube.com/watch?v=uMYM0Nnohnk
+Casper architecture notes
+    Casper in a reflective calculus
+        https://drive.google.com/file/d/0B5I9qM5f_1cfSVMwd25lWUpKN3c/view?ths=true&pref=2&pli=1
+        
+
+*******************************************        
+
+Here's the blog entry write up that   http://blog.synereo.com/2015/03/06/social-contracts-pt-ii/
+explains this working code            https://github.com/rlamb/Agent-Service-ATI-IA/tree/cryptoRedo/AgentServices-Store/src/main/scala/com/protegra_ati/agentservices/protocols/verification
+One secret decoder ring trick is to understand that when we write
+
+x?( y )P in π-calculus
+
+the monadic refactor is
+
+for( y <- x ){ P }
+
+This refactoring allows us to freely mix join 
+
+x?( y ) & u?( v ).P
+
+which becomes
+
+for( y <- x; v <- u ){ P }
+
+and choice
+
+x?( y )P + u?( v )Q
+
+which translates to the similar syntax
+
+for( y <- x; v <- u ) {
+   ( y, v ) match { 
+      case ( Some( ny ), _ ) => P;
+      case ( _, Some( nu ) ) => Q
+   }
+}
+
+but uses a different monad (https://en.wikipedia.org/wiki/Monad_(functional_programming).

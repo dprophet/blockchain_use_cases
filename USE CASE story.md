@@ -18,6 +18,7 @@ For the purpose of this document lets replace Blockchain with DLT (Distributed L
     - Simple access to Public key: 1BoJiyRnCN5E2FEG3gbC85d6h3c7Xmcqs1 discloses every transaction performed under that identity
     - Theft of Private: 5KgEvEvubwVJGjVBr8UZPe73kksTLk2dqVXh3JavzGaaJSQBUk4 allows thieves to steal the assets protected by that mathematical identifier.
     - Its a public ledger. Its designed to allow financial inclusion by the 780 million without access to established financial services (unbanked, underbanked, and unbankable). Interestingly enough these individuals don't have the capacity to deal in cryptographic assets but they all have mobile phones. Ideally it allows 'transparency' & 'equality' among network participants.
+    - It is most likely the identity solution will become Registry Systems with linked data between the ledger and the registry.
   - Data protection:
     - Data is written to DLT. There is no confidentiality as everyone can see it. Even if you encrypt the private metadata how do you allow differential access to a pyramid of sensitive/private information.
     - Other data, such as HIPAA, has a 125 year storage requirement and existing data security mechanisms cant achieve this requirement since computer capabilities double every 2 years.
@@ -54,8 +55,8 @@ For the purpose of this document lets replace Blockchain with DLT (Distributed L
   - Financial Services is the first profitable social network. Like Facebook, for a social network to be have real value you need 'real names' and identities. Open/distributed ledgers without real names is voodoo.
   - The key concept is that the true position is a social construct - whether facilitated by crypto or not. Custody disputes are resolved through processes. Crypto is neither here nor there, and potentially a distraction. Disputes resolution is a business process not a technology problem.
   - It is a natural progress from CSD's (Central Securities Depository) to open ledgers. Once centralized, ledgers can be standardized, and then distributed.
+  - Standardization and automation of communication for various settlement processes & streamlined institutional matching processes is far more important than just focusing on the final resting place of the information (ledger).
 
-      
 Financial Institutions are faced with much higher regulatory, compliance costs as well as strict restrictions around capital exposure. These institutions are looking for innovative ways to reduce future regulatory and compliance costs as well as optimally manage their existing capital to generate new revenue streams.
 
 In order for DLT to meet those expectations, other problems must be solved. Solving Identity Management, Data Security, and regulatory controls has massive upside throughout all of financial services, DLT or not.
@@ -95,6 +96,14 @@ To address the above needs we must solve 2 requirements. These requirements are 
     - Malware:
       - What if Grandpa's computer is infected with malware, which steals his private key? Malware on the person's computer can apply the private key without the human's consent.
 
+*********************************
+#### Ledger technology does not solve
+  - No high-speed access to data in the same manner as big data tech
+  - Does not improve on current data retrieval, inquiry, reporting or analytic tools
+  - Ability to cancel or reverse a transaction is not supported
+  - Does not integrate with modern data management tools
+  - Does not easily integrate with user identity management systems
+  - Does not include exception processing, complex matching, allocation etc.
 
 *********************************
 Direct Financial Services beneficiaries of Identity/Credentials/Verifiable assets
@@ -113,7 +122,7 @@ Direct Financial Services beneficiaries of Identity/Credentials/Verifiable asset
   - Trades
     - Real-time valuation of assets and settlement
     - Scoring, ranking, trustworthiness, and other compliant-obligatory algorithms to categorize 'codes of conduct'. This applies to organizations and individuals.
-        Even if Settlement occurs real-time, collateral still moves at a future date. We still need to score trustworthiness and bind that identities.
+    - For DLT, "The trade is the settlement" is an untrue statement. Even if Settlement occurs real-time, collateral still moves at a future date. We still need to score trustworthiness and bind to identities before this can be true.
     - Posting of collateral for OTC trades. The posting of collateral & verified assets needs to be tied back to real world identities. Currently 3rd parties (ie clearing houses) are required as part of this step to validate real world ID and asset ownerships. Without DLT+Identity+VerifyableAssets it will be impossible to construct consensus algorithms to facilitate real-time settlement and measure trustworthiness.
   - As a utility to servicing of other Instruments
     - Verifiable assets, by themselves, aren’t as valuable as the channels they create for servicing of other instruments.

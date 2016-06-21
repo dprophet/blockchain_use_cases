@@ -1,5 +1,6 @@
-Erik Anderson
-Bloomberg
+Erik Anderson, Bloomberg  https://www.linkedin.com/in/erikanderson
+
+The below is strictly from news stories and documents I have accumulated over the years. It in no way indicates Bloomberg's backing of any such technologies or intended usage of such technologies.
 
 For the purpose of this document lets replace Blockchain with DLT (Distributed Ledger Technology). DLT is:
   - A ledger that generally runs in a hostile environment like the public internet
@@ -164,6 +165,8 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
     - Dont shoot the messenger but is "crypto-love" or "chain of love" really a use case?
       - http://motherboard.vice.com/read/blockchain-of-love-someone-proposed-using-bitcoin
       - https://youtu.be/0_9HdZwf60U
+  - Data Distribution
+    - Distributed ledgers helps solve the long standing problems with databases and distribution of the data. Everyone has an active copy of the data.
 
   - WORDS OF WARNING:
     - 2015 saw a double increase in hacks targeting financial data
