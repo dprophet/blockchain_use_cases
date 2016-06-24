@@ -31,6 +31,7 @@ Bibliography
 Formal verification and simulation tools
     Spatial logic model checker (model checker for Concurrency, Distribution and Mobility)
         http://ctp.di.fct.unl.pt/SLMC/
+        A secret is a piece of data whose knowledge of is restricted to some parts of a system, and unforgeable by other parts.
     Proverif (Cryptographic protocol verifier in the formal model)
         http://prosecco.gforge.inria.fr/personal/bblanche/proverif/
     Spim (Stochastic Pi Machine (SPiM) is a programming language for designing and simulating computer models of biological processes)
