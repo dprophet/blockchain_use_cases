@@ -44,6 +44,8 @@ Videos
         part 1 - https://www.youtube.com/watch?v=nXYGPYnCokE
         part 2 - https://www.youtube.com/watch?v=5lfvRJkcOhQ
         part 3 - https://www.youtube.com/watch?v=uMYM0Nnohnk
+    Synereo
+        https://www.livecoding.tv/synereo/
 Casper architecture notes
     Casper in a reflective calculus
         https://drive.google.com/file/d/0B5I9qM5f_1cfSVMwd25lWUpKN3c/view?ths=true&pref=2&pli=1
