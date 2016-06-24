@@ -29,7 +29,7 @@ Bibliography
     Behavioral and spatial observations in a logic for the π-calculus
         http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.9964&rep=rep1&type=ps
 Formal verification and simulation tools
-    Spatial logic model checker
+    Spatial logic model checker (model checker for Concurrency, Distribution and Mobility)
         http://ctp.di.fct.unl.pt/SLMC/
     Proverif (Cryptographic protocol verifier in the formal model)
         http://prosecco.gforge.inria.fr/personal/bblanche/proverif/
