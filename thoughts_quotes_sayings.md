@@ -194,4 +194,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 142. Put transparency and immutability together and you have a dream scenario for regulators, auditors and compliance officers
 143. An economic productivity tool.
 144. Cryptocurrency continues to evolve, shaping itself to the rapidly shifting needs of markets. As communication technologies have made our world increasingly interconnected, the need for means to support transactions taking place across borders in an expeditious manner with partners previously unknown has grown significantly. Cryptocurrencies offer the promise of digital cash, with many of its characteristics, good and bad. The market may fork in in coming years, with both government-sanctioned cryptocurrencies and private cryptocurrencies operating simultaneously to meet different market demands.
+145. Social payments vs financial payments?
+146. In todays age Identity is a currency. We are the product.
 
