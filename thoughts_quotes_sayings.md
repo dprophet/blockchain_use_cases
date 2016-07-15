@@ -200,8 +200,9 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 148. Focus on improving existing systems, rather than getting excited about trendy technologies. Small incremental baby steps that offer business value is a more likely outcome.
 149. Golden Copy: The Blockchain is Just a Database
 150. The blockchain story is bull#%@^ blockchain is indeed a clever solution to the Byzantine Generals Problem (a fault tolerance problem in distributed systems), its practical applications are rather limited. The story that blockchain technology will re-shape significant components of the Internet is bull#%@^.
-151. Authority is Good: Authorities make sense in important transactions because there will be conflicts between transacting parties. Resolving conflicts requires the enforcement of judgments, and enforcement requires administrative powers including the ability to reverse transactions.
+151. Authority is Good: Authorities make sense in important transactions because there will be conflicts between transacting parties. Resolving conflicts requires the enforcement of judgments, and enforcement requires administrative powers including the ability to reverse transactions. The nature of Blockchain irreversibility affords no liability protection available for users. Hackers, crackers, and key loggers will steal the funds with administrative powers being able to reverse the transactions.
 152. Blockchain: A technology looking for a problem to solve, rather than a technology created to solve a problem
 153. Regulatory and other hurdles will force most digital currency start-ups to partner with, rather than compete directly against, incumbent banks. Yet, most financial institutions remain in 'experimentation mode,' wary about the scalability of the technology, privacy issues associated with broadcasting commercially sensitive information about money flows, and the volatility and governance of non-fiat digital currencies.
 154. 
+
 
