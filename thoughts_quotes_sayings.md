@@ -196,4 +196,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 144. Cryptocurrency continues to evolve, shaping itself to the rapidly shifting needs of markets. As communication technologies have made our world increasingly interconnected, the need for means to support transactions taking place across borders in an expeditious manner with partners previously unknown has grown significantly. Cryptocurrencies offer the promise of digital cash, with many of its characteristics, good and bad. The market may fork in in coming years, with both government-sanctioned cryptocurrencies and private cryptocurrencies operating simultaneously to meet different market demands.
 145. Social payments vs financial payments?
 146. In todays age Identity is a currency. We are the product.
+147. Blockchain should be used as a property ownership recording system. Blockchain should not contain the product itself (ie a digital currency). Digital currencies are extremely dangerous.
 
