@@ -198,4 +198,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 146. In todays age Identity is a currency. We are the product.
 147. Blockchain should be used as a property ownership registry/recording system. Blockchain should not contain the product itself (ie a digital currency). Digital currencies are extremely dangerous.
 148. Focus on improving existing systems, rather than getting excited about trendy technologies. Small incremental baby steps that offer business value is a more likely outcome.
+149. Golden Copy: The Blockchain is Just a Database
 
