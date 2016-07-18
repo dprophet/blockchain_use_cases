@@ -206,5 +206,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 154. Money as a weapon of control & economic censorship:
   - Money dependent on systems of representation requires trust to work. With the creation of the Federal Reserve and other central banks, private corporations began taking over the supplying of money. This centrally planned money production intermediates human relationship by dividing all into classes of creditors and debtors, where the former are masters, while the latter often become de-facto slaves.
   - The hidden captains of this managed democracy direct the flow of currency through financial engineering and have created incentive structures that are bent toward preserving their power. Stimulated by toxic asset bubbles, derivatives and quantitative easing, these incentives work like invisible hands of the market. They suppress democratic values by controlling information, which is the currency of democracy and suppressing free speech with economic censorship, as was seen in the case of the financial blockade against WikiLeaks. 
+155. At this stage in history, because everything is so well-connected, any situation in life will have an impact on the global economy
 
 
