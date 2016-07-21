@@ -213,5 +213,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   * 20%: Risk of a company having its systems breached
   * 89%: Breaches that have a financial or espionage motive
   * 91%: Percentage of breaches that involved stolen credentials
+  * Cryptography doesnt solve these problems! Bitcoin thefts are from stolen credentials. Since there is no central authority no one can help you.
 
 
