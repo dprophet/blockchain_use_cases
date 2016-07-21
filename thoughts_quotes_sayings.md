@@ -208,5 +208,10 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   - The hidden captains of this managed democracy direct the flow of currency through financial engineering and have created incentive structures that are bent toward preserving their power. Stimulated by toxic asset bubbles, derivatives and quantitative easing, these incentives work like invisible hands of the market. They suppress democratic values by controlling information, which is the currency of democracy and suppressing free speech with economic censorship, as was seen in the case of the financial blockade against WikiLeaks. 
 155. At this stage in history, because everything is so well-connected, any situation in life will have an impact on the global economy.
 156. Future of digital services: A naive developer playing with code he doesn’t understand, savvy thieves exploiting the vulnerabilities he doesn’t understand, and finally a squad of angry investors & criminals descending on him for screwing up their meal ticket. Unfortunately, this sort of thing happens a lot — although physical violence is, as far as I know, still fairly rare. To protect digital services, like Bitcoin or a Blockchain, the whole system needs to be protected through advanced security, hot & cold wallet rotations, one time keys, authentication & authorization tokens, multi-factor systems, etc. Less than 0.1% are sharp enough to build it and fewer than 1% of the 0.1% few are diligent to keep the system continuously secure.
+157. 2016 stats
+  * http://us9.campaign-archive2.com/?u=cb875975da196e21bcc6f8b5f&id=01e5227905&e=a1af1e0a4e
+  * 20%: Risk of a company having its systems breached
+  * 89%: Breaches that have a financial or espionage motive
+  * 91%: Percentage of breaches that involved stolen credentials
 
 
