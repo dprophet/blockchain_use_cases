@@ -216,5 +216,8 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   * Cryptography doesnt solve these problems! Bitcoin thefts are from stolen credentials. Since there is no central authority no one can help you.
 158. Bitcoin is emerging from its "hacktivist" origins. People are starting to park their money in digital currencies, like Bitcoin, rather than parking them in fiat currencies. This is primarily due to the Negative Interest Rate Policy as well as Zero Interest Rate Policy of the Central Banks. Central Banks cannot get away with all the monetary printing. The more they print, the more they push investors away from wanting their fiat currency. A scenario of total collapse, the governments telling everybody that your money is now worthless and the bonds you own are now worthless. Institutional investors are recognizing this outcome, hence, they are the largest group of Bitcoin buyers.
   * Lack of regulation was scaring a few customers; not that regulation helped in any way during the 2007 crash, and neither will it help in the next crash.
+  * The two Chinese exchanges, Huobi and OKCoin, both witness approximately 92% of the global trade in Bitcoin.
+  * There's a lot of hot money in China that has to go somewhere.
+  * Main emphasis on this movement is to find 'alternative' asset classes, which are mature enough, but not saturated. The risk-reward in such classes should be high.
 
 
