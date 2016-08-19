@@ -219,5 +219,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   * The two Chinese exchanges, Huobi and OKCoin, both witness approximately 92% of the global trade in Bitcoin.
   * There's a lot of hot money in China that has to go somewhere.
   * Main emphasis on this movement is to find 'alternative' asset classes, which are mature enough, but not saturated. The risk-reward in such classes should be high.
+159. After 7 years now Bitcoin is still an obscure and esoteric online currency, used by few and understood by fewer. Despite the breathless prophecies of countless pundits, neither death nor revolution have come to pass.
 
 
