@@ -220,5 +220,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   * There's a lot of hot money in China that has to go somewhere.
   * Main emphasis on this movement is to find 'alternative' asset classes, which are mature enough, but not saturated. The risk-reward in such classes should be high.
 159. After 7 years now Bitcoin is still an inaccessible, obscure experiment and esoteric online currency, used by few and understood by fewer. Despite the breathless prophecies of countless experts, neither death nor revolution have come to pass.
+160. Regulators are starting to encourage and support the use of technology to reduce risk and ensure compliance. Blockchain as a piggybank dramatically increases risk. Blockchain as an accounting ledger can help that by automating reporting. To reduce risk you must separate the bank from the ledger.
 
 
