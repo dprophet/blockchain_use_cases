@@ -221,5 +221,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   * Main emphasis on this movement is to find 'alternative' asset classes, which are mature enough, but not saturated. The risk-reward in such classes should be high.
 159. After 7 years now Bitcoin is still an inaccessible, obscure experiment and esoteric online currency, used by few and understood by fewer. Despite the breathless prophecies of countless experts, neither death nor revolution have come to pass.
 160. Regulators are starting to encourage and support the use of technology to reduce risk and ensure compliance. Blockchain as a piggy bank dramatically increases risk over what we have today. Blockchain as an accounting ledger can help that by automating reporting. To reduce risk you must separate the piggy bank from the ledger.
-Since Bitcoin's creation in 2009, 33% of all Bitcoin exchanges were hacked, and 48% closed.
+161. Since Bitcoin's creation in 2009, 33% of all Bitcoin exchanges were hacked, and 48% closed.
 
