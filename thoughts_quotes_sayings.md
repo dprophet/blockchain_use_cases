@@ -222,6 +222,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 159. After 7 years now Bitcoin is still an inaccessible, obscure experiment and esoteric online currency, used by few and understood by fewer. Despite the breathless prophecies of countless experts, neither death nor revolution have come to pass.
 160. Regulators are starting to encourage and support the use of technology to reduce risk and ensure compliance. Blockchain as a piggy bank dramatically increases risk over what we have today. Blockchain as an accounting ledger can help that by automating reporting. To reduce risk you must separate the piggy bank from the ledger.
 161. Since Bitcoin's creation in 2009, 33% of all Bitcoin exchanges were hacked, and 48% closed. Hackers manipulating a ledger that cant be corrected?
-162. If you guarentee the authenticity of the user you guarentee the integrity of the transaction.
+162. If you guarantee the authenticity of the user you guarantee the integrity of the transaction.
 163. 
 
