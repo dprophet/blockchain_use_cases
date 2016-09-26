@@ -223,5 +223,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 160. Regulators are starting to encourage and support the use of technology to reduce risk and ensure compliance. Blockchain as a piggy bank dramatically increases risk over what we have today. Blockchain as an accounting ledger can help that by automating reporting. To reduce risk you must separate the piggy bank from the ledger.
 161. Since Bitcoin's creation in 2009, 33% of all Bitcoin exchanges were hacked, and 48% closed. Hackers manipulating a ledger that cant be corrected?
 162. If you guarantee the authenticity of the user you guarantee the integrity of the transaction.
-163. 
+163. Without data confidentiality, a general purpose ledger is incomplete.
 
