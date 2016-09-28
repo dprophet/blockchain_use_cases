@@ -11,7 +11,7 @@
 9. Currency or Cult, its both
 10. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
 11. The degree to which economists have ignored Bitcoin is surpassed only by the extent to which Bitcoin enthusiasts have ignored economics. The divide between these groups is larger than that between analog and digital.
-12. It is clear thereís a thirst for a new truly global currency and thereís an increasing likelihood that governments will start regulating it.
+12. It is clear thereís a thirst for a new truly global currency and there is an increasing likelihood that governments will start regulating it.
 13. Bitcoin is an experiment in unintended consequences that makes the North Korean government look efficient.
 14. Can Bitcoin help you gain control of your digital footprint?
 15. In their current form, cryptocurrencies carry serious risks.
