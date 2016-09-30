@@ -224,4 +224,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 161. Since Bitcoin's creation in 2009, 33% of all Bitcoin exchanges were hacked, and 48% closed. Hackers manipulating a ledger that cant be corrected?
 162. If you guarantee the authenticity of the user you guarantee the integrity of the transaction.
 163. Without data confidentiality, a general purpose ledger is incomplete.
+164. By clashing with new privacy laws like the ‘right to be forgotten’ and by making it nearly impossible to resolve human error and hackers mischief efficiently, the blockchain’s immutability could end up being its own worst enemy,
 
