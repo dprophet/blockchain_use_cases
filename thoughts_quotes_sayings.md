@@ -226,3 +226,8 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 163. Without data confidentiality, a general purpose ledger is incomplete.
 164. By clashing with new privacy laws like the ‘right to be forgotten’ and by making it nearly impossible to resolve human error and hackers mischief efficiently, the blockchain’s immutability could end up being its own worst enemy.
 165. What data isn't sold to advertisers or stolen by hackers is carved up by government surveillance.
+166. The Cashless Society Is Just Another Creepy Fantasy
+  - Liberated from the burden of physical currency, consumers could make purchases from the convenience of a mobile device. Every transaction would come equipped with fraud protection, reward points and a digital record of its time and location. Comprehensive tracking could help the Internal Revenue Service reclaim billions of tax dollars lost to unreported income, like the $80 I made selling a used refrigerator on Craigslist. Drug dealers, helpless without an anonymous medium of exchange, would acquire wholesome professions.
+  - This universe is missing one of the fundamental aspects of human civilization: A world without cash is a world without money.
+  - A claim is only as good as its enforceability, and in a cashless society every transaction must pass through a financial gatekeeper.
+  - {NSN OF1KA56TTDSI <GO>}
