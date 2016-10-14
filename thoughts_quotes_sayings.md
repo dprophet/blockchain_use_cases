@@ -231,3 +231,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   - This universe is missing one of the fundamental aspects of human civilization: A world without cash is a world without money.
   - A claim is only as good as its enforceability, and in a cashless society every transaction must pass through a financial gatekeeper.
   - {NSN OF1KA56TTDSI <GO>}
+167. Whose vision will prevail, Wall Street or Silicon Valley?
+
