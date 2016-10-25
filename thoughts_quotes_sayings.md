@@ -232,4 +232,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   - A claim is only as good as its enforceability, and in a cashless society every transaction must pass through a financial gatekeeper.
   - {NSN OF1KA56TTDSI <GO>}
 167. Whose vision will prevail, Wall Street or Silicon Valley?
+168. I urge the cryptocurrency community to avoid infighting - the bigger fight to be had is for external adoption not different cryptocurrencies targeting different use cases
 
