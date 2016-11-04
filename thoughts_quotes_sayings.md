@@ -233,4 +233,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   - {NSN OF1KA56TTDSI <GO>}
 167. Whose vision will prevail, Wall Street or Silicon Valley?
 168. I urge the cryptocurrency community to avoid infighting - the bigger fight to be had is for external adoption not different cryptocurrencies targeting different use cases
-
+169. Bitcoin is independent of all nations. It may easily become a neutral medium of facilitating capital outflows (especially for China)
