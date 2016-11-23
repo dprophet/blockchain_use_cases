@@ -237,3 +237,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 170. Bitcoin companies are hiring promotional CEO's and CTO's. The investors are being mesmerized, blinding them to the challenges the technology is facing.
 171. Bitcoin Was Supposed to Change the World. What Happened?
 172. Mobile technology is more important to bank the unbanked than Blockchain.
+173. The most efficient outcome will prevail in any market.
+174. Breaking a technology or process into functionally relevant components facilitates innovation.
+175. Transactions improve when trust is managed by the system, not by mediators.
