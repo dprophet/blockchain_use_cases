@@ -235,4 +235,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 168. I urge the cryptocurrency community to avoid infighting - the bigger fight to be had is for external adoption not different cryptocurrencies targeting different use cases
 169. Bitcoin is independent of all nations. It may easily become a neutral medium of facilitating capital outflows (especially for China)
 170. Bitcoin companies are hiring promotional CEO's and CTO's. The investors are being mesmerized, blinding them to the challenges the technology is facing.
-
+171. Bitcoin Was Supposed to Change the World. What Happened?
