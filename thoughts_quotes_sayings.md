@@ -240,3 +240,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 173. The most efficient outcome will prevail in any market.
 174. Breaking a technology or process into functionally relevant components facilitates innovation.
 175. Transactions improve when trust is managed by the system, not by mediators.
+176. Blockchain will not solve poverty traps.
