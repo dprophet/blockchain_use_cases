@@ -241,4 +241,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 174. Breaking a technology or process into functionally relevant components facilitates innovation.
 175. Transactions improve when trust is managed by the system, not by mediators.
 176. Blockchain will not solve poverty traps.
-177. Blockchain may or not be successful but it is positioned with the trends in the marketplace.
+177. Blockchain may or not be successful but it is positioned with the trends in the marketplace. There is more opportunity infront of you than behind you.
