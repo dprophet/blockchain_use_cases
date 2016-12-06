@@ -243,3 +243,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 176. Blockchain will not solve poverty traps.
 177. Blockchain may or not be successful but it is positioned with the trends in the marketplace. There is more opportunity infront of you than behind you.
 178. Bitcoin will cause a slow death by papercuts as startups wake up to the possibilities offered by shunning legacy finance. M-Pesa and BitPesa has been pushing this for years. As payment wallets for the unbanked/unbankable grow grow so will the papercuts. Having a new technology that is not defined by law (unregulated) is an opportunity.
+179. Every cryptocurrency community has a value to scammers and hackers.
+
