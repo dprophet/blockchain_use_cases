@@ -248,4 +248,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 181. For the next 10 years Blockchain should only be used for social currencies, social engagements. NOT financial engagements or financial services. Once the privacy & safety features of Blockchain matures then and only then consider it for Financial Services.
 182. Every attempt to apply capital market measures will drive up the social market demands for Bitcoin. These social market reforms will lead capital market reforms. Is Bitcoin still a currency free from state intervention and large corporate interest?
 183. Unlimited financial expansion is an illusion. Although money is a legacy of the first phase of industrial capitalism, it must now be attuned to the information age and its characteristics; a key critique for the discernment regarding the future form of currencies.
-
+   - See my W3C\stories\Beyond Bitcoin - Evonomics.pdf
