@@ -246,6 +246,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 179. Every cryptocurrency community has a value to scammers and hackers.
 180. With greater advances in technology come greater risks to cyber security. The U.S. Department of Homeland Security has recently put cyber security and cyber attacks as the number one threat to America. Identity theft in hospitals is much more attractive to hackers.
 181. For the next 10 years Blockchain should only be used for social currencies, social engagements. NOT financial engagements or financial services. Once the privacy & safety features of Blockchain matures then and only then consider it for Financial Services.
-182. Every attempt to apply capital market measures will drive up the social market demands for Bitcoin. These social market reforms will lead capital market reforms. Bitcoin is still a currency free from state intervention and large corporate interests.
+182. Every attempt to apply capital market measures will drive up the social market demands for Bitcoin. These social market reforms will lead capital market reforms. Is Bitcoin still a currency free from state intervention and large corporate interest?
 183. Unlimited financial expansion is an illusion. Although money is a legacy of the first phase of industrial capitalism, it must now be attuned to the information age and its characteristics; a key critique for the discernment regarding the future form of currencies.
 
