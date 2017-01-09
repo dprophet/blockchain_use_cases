@@ -246,3 +246,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 179. Every cryptocurrency community has a value to scammers and hackers.
 180. With greater advances in technology come greater risks to cyber security. The U.S. Department of Homeland Security has recently put cyber security and cyber attacks as the number one threat to America. Identity theft in hospitals is much more attractive to hackers.
 181. For the next 10 years Blockchain should only be used for social currencies, social engagements. NOT financial engagements or financial services. Once the privacy & safety features of Blockchain matures then and only then consider it for Financial Services.
+182. Every attempt to apply capital market measures will drive up the social market demands for Bitcoin. These social market reforms will lead capital market reforms.
