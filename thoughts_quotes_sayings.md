@@ -250,3 +250,7 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 183. Unlimited financial expansion is an illusion. Although money is a legacy of the first phase of industrial capitalism, it must now be attuned to the information age and its characteristics; a key critique for the discernment regarding the future form of currencies.
    - See my W3C\stories\Beyond Bitcoin - Evonomics.pdf
 184. Distributed capitalism? Example: 3D Printing
+185. No free ride for Bitcoin.
+186. At present, virtual currencies are vulnerable to crime, given they sit outside the financial-services regulatory framework. They make it easier to move illicit funds faster and more secretly than via the traditional banking system.
+187. Blockchain is best used as a compliance technology, not a digital piggy bank.
+
