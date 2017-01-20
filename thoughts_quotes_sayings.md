@@ -253,4 +253,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 185. No free ride for Bitcoin.
 186. At present, virtual currencies are vulnerable to crime, given they sit outside the financial-services regulatory framework. They make it easier to move illicit funds faster and more secretly than via the traditional banking system.
 187. Blockchain is best used as a compliance technology, not a digital piggy bank.
+188. Most blockchain evangelists exaggerate what blockchain does, overlooking what it was designed for, and stretch it to irrelevance.
+    
 
