@@ -255,5 +255,6 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 187. Blockchain is best used as a compliance technology, not a digital piggy bank.
 188. Most blockchain evangelists exaggerate what blockchain does, overlooking what it was designed for, and stretch it to irrelevance.
 189. Globalization works against the interest of the poor. When you have nothing you have nothing to loose.
+190. These new technologies are doing more than just changing the way we live. They are changing the global economy, taking apart one industry after another, which destroys many old companies but also creates many forward-leaning new ones.
     
 
