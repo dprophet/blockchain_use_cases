@@ -261,4 +261,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 193. Bitcoiners & Blockchainers are extending their risk-taking culture to their customers.
 194. To create a true payment system, people and the world need to work together. Blockchain can't do that. Blockchain promissed are causing people to follow like bady ducks, yet the technology will never be mother duck.
 195. Focus on a road map and plan, not 1 implementation (aka Blockchain)
-
+196. Does this make sense? Blockchain is so complex that only a few mathematicians & engineers can understand them, and they require massive computing resources to operate — yet billions of dollars are invested in them.
