@@ -263,3 +263,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 195. Focus on a road map and plan, not 1 implementation (aka Blockchain)
 196. Does this make sense? Blockchain is so complex that only a few mathematicians & engineers can understand them, and they require massive computing resources to operate — yet billions of dollars are invested in them.
 197. Self-regulation can happen but only if there is full transparency. Standardize the processes and automate the technology for know-your-customer (KYC), anti-money-laundering (AML), automated suspicious transaction reports (STRS) will facilitate innovation. But what happens to privacy in an environment like this? Is there privacy in an always connected world?
+198. Ledgers have been around for 1000's of years. The true value of Blockchain/DLT isnt in the ledger, its in the automation of workflow. The Ledger is just the final resting place for the transactions execution/results.
