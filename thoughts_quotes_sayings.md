@@ -264,4 +264,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 196. Does this make sense? Blockchain is so complex that only a few mathematicians & engineers can understand them, and they require massive computing resources to operate — yet billions of dollars are invested in them.
 197. Self-regulation can happen but only if there is full transparency. Standardize the processes and automate the technology for know-your-customer (KYC), anti-money-laundering (AML), automated suspicious transaction reports (STRS) will facilitate innovation. But what happens to privacy in an environment like this? Is there privacy in an always connected world?
 198. Ledgers have been around for 1000's of years. The true value of Blockchain/DLT isnt in the ledger, its in the automation of workflow. The Ledger is just the final resting place for the transactions execution/results.
-199. Blockchain is more of a powerplay than a usable technology. The entrepreneurs are battling the large financial giants. 
+199. The possibility of bitcoin eliminating currency is only a pipe dream as the mass acceptance can come about only if an authority issues it. Virtual currency is hard to track and has no legal binding which puts its users to risk.
+200. Blockchain is more of a powerplay than a usable technology. The entrepreneurs are battling the large financial giants. 
