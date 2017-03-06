@@ -1,4 +1,4 @@
-The below is an example of using Scribble (http://www.scribble.org/) to model a shopping cart purchase. This scribble allows for role based access to business sequencing, information sequencing, and  privileged access to data/information.
+The below is an example of using Scribble (http://www.scribble.org/) to model a shopping cart purchase. This scribble allows for role based access to business sequencing, information sequencing, and if combines with CKM would provide privileged access to data/information.
 
 module ShoppingCartPurchase;
 
