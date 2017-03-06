@@ -1,0 +1,94 @@
+The below is an example of using Scribble (http://www.scribble.org/) to model a shopping cart purchase. This scribble allows for role based access to business sequencing, information sequencing, and  privileged access to data/information.
+
+module ShoppingCartPurchase;
+
+type <py> "types.IntType" from "types.py" as Int;
+type <py> "types.StringType" from "types.py" as String;
+type <py> "types.Date" from "Date.py" as Date;
+type <py> "types.TokenInitializer" from "token.py" as RandomTokenInitializer;
+type <py> "types.TokenSigned" from "token.py" as IdentitySignedToken;
+type <py> "types.Cryptogram" from "token.py" as Cryptogram;
+type <xsd> "RegulatoryThreashhold" from "regulations.xsd" as RegulatoryThreshold;
+type <xsd> "RegulatoryData" from "regulations.xsd" as RegulatoryData;
+type <xsd> "RegulatorySignedToken" from "regulations.xsd" as RegulatorySignedToken;
+type <xsd> "MerchantShoppingCart" from "merchants.xsd" as MerchantCart;
+// Tecsec CKM bindings. All Roles and objects in Scribble will have CKM crypto bindings
+type <xsd> "SecureObject" from "CKM_objects.xsd" as SecureObject;
+
+global protocol ShoppingCartPurchase(role AccountHolder as AH, role IdentityServiceProvider as IdP, role TokenProvider as Tok, role Merchant as Mer, role Regulator as Reg) {
+  rec LOOP {
+    choice at AH {
+      do SecureContents(MyCartContents(MerchantCart), AH, Mer, mySecureObject(SecureObject));
+      choice at AH {
+         MerchantServiceCall(MySignedToken(IdentitySignedToken), MyCartContents(MerchantCart)) from AH to Mer;
+      } or {
+        MerchantServiceCall(MySignedToken(RegulatorySignedToken), MyCartContents(MerchantCart)) from AH to Mer;
+      }
+    } or {
+      choice at AH {
+        // Requires regulatory signature
+        do RegulatoryServiceCall<randomData(RandomTokenInitializer), price(Int), destination(String), MySignedToken(RegulatorySignedToken)> (role AccountHolder as AH, 
+                                  role IdentityServiceProvider as IdP,  role Regulator as Reg);
+      } or {
+        // Doesnt require regulatory signature. Get an Identity signed token
+        do IdentityServiceProviderCall<randomData(String), price(Int), destination(String), MySignedToken(IdentitySignedToken)> (role AccountHolder as AH, 
+                                       role IdentityServiceProvider as IdP);
+      }
+      
+    }
+  }
+}
+    
+
+global protocol MyForwardingPattern<sig X>(role A, role B, role C) {
+    X from A to B;
+    X from B to C;
+}
+
+//Initiates a forwarding protocol of the shopping cart contents to the encryption service
+global protocol SecureShoppingCart<MyCartContents(MerchantCart)> (role Destination, role CryptoService as CryptServ, role AllRolesRequiringAccess[0..N])
+    instantiates SecureContents(MyCartContents)>;
+
+// Generic encryption prototype. Encrypts any contents and forwards to the destination. CryptoService should be user hardware!
+global protocol SecureContents<sig Contents> (role Destination, role CryptoService as CryptServ, role AllRolesRequiringAccess[0..N]) {
+  // Sends generic "Contents" to encryption service with "AllRolesRequiringAccess" requiring decryption capabilities of the contents
+  do encrypt(Contents, AllRolesRequiringAccess) from Owner to CryptServ;
+  
+  // Forwards encrypted contents to the destination
+  MyEncryptedContents from CryptServ to Destination;
+}
+
+// Checks the IdentityProvider and Regulatory signatures
+global protocol SignatureCheck<sig Arg, sig Res>
+   (role Merchant as Mer, role CryptoService as CryptServ) {
+     
+    do checkSignature(Arg) from Mer to CryptServ;
+    Res from CryptServ to Mer;
+}
+
+global protocol IdentityServiceProviderCall<randomData(RandomTokenInitializer), price(Int), destination(String), MySignedToken(RegulatorySignedToken)>
+    (role AccountHolder as AH, role IdentityServiceProvider as IdP, role Regulator as Reg) {
+     idp_requests(randomData, price, destination) from AH to IdP;    
+     IdentitySignedToken from IdP to AH;
+}
+
+// Calls a registered Regulatory authority to get their signatures for the purchase.
+// Example: Purchase of Plutonium or international value transfers 
+global protocol RegulatoryServiceCall<randomData(RandomTokenInitializer), price(Int), 
+                                      destination(String), MySignedToken(RegulatorySignedToken)>
+           (role AccountHolder as AH, role IdentityServiceProvider as IdP, role Regulator as Reg) {
+     idp_requests(randomData, price, destination) from AH to IdP;    
+     reg_request(IdentitySignedToken, price, destination) from IdP to Reg;
+     RegulatorySignedToken from Reg to AH;
+     Res from Reg to AH;
+}
+
+global protocol MerchantServiceCall<sig RegOrIdSignedToken, MyCartContents(MerchantCart)>
+    (role AccountHolder as AH, role Merchant as Mer) {
+     do SignatureCheck(RegOrIdSignedToken);
+     choice at Mer {
+       accept();
+     } or {
+       reject();
+     }
+}
