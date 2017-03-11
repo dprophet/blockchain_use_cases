@@ -267,3 +267,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 199. The possibility of bitcoin eliminating currency is only a pipe dream as the mass acceptance can come about only if an authority issues it. Virtual currency is hard to track and has no legal binding which puts its users to risk.
 200. Blockchain is more of a powerplay than a usable technology. The entrepreneurs are battling the large financial giants. 
 201. How can any Ledger thats also a piggy bank stand up against malware, viruses, trojans, weaponized "zero day" exploits, malware remote control system? It cant and your piggy bank is lost. If its just a ledger you might loose your privacy but not your bank account.
+202. DLT & Blockchain is an append-only data store. This means you can only, never change or delete.
