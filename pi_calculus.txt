@@ -53,6 +53,9 @@ Casper architecture notes
         https://drive.google.com/file/d/0B5I9qM5f_1cfSVMwd25lWUpKN3c/view?ths=true&pref=2&pli=1
         
 
+*******************************************
+rho-calculus is a formalism intended to combine the higher-order facilities of lambda calculus with the pattern matching of term rewriting
+
 *******************************************        
 
 Here's the blog entry write up that   http://blog.synereo.com/2015/03/06/social-contracts-pt-ii/
