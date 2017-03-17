@@ -270,3 +270,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 202. DLT & Blockchain is an append-only data store. This means you can only add, never change or delete.
 203. As money and value progressively move online, quantum resistance will become an increasing priority. Its not possible to forge quantum money nor its underlying information but as you get access to the underlying information, forgery becomes easy.
 204. The hype about Blockchains potential to transform financial services is way ahead of the reality, but its promise should still be taken seriously
+205. The changes that blockchain, Bitcoin and distributed ledgers are introducing are probably inevitable. Just not very fast!
+206. Blockchain, as a global piggy bank, has 1 massive side effect: Lack of regulation in a market that is largely based outside of the U.S., and the potential for market manipulation. This was the primary reason for rejecting the Bitcoin ETF.
