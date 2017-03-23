@@ -77,7 +77,7 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 64. What are the the Economics of Private Digital Currency?
 65. Bitcoin's greatest asset is its community
 66. Bitcoin in terms of tulips is using antiquated thinking.
-67. You have zero privacy anyway. Get over it.
+67. Privacy is an illusion. You have zero privacy in todays connected world. Get over it.
 68. It's not about inventing technology, but applying it.
 69. Where do nudists keep their bitcoin?
   - We have the answer.
