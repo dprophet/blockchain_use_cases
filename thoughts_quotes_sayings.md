@@ -277,3 +277,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 209. Traditional authentication and identification models do not scale well into the evolving IoT/Blockchain/Ledger space
 210. Blockchain'ers tend to incorrectly bias very heavily towards using Blockchain technology to solve a problem that is fundamentally more social than technical.
 211. Catch-22: You cant enforce rules against illegal transfers of Bitcoin/Digital Currencies unless you recognize it.
+212. Gold is the only non-fiat currency in the world. It has always been a hedge against risk.
