@@ -279,3 +279,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 211. Catch-22: You cant enforce rules against illegal transfers of Bitcoin/Digital Currencies unless you recognize it.
 212. Gold is the only non-fiat currency in the world. It has always been a hedge against risk.
 213. Blockchain: Open Source Money. Blockchains are simply distributed transaction processing engines. The technology allows data to be stored in a variety of different places while tracking the relationship between different parties to that data.
+214. Traditional banks are not meeting the needs of 21st-century consumers (Mobile Devices)
