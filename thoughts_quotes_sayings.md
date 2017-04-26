@@ -282,3 +282,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 214. Traditional banks are not meeting the needs of 21st-century consumers (Mobile Devices)
 215: Blockchain: A lack of trust is no basis for commerce. Whole proposition is built on distrust and on anonymity, shrouded in paranoia. And since blockchains are also highly hackable, disaster is frequently just round the corner. 
 216. Central banks will and must guard against e-money takeover. To compete Central banks would need to come up with options that solve the trust, security and anonymity issues associated with many forms of electronic payments. Cash currently fulfils that role, but its use is declining, so central banks need to rethink the "future form" of money.
+217. Bitcoin: A currency needs to grow with the people, not overwhelm them.
