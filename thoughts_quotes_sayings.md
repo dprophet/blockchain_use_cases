@@ -285,4 +285,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 217. Bitcoin: A currency needs to grow with the people, not overwhelm them.
 218. By using "secure companion devices" you can shift authentication from a point-in-time event to an ever-present state where we tether the person to the system. Their presence can be constantly assured. Transactions can flow smoothly because we have a high integrity data trail.
 219. Many liken the world of blockchain to the early days of the Internet, which was full of hope and promise but also adversely impacted by rapid growth. Ultimately a series of  incentives supporting the Internet’s stability and security allowed it to accelerate forward into what it is today. There is a similar trajectory for blockchain technology. A cautionary tale is advised for those looking to commercialize it to remain vigilant of potentially problematic technical issues that could significantly retard momentum.
-
+220. the cryptography behind Bitcoin is not foolproof and industry must plan for potential collapse. Failures will happen… as long as you have thought it through, you’re okay.
