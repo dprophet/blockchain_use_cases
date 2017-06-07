@@ -293,3 +293,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 225. The current debt-based market with unlimited supply and limited borders, allows for "too much quantitative easing," which is behind the problem of "too much debt and too little growth".
 226. But my guess would be that the current Bitcoin rally will start its downfall once the daily returns are more evenly balanced out between up and down days.
 227. Blockchain is particularly good at two broad types of applications: verification and efficient exchange of ownership.
+228. Robots make speedier traders but with magnified/monumental mistakes.
+229. It’s the incumbent’s job to find the innovation before the innovators find distribution (ie Wall Street firms innovation with their old business before the innovators disrupt Wall Street). Wall Street companies want things to stay the same because their leaders in most spaces. That’s just completely naive because someone who has nothing to lose will do whatever they can to build market share.
