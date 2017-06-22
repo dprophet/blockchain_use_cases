@@ -299,3 +299,5 @@ fraudulent intentions. This can be done by simply educating consumers and potent
   - Have too much cash? You’d better tell the government. If not, they’re authorizing themselves in this bill to seize not just the money you didn’t report, but ALL of your assets and bank accounts. They even go so far as to specifically name “safety deposit boxes” among the various assets that they can seize if you don’t fill out the form.
 231. Each modern stock-market crash has been precipitated by a catalyst that has little to do with finance.
 232. Too often we realize too late that the sort of thinking that once helped us survive a prehistoric moment of danger — when we were prey as much as hunter — doesn’t do much good when the danger is modern and longer term.
+233. Blockchain is limited to very niche areas. Blockchain is still a very specialized solution to a very specific set of problems (verification and efficient exchange of ownership)
+
