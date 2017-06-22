@@ -300,4 +300,4 @@ fraudulent intentions. This can be done by simply educating consumers and potent
 231. Each modern stock-market crash has been precipitated by a catalyst that has little to do with finance.
 232. Too often we realize too late that the sort of thinking that once helped us survive a prehistoric moment of danger — when we were prey as much as hunter — doesn’t do much good when the danger is modern and longer term.
 233. Blockchain is limited to very niche areas. Blockchain is still a very specialized solution to a very specific set of problems (verification and efficient exchange of ownership)
-
+234. As blockchain innovation has developed in a myriad of independent efforts, the particular terms utilized have become fractured.  A first step toward shared efforts and potential interoperability is a concise glossary of terms. Blockchain and distributed ledger discussions may use industry terms differently.  For example, the word “consensus” has a particular relevance to blockchain applications. 
