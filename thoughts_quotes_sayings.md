@@ -1,14 +1,15 @@
 *********************************
 #### Some of my favorite notes, arguments, etc around the Bitcoin and Blockchain space.
-1. Its technology.  Even if bitcoin has no value the technology behind it does
-1. Currency
-1. Depository System (wallet)
-1. Payment System
-1. Speculator instrument
-1. denationalize money
-1. Bitcoin is a medium of exchange used to purchase goods and services.
-1. Bubble or Breakthrough, its both.
-1. Currency or Cult, its both
+1. What is Bitcoin?
+   1. Its technology.  Even if bitcoin has no value the technology behind it does
+   1. Currency
+   1. Depository System (wallet)
+   1. Payment System
+   1. Speculator instrument
+   1. denationalize money
+   1. Bitcoin is a medium of exchange used to purchase goods and services.
+   1. Bubble or Breakthrough, its both.
+   1. Currency or Cult, its both
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
 1. The degree to which economists have ignored Bitcoin is surpassed only by the extent to which Bitcoin enthusiasts have ignored economics. The divide between these groups is larger than that between analog and digital.
 1. It is clear thereís a thirst for a new truly global currency and there is an increasing likelihood that governments will start regulating it.
