@@ -301,4 +301,5 @@
 1. As blockchain innovation has developed in a myriad of independent efforts, the particular terms utilized have become fractured.  A first step toward shared efforts and potential interoperability is a concise glossary of terms. Blockchain and distributed ledger discussions may use industry terms differently.  For example, the word “consensus” has a particular relevance to blockchain applications.
 1. A digital remastering: Many are concerned about the internet’s role in politics. But more worrying is the digital tsunami poised to engulf us as machine intelligence and a rising tech elite radically restructure life as we know it.
 1. Without an identity you can’t access education, financial services, healthcare, you name it. You are disenfranchised, a displaced citizen, and marginalized from society.
+1. Bitcoin & Blockchain is a bigger threat to itself than to the financial world. A lack of central authority creats a lots of in-fighting.
 
