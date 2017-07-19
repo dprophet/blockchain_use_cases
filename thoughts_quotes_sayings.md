@@ -302,4 +302,4 @@
 1. A digital remastering: Many are concerned about the internet’s role in politics. But more worrying is the digital tsunami poised to engulf us as machine intelligence and a rising tech elite radically restructure life as we know it.
 1. Without an identity you can’t access education, financial services, healthcare, you name it. You are disenfranchised, a displaced citizen, and marginalized from society.
 1. Bitcoin & Blockchain is a bigger threat to itself than to the financial world. A lack of central authority creats a lots of in-fighting that erode people’s confidence in the entire technology.
-
+1. Mobile technology was rendering companies obsolete long before blockchain came along.
