@@ -303,3 +303,4 @@
 1. Without an identity you can’t access education, financial services, healthcare, you name it. You are disenfranchised, a displaced citizen, and marginalized from society.
 1. Bitcoin & Blockchain is a bigger threat to itself than to the financial world. A lack of central authority creats a lots of in-fighting that erode people’s confidence in the entire technology.
 1. Mobile technology was rendering companies obsolete long before blockchain came along.
+1. Cryptocurrencies are a minute-by-minute marketplace. They offer no investor protection.
