@@ -304,3 +304,4 @@
 1. Bitcoin & Blockchain is a bigger threat to itself than to the financial world. A lack of central authority creats a lots of in-fighting that erode people’s confidence in the entire technology.
 1. Mobile technology was rendering companies obsolete long before blockchain came along.
 1. Cryptocurrencies are a minute-by-minute marketplace. They offer no investor protection.
+1. digital currency's potential for large-scale economic disruption outweighed the risk of a total loss.
