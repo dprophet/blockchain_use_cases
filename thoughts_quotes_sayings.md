@@ -305,3 +305,4 @@
 1. Mobile technology was rendering companies obsolete long before blockchain came along.
 1. Cryptocurrencies are a minute-by-minute marketplace. They offer no investor protection.
 1. Bitcoins potential for large-scale economic disruption outweighed the risk of it being a total loss.
+1. Bitcoin scaling issues: Until now, this particular technological movement prided itself on its decentralised, anti-authoritarian foundation: a network that was so mathematically complete it could reject the need for a governing body. But as transaction times slowed, fees soared and endless discussions about what Bitcoin was trying to achieve wore on, it became clear some leadership was needed.
