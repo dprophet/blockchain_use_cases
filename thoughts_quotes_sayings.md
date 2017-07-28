@@ -308,3 +308,5 @@
 1. Bitcoin scaling issues: Until now, this particular technological movement prided itself on its decentralised, anti-authoritarian foundation: a network that was so mathematically complete it could reject the need for a governing body. But as transaction times slowed, fees soared and endless discussions about what Bitcoin was trying to achieve wore on, it became clear some leadership was needed. 1 leader, 1 sane voice fighting tons of nonsense.
 1. Ethereum Tokens: Fake asset or security?
 1. Distributed cryptsystems are immensly complex. The demand is greater than the speed the technology can be developed. Its expectations are many factors greater than its reality.
+1. States/nations can withstand the invasion of armies, it cant withstand the invasion of ideas. States fear a future of money without boarders. That future represents a crisis for the political class.
+
