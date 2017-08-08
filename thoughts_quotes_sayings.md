@@ -312,3 +312,4 @@
 1. Given the world of hackers, ransomware, and cyber criminals, does Bitcoin bring more trouble to society then it is worth?
 1. Bitcoin and Blockchain too good to be true? It is in your best interest to question everything.
 1. Bitcoin can beat economic sanctions.
+1. If the people in these countries switch to a cryptocurrency, then not only are they more secure but their governments lose all power. 
