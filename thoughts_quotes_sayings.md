@@ -126,7 +126,7 @@
    * We believe traders value volatility as they continue to gravitate to bitcoin trading as an active 24/7 market uncorrelated with other asset class returns.
    * Since economic activity (sale of goods & services, money remittance, P2P. is intermingled with trading activity, we believe the trading activity is helping create the network capacity and monetary base to support the future economic applications of bitcoin.
 1. Bitcoin Can Open Doors of the Global Economy for 2.5 Billion People
-1. If you don't have your own currency, you basically lose a lot of sovereign powers.
+1. If you don't have your own currency, you basically lose a lot of sovereign powers. Without money, the government has no power.
 1. Americans, bankers, venture capitalists, regulatory agencies and legislators know about digital currency seems to be based on fiction and not fact.
 1. Cash: It's anonymous, invisible to the IRS, law enforcement and hackers, as well as to irritating marketers and data brokers.
 1. Distributed Economy, Linked Data, HTTP message signing.
