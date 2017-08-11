@@ -315,3 +315,4 @@
 1. If the people in these countries switch to a cryptocurrency, then not only are they more secure but their governments lose all power. 
 1. The price is in the eye of the beholder
 1. Cryptos are not only the most profitable investment in the history of mammon…  but also the most important innovation in the financial world since King Croesus minted the first gold coin in Lydia.
+1. Crypto currencies are seen as less correlated with other assets. Their prices are not as closely correlated with the other asset classes.
