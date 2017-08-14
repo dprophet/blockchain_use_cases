@@ -319,4 +319,4 @@
 1. Blueprint for a New Economy?
 1. Bitcoin price target: $4200 with a market penetration of 0.15%. If market penetration reaches 2%-3% it will push Bitcoin to $50,000.
 1. Don't confuse lack of volatility with stability
-
+1.  98% of those who think they are getting rich are actually getting screwed in the end
