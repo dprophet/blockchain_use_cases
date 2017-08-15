@@ -320,3 +320,4 @@
 1. Bitcoin price target: $4200 with a market penetration of 0.15%. If market penetration reaches 2%-3% it will push Bitcoin to $50,000.
 1. Don't confuse lack of volatility with stability
 1.  98% of those who think they are getting rich are actually getting screwed in the end
+1. Technology is the solution to human problems, and we won't run out of work till we run out of problems. Use technology to do more not just to do the same thing more cheaply.
