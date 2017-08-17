@@ -325,3 +325,4 @@
 1. Can Blockchain power a "direct democracy"? Switzerland operates in a decentralized manner. We can see the benefits of this political model when compared to a traditional centralized model as each individual entity is empowered rather than centrally governed. Will Blockchain allow people to break away from centralized entities which lack transparency and can be manipulated?
 1. Blockchain as micro data-centers? Thats BS. The entire Blockchain duplicated on everyones computers? Thats very inefficient.
 1. Bitcoin is still an under owned asset and that will continue to drive demand.
+1. Bitcoin price it not going up because it's going to work, it's going up because of speculation.
