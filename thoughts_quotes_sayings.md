@@ -326,3 +326,4 @@
 1. Blockchain as micro data-centers? Thats BS. The entire Blockchain duplicated on everyones computers? Thats very inefficient.
 1. Bitcoin is still an under owned asset and that will continue to drive demand.
 1. Bitcoin price it not going up because it's going to work, it's going up because of speculation.
+1. Even if Bitcoin Is The Rising Star, Gold Is Still King
