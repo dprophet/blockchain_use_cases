@@ -329,3 +329,4 @@
 1. Even if Bitcoin Is The Rising Star, Gold Is Still King
 1. Liquidity is traditionally a currency principle, but it limits stability. Stability is generally an asset principle (like gold for example) but limits liquidity. Can Bitcoin merge both into 1 and become a new asset class "commodency"?
 1. The demand for efficiency and transparency continues to grow. Many financial institutions are scrambling to find solutions to reduce errors, speed up transactions, and provide greater transparency.
+1. Blockchain & Bitcoin: They're never going to achieve what everybody believes is going to happen. All that's happening now is people are speculating on something that isn't going to happen.
