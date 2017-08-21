@@ -327,3 +327,4 @@
 1. Bitcoin is still an under owned asset and that will continue to drive demand.
 1. Bitcoin price it not going up because it's going to work, it's going up because of speculation.
 1. Even if Bitcoin Is The Rising Star, Gold Is Still King
+1. Liquidity is traditionally a currency principle, but it limits stability. Stability is generally an asset principle (like gold for example) but limits liquidity. Can Bitcoin merge both into 1 and become a new asset class "commodency"?
