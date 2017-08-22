@@ -331,3 +331,4 @@
 1. The demand for efficiency and transparency continues to grow. Many financial institutions are scrambling to find solutions to reduce errors, speed up transactions, and provide greater transparency.
 1. Blockchain & Bitcoin: They're never going to achieve what everybody believes is going to happen. All that's happening now is people are speculating on something that isn't going to happen.
 1. Competing cryptocurrencies are driving innovation more than central bank monopolies. Currency competition can spur broader payments innovation.
+1. In the Blockchain world, its best to not be impatienct and the first. Its about being the best and giving people something that makes a difference.
