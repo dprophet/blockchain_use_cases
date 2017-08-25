@@ -336,3 +336,4 @@
 1. Direct exposure of end users to Bitcoin is dangerous. Passive exposure is the way to go.
 1. Bitfinex (8/24/2017): It took five years to handle three bln orders on Bitfinex – in the last four months alone, we have handled more than one bln orders.
 1. Autonomous Finance - Banking is necessary, banks are not
+1. There is a direct correlation between countries with infrastructure challenges and unstable currencies. Those countries have the highest demand for access to a global "internet of money".
