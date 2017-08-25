@@ -335,3 +335,4 @@
 1. Gold is likely to disappoint those looking to hedge against recession. The most interesting variable in the gold price trends discussion is the new prominence of digital currencies like Bitcoin. Bitcoin is an interesting hybrid between a currency and commodity with a dependency on technology and internet that no other commodity or currency can match. Gold has a 21st curveball throws at it, Bitcoin.
 1. Direct exposure of end users to Bitcoin is dangerous. Passive exposure is the way to go.
 1. Bitfinex (8/24/2017): It took five years to handle three bln orders on Bitfinex – in the last four months alone, we have handled more than one bln orders.
+1. Autonomous Finance - Banking is necessary, banks are not
