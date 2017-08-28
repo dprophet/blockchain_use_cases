@@ -337,3 +337,6 @@
 1. Bitfinex (8/24/2017): It took five years to handle three bln orders on Bitfinex – in the last four months alone, we have handled more than one bln orders.
 1. Autonomous Finance - Banking is necessary, banks are not
 1. There is a direct correlation between countries with infrastructure challenges and unstable currencies. Those countries have the highest demand for access to a global "internet of money".
+1. What asset value isnt faith based?
+1. If a nation's legal tender is a means to control the people & the economy, what happens when AI's control crypto monetary policy?
+1. At some point the market will wake up and apply rational valuation techniques. Current price implies a lot of belief in Bitcoin as a long-term store of value well beyond the economic value of the transaction platform.
