@@ -340,3 +340,5 @@
 1. What asset value isnt faith based?
 1. If a nation's legal tender is a means to control the people & the economy, what happens when AI's control crypto monetary policy?
 1. At some point the market will wake up and apply rational valuation techniques. Current price implies a lot of belief in Bitcoin as a long-term store of value well beyond the economic value of the transaction platform.
+1. "bagholder is a shareholder left holding shares of worthless stocks." Cryptoassets are not stocks & they never die... so what now?
+1. Its possible the market cap of Bitcoin is too small to reach a price stability?
