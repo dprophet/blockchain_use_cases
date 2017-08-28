@@ -342,3 +342,4 @@
 1. At some point the market will wake up and apply rational valuation techniques. Current price implies a lot of belief in Bitcoin as a long-term store of value well beyond the economic value of the transaction platform.
 1. "bagholder is a shareholder left holding shares of worthless stocks." Cryptoassets are not stocks & they never die... so what now?
 1. Its possible the market cap of Bitcoin is too small to reach a price stability?
+1. Bitcoin gained 87% in single month? It is a wild, speculative bubble, and we have a couple of hundred years of financial history to tell us how those usually end.
