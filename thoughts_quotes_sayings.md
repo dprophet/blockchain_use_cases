@@ -344,3 +344,4 @@
 1. Its possible the market cap of Bitcoin is too small to reach a price stability?
 1. Bitcoin gained 87% in single month? It is a wild, speculative bubble, and we have a couple of hundred years of financial history to tell us how those usually end.
 1. Cryptocurrency and blockchain the first technology that’s "just fundamentally difficult for otherwise intelligent and highly capable people to understand."  To make sense of it first requires deciphering the political assumptions that inspire it. Bitcoin is an expression of extreme technological libertarianism.
+1. Liberating capacity of technology: Facebook to connect people, Google to make information more accessible, Uber to improve transit, Blockchain to ????
