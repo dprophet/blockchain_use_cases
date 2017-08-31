@@ -346,3 +346,4 @@
 1. Cryptocurrency and blockchain the first technology that’s "just fundamentally difficult for otherwise intelligent and highly capable people to understand."  To make sense of it first requires deciphering the political assumptions that inspire it. Bitcoin is an expression of extreme technological libertarianism.
 1. Liberating capacity of technology: Facebook to connect people, Google to make information more accessible, Uber to improve transit, Blockchain to ????
 1. Trades spend less time in the markets plumming.
+1. The more money one has, after all, the more exposed to the failures of governments and fiat currencies that one becomes. Some users can really benefit from the protective nature that cryptography affords.
