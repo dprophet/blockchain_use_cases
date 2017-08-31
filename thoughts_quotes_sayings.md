@@ -347,3 +347,4 @@
 1. Liberating capacity of technology: Facebook to connect people, Google to make information more accessible, Uber to improve transit, Blockchain to ????
 1. Trades spend less time in the markets plumming.
 1. The more money one has, after all, the more exposed to the failures of governments and fiat currencies that one becomes. Some users can really benefit from the protective nature that cryptography affords.
+1. At times of unrest, it’s better to own assets whose value isn’t tied to government guarantees.
