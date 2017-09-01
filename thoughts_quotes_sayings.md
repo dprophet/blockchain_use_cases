@@ -348,3 +348,4 @@
 1. Trades spend less time in the markets plumming.
 1. The more money one has, after all, the more exposed to the failures of governments and fiat currencies that one becomes. Some users can really benefit from the protective nature that cryptography affords.
 1. At times of unrest, it’s better to own assets whose value isn’t tied to government guarantees.
+1. The recent price growth in many cryptocurrencies is not normal and entirely unsustainable.  The very idea that a cryptocurrency – supposedly born because of a "mistrust of official money" – can be trusted after they skyrocket by  4,600+% in a year is absurd. 
