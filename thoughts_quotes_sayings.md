@@ -1,6 +1,7 @@
 *********************************
 #### Some of my favorite notes, arguments, etc around the Bitcoin and Blockchain space.
 1. What is Bitcoin?
+   1. Its a large step toward a digital economy.
    1. Its technology.  Even if bitcoin has no value the technology behind it does
    1. Currency
    1. Depository System (wallet)
