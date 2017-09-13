@@ -359,3 +359,4 @@
 1. Rise of the cryptocurrencies is likely a paradigm shift in society.
 1. ICO's Cryp-Toeing Around Securities Regulation?
 1. Bitcoin prices go down. Investors are just trading the news. Bitcoin's Price Will Move With China News.
+1. Blockchain Terminology Standards: It’s difficult to have clear communication when different parties are using different terms for the same thing, or when 1 term has different meaning to different parties.
