@@ -358,4 +358,4 @@
 1. Cryptocurrencies: Birth of an Asset Class? Stocks are the best investment game in town. But they haven’t always been that way. As a new asset class, stocks attracted a lot of speculative capital. It was only after they went through this original mania phase that markets evolved. That included things like government regulations, but also exchange rules themselves to govern stock trading and to provide the most accurate pricing information possible. Any new asset class will likely go through this phase, as early investors start getting rewarded, attracting less knowledgeable speculative investors in the first place. That seems to be the case today with cryptocurrencies.
 1. Rise of the cryptocurrencies is likely a paradigm shift in society.
 1. ICO's Cryp-Toeing Around Securities Regulation?
-1. Bitcoin prices go down. Investors are just trading the news.
+1. Bitcoin prices go down. Investors are just trading the news. Bitcoin's Price Will Move With China News.
