@@ -360,3 +360,4 @@
 1. ICO's Cryp-Toeing Around Securities Regulation?
 1. Bitcoin prices go down. Investors are just trading the news. Bitcoin's Price Will Move With China News.
 1. Blockchain Terminology Standards: It’s difficult to have clear communication when different parties are using different terms for the same thing, or when 1 term has different meaning to different parties.
+1. The sole use of money is to circulate goods. Bitcoin doesnt do that. Its more looked at as an alternative store of wealth.
