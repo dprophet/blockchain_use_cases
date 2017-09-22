@@ -365,3 +365,4 @@
 1. The demand for alternative, privately issued money has grown in concert with government mismanagement of the money it issues.  Since 1971, the dollar has had no definition, or no golden anchor.
 1. Bitcoin ledger is immutable. Transactions cant be reversed. Immutable theft? Why is that a good idea?
 1. Religion of Bitcoin. Bitcoin & Blockchain are more of a religion vs a practicality.
+1. Bitcoin May Have Real Value, as a Religion?
