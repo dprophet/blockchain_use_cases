@@ -368,3 +368,4 @@
 1. Bitcoin May Have Real Value, as a Religion?
 1. Dual demand on a single supply. Meaning each market vertical can put a new demand on Bitcoin. This will cause sustained price increases.
 1. Markets price assets based on future expectations. Cryptoasset serves as a means of exchange, store of value, and unit of account. each cryptoasset serves as a currency in the protocol economy it supports. What kind of adoption a cryptonetwork will have to achieve to justify certain asset prices.
+1. Cryptocurrency may make it tougher to access consumer information. Consumer attention and information may cost more. (pay the consumer to market them, not pay the marketing platform)
