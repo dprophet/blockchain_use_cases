@@ -369,4 +369,5 @@
 1. Dual demand on a single supply. Meaning each market vertical can put a new demand on Bitcoin. This will cause sustained price increases.
 1. Markets price assets based on future expectations. Cryptoasset serves as a means of exchange, store of value, and unit of account. each cryptoasset serves as a currency in the protocol economy it supports. What kind of adoption a cryptonetwork will have to achieve to justify certain asset prices.
 1. Cryptocurrency may make it tougher to access consumer information. Consumer attention and information may cost more. (pay the consumer to market them, not pay the marketing platform)
-1. Should we dumb down tech? Are tech firms too smart? Some people seem to think so, and their proposed restrictions on tech companies could hurt customers. The race to develop knowledge leads companies to create great products. 
+1. Should we dumb down tech? Are tech firms too smart? Some people seem to think so, and their proposed restrictions on tech companies could hurt customers. The race to develop knowledge leads companies to create great products. Data analysis does not provide vision for new ways of thinking. Innovations like the iPhone, blockchain, and Ethereum came from people seeing beyond data.
+
