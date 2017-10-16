@@ -392,4 +392,5 @@
 1. ICO: Imagine that a friend is building a casino and asks you to invest. In exchange, you get chips that can be used at the casino’s tables once it’s finished. Now imagine that the value of the chips isn’t fixed, and will instead fluctuate depending on the popularity of the casino, the number of other gamblers and the regulatory environment for casinos. Oh, and instead of a friend, imagine it’s a stranger on the internet who might be using a fake name, who might not actually know how to build a casino, and whom you probably can’t sue for fraud if he steals your money and uses it to buy a Porsche instead. That’s an ICO.
 1. There have been at least three dozen heists of cryptocurrency exchanges since 2011 and more than 980,000 bitcoins stolen, worth about $4 billion.
 1. Blockchain/DLT as a way to assure a sequence of events?
+1. Blockchains are groupings of data maintained by a disperse network of computers rather than a centralized mainframe. Data is secured through encrypted 'blocks' and accessed via a peer-to-peer network.
 
