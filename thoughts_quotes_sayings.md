@@ -393,4 +393,11 @@
 1. There have been at least three dozen heists of cryptocurrency exchanges since 2011 and more than 980,000 bitcoins stolen, worth about $4 billion.
 1. Blockchain/DLT as a way to assure a sequence of events?
 1. Blockchains are groupings of data maintained by a disperse network of computers rather than a centralized mainframe. Data is secured through encrypted 'blocks' and accessed via a peer-to-peer network.
+1. Questions bitcoin bulls need to answer now
+   1. Bitcoin accounts pay no interest.
+   1. Why do I need digital currencies to protect me against the "runaway inflation" of traditional, so-called "fiat" currencies, when after eight years of unprecedented monetary expansion the inflation rate is still just 2.2%?
+   1. How can bitcoins be the currency of the future when their supply cannot be expanded to keep pace with growth in economic activity?
+   1. Bitcoin bulls are frustrated that the rest of us just don't “get it." Naturally, that's because we're all "losers" and ignorami who don't know our hard wallets from our public keys from our gas limits (if you can imagine). But doesn't a universal currency depend on being pretty easy for everyone to understand? Isn't it going to be a problem if your currency system is too clever for the rest of us?
+   1. One of the arguments for digital currencies is that they are outside the scope of governments and banking regulations. What happens to digital currencies when one is used to finance the next 9/11? 
+   1. Yes, digital currencies could in theory save us money on banking fees. But how big are these really? 0.5% of deposits are fees. Bitcoin exchanges cost a lot more than 0.5%.
 
