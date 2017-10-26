@@ -402,4 +402,8 @@
    1. One of the arguments for digital currencies is that they are outside the scope of governments and banking regulations. What happens to digital currencies when one is used to finance the next 9/11? 
    1. Yes, digital currencies could in theory save us money on banking fees. But how big are these really? 0.5% of deposits are fees. Bitcoin exchanges cost a lot more than 0.5%.
 1. Overcoming limits and improving the flow of information is an inevitable trend of the industry. Disrupting almost every industrial sector through new digital technologies
-   
+1. Bitcoin: nothing more than loyalty points for extravagant computer games with absolutely zero intrinsic value
+1. Blackberry: Crash was linked to its fundamentals, strategic positioning and the competitive landscape. Is Bitcoin in this precrash scenario?
+1. Usually bigger companies have advantages that lead to better products.
+1. Successful criminals exploit flaws in the legal system, successful hackers exploit flaws in systems and software, all create events in ways that we never anticipated. That’s why they’re successful. They think in ways we previously hadn’t. A group exploits the system as it’s built, and then we change the system.
+1. The discipline we need in trading, investing, and as an engineer is to never get too comfortable.
