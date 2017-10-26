@@ -409,3 +409,4 @@
 1. The discipline we need in trading, investing, and as an engineer is to never get too comfortable.
 1. Can you legally protect a bitcoin transaction? There is no centralized authority, whether a bank, regulator, or otherwise, involved in a bitcoin transaction. If you want to protect use a legally bound escrow agent.
 1. Cryptocurrencies: Real money on software platform?
+1. Is an ICO an investment or a donation?
