@@ -410,3 +410,4 @@
 1. Can you legally protect a bitcoin transaction? There is no centralized authority, whether a bank, regulator, or otherwise, involved in a bitcoin transaction. If you want to protect use a legally bound escrow agent.
 1. Cryptocurrencies: Real money on software platform?
 1. Is an ICO an investment or a donation?
+1. It's not just speculators driving the evolution of currency, there's plenty of demand for decentralised payment systems and peer-to-peer interactions that cut out traditional banking channels
