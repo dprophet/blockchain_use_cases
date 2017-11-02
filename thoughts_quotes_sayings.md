@@ -414,3 +414,4 @@
 1. It's not just speculators driving the evolution of currency, there's plenty of demand for decentralised payment systems and peer-to-peer interactions that cut out traditional banking channels
 1. How Many Barrels Of Oil Are Needed To Mine One Bitcoin? Answer: 20. Thats 40 times greater than that required to power the entire Visa network.
 1. Inefficiency will kill your team faster than anything else? What about Blockchain, its very inefficient.
+1. Digiconomist = Cryptocurrency analyst?
