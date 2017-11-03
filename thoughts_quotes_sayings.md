@@ -415,3 +415,4 @@
 1. How Many Barrels Of Oil Are Needed To Mine One Bitcoin? Answer: 20. Thats 40 times greater than that required to power the entire Visa network.
 1. Inefficiency will kill your team faster than anything else? What about Blockchain, its very inefficient.
 1. Digiconomist = Cryptocurrency analyst?
+1. PayPal Conquered The Globe, But Bitcoin Could Steal Its Throne
