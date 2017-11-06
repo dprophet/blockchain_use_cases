@@ -419,3 +419,4 @@
 1. PayPal Conquered The Globe, But Bitcoin Could Steal Its Throne
 1. Bitcoin represents a new paradigm shift. It is complex and very versatile. During its short existence, crisis situations and geopolitical events have prompted investors to use Bitcoin as a safe-haven currency, or as a foreign exchange hedge. Economists and financial experts might wish to put forward brand new economic theories that would better explain Bitcoin’s amazing price trajectory.
 1. Accelerating digital currency research and development is important to promote the economy   
+1. Blockchain: A digital platform secured by cryptography
