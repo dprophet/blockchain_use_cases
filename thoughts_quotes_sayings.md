@@ -31,6 +31,7 @@
    1. Bubble, Breakthrough, or Bonanza.
    1. Currency or Cult, its both
    1. Bitcoin is an index to launder money
+   1. Legal Tender or Monopoly Money
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
 1. The degree to which economists have ignored Bitcoin is surpassed only by the extent to which Bitcoin enthusiasts have ignored economics. The divide between these groups is larger than that between analog and digital.
