@@ -421,3 +421,4 @@
 1. Accelerating digital currency research and development is important to promote the economy   
 1. Blockchain: A digital platform secured by cryptography
 1. Make the new tech available to all to ensure that it's not just the "high priests" of industry that will shape the future.
+1. Its not about Blockchain. Its about becoming a "Smart Nation" by harnessing the power of technology and networks to improve the economy and society.
