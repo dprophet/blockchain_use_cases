@@ -424,4 +424,5 @@
 1. Make the new tech available to all to ensure that it's not just the "high priests" of industry that will shape the future.
 1. Its not about Blockchain. Its about becoming a "Smart Nation" by harnessing the power of technology and networks to improve the economy and society.
 1. $300 Million plus of Ether was lost due to a bug in the multisig implimentation in ethereum, which begs the question, I thought blockchains were 'secure' what dose security in blockchain mean? Can they be secure?
-1. Millennials might prefer Bitcoin to boring old bonds, but I wonder what they think of Ethereum after someone accidentally destroyed $300 million worth in various wallets by monkeying around with the code. I guess in a sense crypto is like bearer bonds. If you lose your wallet or briefcase, you're out of luck
+1. Millennials might prefer Bitcoin to boring old bonds, but I wonder what they think of Ethereum after someone accidentally destroyed $300 million worth in various wallets by monkeying around with the code. I guess in a sense crypto is like bearer bonds. If you lose your wallet or briefcase, you're out of luck.
+1. Bitcoin represents technology and evolution.
