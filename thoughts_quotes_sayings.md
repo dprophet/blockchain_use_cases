@@ -430,3 +430,5 @@
 1. Bitcoin represents technology and evolution.
 1. Will blockchain accelerate trade flows?
 1. Cyber wealth vs real wealth.
+1. Technological disruption is shattering all those truisms we've held on to for so long: Social media has cast new meaning on the phrase, "A stranger is just a friend you’ve never met."
+
