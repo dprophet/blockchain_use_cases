@@ -429,3 +429,4 @@
 1. Millennials might prefer Bitcoin to boring old bonds, but I wonder what they think of Ethereum after someone accidentally destroyed $300 million worth in various wallets by monkeying around with the code. I guess in a sense crypto is like bearer bonds. If you lose your wallet or briefcase, you're out of luck.
 1. Bitcoin represents technology and evolution.
 1. Will blockchain accelerate trade flows?
+1. Cyber wealth vs real wealth.
