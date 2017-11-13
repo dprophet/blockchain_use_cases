@@ -432,4 +432,4 @@
 1. Will blockchain accelerate trade flows?
 1. Cyber wealth vs real wealth.
 1. Technological disruption is shattering all those truisms we've held on to for so long: Social media has cast new meaning on the phrase, "A stranger is just a friend you’ve never met."
-
+1. Bitcoin price will continue to go up as long as it gains new believers. What matters for bitcoin is that it's still accumulating fresh believers every month at a faster rate than the volatility causes former adherents to turn their back on it.
