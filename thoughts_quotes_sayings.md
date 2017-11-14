@@ -436,3 +436,4 @@
 1. Can Blockchain/DLT be used to create the Alt-Market vs Stock Market? Decentralized networks created on-demand?
 1. Traders are always watching for signs that a market is overdone. They will exit Bitcoin for the next great thing.
 1. Your attention has value, personal cryptocurrency will advertise it. Cryptocurrencies open the door to a world where everyone has their price.
+1. When investing in Bitcoin dont think like a day trader, think like a believer. Buy, hold, and pray.
