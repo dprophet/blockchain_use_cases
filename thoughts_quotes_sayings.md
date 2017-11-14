@@ -25,7 +25,7 @@
    1. Currency
    1. Depository System (wallet)
    1. Payment System
-   1. Speculator instrument
+   1. Bitcoin is speculative investment, not currency
    1. denationalize money
    1. Bitcoin is a medium of exchange used to purchase goods and services.
    1. Bubble, Breakthrough, or Bonanza.
