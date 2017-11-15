@@ -439,3 +439,4 @@
 1. Your attention has value, personal cryptocurrency will advertise it. Cryptocurrencies open the door to a world where everyone has their price.
 1. When investing in Bitcoin dont think like a day trader, think like a believer. Buy, hold, and pray.
 1. Blockchain ID system enables consumers to control and share their personal information without going through centralized systems that create "honeypots" of valuable information that are vulnerable to hackers.
+1. Old school market rules don't apply to new cryptocurrencies
