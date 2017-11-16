@@ -440,3 +440,4 @@
 1. When investing in Bitcoin dont think like a day trader, think like a believer. Buy, hold, and pray.
 1. Blockchain ID system enables consumers to control and share their personal information without going through centralized systems that create "honeypots" of valuable information that are vulnerable to hackers.
 1. Old school market rules don't apply to new cryptocurrencies
+1. Tap the data its parent AT&T has built by tracking the habits of more than 100 million television, internet and wireless customers.
