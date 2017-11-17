@@ -444,3 +444,4 @@
 1. Tap the data its parent AT&T has built by tracking the habits of more than 100 million television, internet and wireless customers.
 1. Bitcoins are the way to interact with the all digital economy.
 1. It’s time to admit Bitcoin is more than just a bubble.
+1. The success of a crypto project is inversly proportional to its ambition.
