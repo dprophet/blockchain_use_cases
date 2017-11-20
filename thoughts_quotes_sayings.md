@@ -37,7 +37,7 @@
    1. bitcoin is the world's best performing asset classes in recent years, also its the most volatile
    1. Bitcoin a Distraction from More Important Risks?
    1. Modern version of gold.
-   1. Bitcoin is a crisis currency in failing economies. When there is instability in fiat people flock to it.
+   1. Bitcoin is a crisis currency in failing economies & hot spots. When there is instability in fiat people flock to it.
    1. A computerized solution supported by a very powerful technological base
    1. Decentralizing online marketplaces.
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
