@@ -458,3 +458,4 @@
 1. We live in a world where pieces of code are worth thousands of dollars
 1. Digital payments are making financial services more affordable
 1. Could blockchain revolutionise the energy supply chain?
+1. “crowdsourced” or “direct-to-home” terrorism, presently practised by the Islamic State (IS), was likely to dominate the rest of the 21st century.
