@@ -456,3 +456,4 @@
 1. 30% of bank jobs projected to face elimination due to disruptive technologies by 2025.
 1. Its about digital transformation, App economy, not a backoffice ledger.
 1. We live in a world where pieces of code are worth thousands of dollars
+1. Digital payments are making financial services more affordable
