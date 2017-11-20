@@ -38,6 +38,7 @@
    1. Bitcoin a Distraction from More Important Risks?
    1. Modern version of gold.
    1. Bitcoin is a crisis currency. When there is instability in fiat people flock to it.
+   1. A computerized solution supported by a very powerful technological base
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
 1. The degree to which economists have ignored Bitcoin is surpassed only by the extent to which Bitcoin enthusiasts have ignored economics. The divide between these groups is larger than that between analog and digital.
@@ -449,3 +450,4 @@
 1. Bitcoin keeps breaking records & ignoring the haters
 1. Private Equity and Venture Forum that some entrepreneurs had worked with lawyers to create legal structure so that their funds could be digitally "tokenised", giving themselves and other investors a partial exit while raising more financing through token sales.
 1. prioritising profits while ignoring investor needs
+1. asset managers should develop products that clients need rather than ones that generate the most money for fund houses
