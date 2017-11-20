@@ -451,3 +451,4 @@
 1. Private Equity and Venture Forum that some entrepreneurs had worked with lawyers to create legal structure so that their funds could be digitally "tokenised", giving themselves and other investors a partial exit while raising more financing through token sales.
 1. prioritising profits while ignoring investor needs
 1. asset managers should develop products that clients need rather than ones that generate the most money for fund houses
+1. All the fees are hidden through the crypto-mechanisms
