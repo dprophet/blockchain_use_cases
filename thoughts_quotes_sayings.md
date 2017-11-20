@@ -445,3 +445,7 @@
 1. Bitcoins are the way to interact with the all digital economy.
 1. It’s time to admit Bitcoin is more than just a bubble.
 1. The success of a crypto project is inversly proportional to its ambition.
+1. Bitcoin Surges Above $8,000 As Stupidity Goes Parabolic
+1. Bitcoin keeps breaking records & ignoring the haters
+1. Private Equity and Venture Forum that some entrepreneurs had worked with lawyers to create legal structure so that their funds could be digitally "tokenised", giving themselves and other investors a partial exit while raising more financing through token sales.
+1. prioritising profits while ignoring investor needs
