@@ -461,3 +461,4 @@
 1. Could blockchain revolutionise the energy supply chain?
 1. “crowdsourced” or “direct-to-home” terrorism, presently practised by the Islamic State (IS), was likely to dominate the rest of the 21st century.
 1. Modern version of Central Banks shutting down wire transfers: Tether developers froze the loot in place before the hackers could cash out. They did this by writing new software that blacklisted the address where the loot was held, and convinced all the exchanges who use Tether to run the new software. This means that the looted funds can’t be moved or liquidated. The move amounted to a hard fork of the Omni Layer protocol, which Tether is built on. For extra safety, Tether says it won’t honor redemptions of any tokens from the stolen funds.
+1. hodl: Bitcoin typo - Buy and hold on for dear life.
