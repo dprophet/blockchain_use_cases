@@ -463,3 +463,4 @@
 1. Modern version of Central Banks shutting down wire transfers: Tether developers froze the loot in place before the hackers could cash out. They did this by writing new software that blacklisted the address where the loot was held, and convinced all the exchanges who use Tether to run the new software. This means that the looted funds can’t be moved or liquidated. The move amounted to a hard fork of the Omni Layer protocol, which Tether is built on. For extra safety, Tether says it won’t honor redemptions of any tokens from the stolen funds.
 1. hodl: Bitcoin typo - Buy and hold on for dear life. Bitcoin is everyone’s favourite hodl.
 1. Bitcoin Is 15 Times More Expensive to Keep Safe Than Gold. Because Coinbase and others charge a large fee.
+1. Bitcoin eliminates intermediary fees and time constraints imposed by third-party institutions
