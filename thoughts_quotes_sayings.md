@@ -464,3 +464,4 @@
 1. hodl: Bitcoin typo - Buy and hold on for dear life. Bitcoin is everyone’s favourite hodl.
 1. Bitcoin Is 15 Times More Expensive to Keep Safe Than Gold. Because Coinbase and others charge a large fee.
 1. Bitcoin eliminates intermediary fees and time constraints imposed by third-party institutions
+1. 1 Trillion Market Cap: A statistically meaningless, but psychologically daunting number. Will be be Bitcoin or Apple Stock.
