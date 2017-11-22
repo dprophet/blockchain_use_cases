@@ -465,3 +465,4 @@
 1. Bitcoin Is 15 Times More Expensive to Keep Safe Than Gold. Because Coinbase and others charge a large fee.
 1. Bitcoin eliminates intermediary fees and time constraints imposed by third-party institutions
 1. 1 Trillion Market Cap: A statistically meaningless, but psychologically daunting number. Will be be Bitcoin or Apple Stock.
+1. There is a massive tech tsunami engulfing the world. Mapping the global Digital Economy and How this is affecting Governments and Financial institutions. Businesses need to learn now to cope with it.
