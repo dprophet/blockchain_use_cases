@@ -481,3 +481,4 @@
 1. There are hardly any examples of money (including gold) that have ever worked without the backing of a central authority or a sovereign.
 1. The tales of lost fortunes are shifting from hidden treasure chests to misplaced hard drives and forgotten keys.
 1. The more valuable these cryptocurrencies become, the higher the likelihood of theft.
+1. Technology can remove barriers to economic participation
