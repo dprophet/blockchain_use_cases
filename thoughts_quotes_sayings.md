@@ -471,3 +471,4 @@
 1. Don’t Dismiss Bitcoin While Still Pondering Value
 1. With AI it is wrong to conflate the use of such techniques in asset selection, portfolio construction and trading. Those are three separate disciplines which require very different quantitative tools and data, and Enigma, like most FinTech firms and Funds in Equities, is focused on asset selection using their alpha generation tools.  To be clear, finding alpha is extremely important to funds and investors, but my point is that the tools are different and so is the data.
 1. ICO problem = how to regulate unlisted firms
+1. Wealth effect will fuel bitcoin spending.
