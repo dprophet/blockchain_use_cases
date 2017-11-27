@@ -475,4 +475,4 @@
 1. ICO problem = how to regulate unlisted firms
 1. Wealth effect will fuel bitcoin spending.
 1. Bitcoin is always worth more where demand is intense and supply limited. 
-   
+1. Blockchain is powering a sharing community. As consumers see more of a merit in borrowing both goods and services rather than owning them, traditional businesses now find themselves in a unique position of having to find a way of countering the disruption being caused in various industries.
