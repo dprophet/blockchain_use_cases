@@ -480,3 +480,4 @@
 1. Blockchain is powering a sharing community. As consumers see more of a merit in borrowing both goods and services rather than owning them, traditional businesses now find themselves in a unique position of having to find a way of countering the disruption being caused in various industries.
 1. There are hardly any examples of money (including gold) that have ever worked without the backing of a central authority or a sovereign.
 1. The tales of lost fortunes are shifting from hidden treasure chests to misplaced hard drives and forgotten keys.
+1. The more valuable these cryptocurrencies become, the higher the likelihood of theft.
