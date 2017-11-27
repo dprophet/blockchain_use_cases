@@ -44,6 +44,7 @@
    1. Potentially transformative technology
    1. An economic miracle accessible to anyone with a mobile device.
    1. Bitcoin is just another Investment Bubble
+   1. An encouragement to take risks
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
