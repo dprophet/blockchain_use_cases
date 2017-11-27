@@ -156,6 +156,7 @@
 1. New payment industry entrants seek to capitalize on technology opportunities.
 1. Investing and trading bitcoin as one of the first major applications of crypto currency and believe increased investment and trading activity is helping create the payment network infrastructure and monetary base that will facilitate increased economic activity in the future.
    * We believe investors value bitcoin based as a weighted average of potential outcomes that can range between $0/bitcoin to $1,000,000/bitcoin
+   * Bitcoin is creating a 'sell the news' type of environment.
    * This broad set of outcomes means any small change in perception regarding the likelihood of the best case outcome drives significant changes to current valuation.
    * This would imply volatility in the price of bitcoin may not go away anytime soon, as the potential for bitcoin is being constantly measured by the market in light of rapid technology development and unpredictable regulatory constraints.
    * We believe traders value volatility as they continue to gravitate to bitcoin trading as an active 24/7 market uncorrelated with other asset class returns.
