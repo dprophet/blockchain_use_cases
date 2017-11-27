@@ -41,6 +41,7 @@
    1. A computerized solution supported by a very powerful technological base
    1. Decentralizing online marketplaces.
    1. Bitcoin is a response to a breakdown in trust at Government levels. Its time to give technology a try.
+   1. Potentially transformative technology
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
