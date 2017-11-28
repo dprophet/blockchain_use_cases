@@ -487,3 +487,4 @@
 1. Technology can remove barriers to economic participation
 1. First witnessed about a decade ago, digital identity theft has since then spread like wildfire. The alarming rates at which this crime expands is clearly visible considering U.S. in the year 2016 alone has 15 million victims.
 1. Bitcoin has redefined money and created the hitherto non-existent concept of a scarce digital asset. It’s hard to hold it to the standards of "normal" assets.
+1. The virtual world - Investors are becoming desperate to see value for the hard-earned money that they are saving towards retirement. - Fund managers are struggling to find alpha, and there are increasing instances of clients who are turning towards self-investing as a way to find growth.
