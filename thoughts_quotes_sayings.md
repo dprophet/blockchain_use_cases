@@ -492,3 +492,4 @@
 1. Bitcoin has redefined money and created the hitherto non-existent concept of a scarce digital asset. It’s hard to hold it to the standards of "normal" assets.
 1. The virtual world - Investors are becoming desperate to see value for the hard-earned money that they are saving towards retirement. - Fund managers are struggling to find alpha, and there are increasing instances of clients who are turning towards self-investing as a way to find growth.
 1. What most people do on the stock market is literally an allocation of savings. The stock market isn’t where you get rich and it isn’t where people should think of themselves as "investors". One of the main reasons why millions of people jump on investment manias and get crushed by them is because of a simple Fear Of Missing Out.
+1. Why does Bitcoin keep growing?  Because it's time to separate money and state.
