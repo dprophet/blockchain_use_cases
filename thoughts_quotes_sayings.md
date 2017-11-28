@@ -50,7 +50,7 @@
    1. An easy way to move wealth across international borders.
    1. Its not a short-term phenomenon, its here to stay.
    1. A pathological phenomenon.
-   1. Bitcoins adoption becomes self reinforcing and makes every future transaction more valuable.
+   1. Bitcoin is a social network. See Metcalfe's law. Basically Bitcoins adoption becomes self reinforcing and makes every future transaction more valuable.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
