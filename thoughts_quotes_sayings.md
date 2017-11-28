@@ -45,7 +45,9 @@
    1. An economic miracle accessible to anyone with a mobile device.
    1. Bitcoin is just another Investment Bubble
    1. An encouragement to take risks
-   1. Bitcoins "true" value cannot be determined using traditional financial analytical techniques.
+   1. A financial asset whoes "true" value cannot be determined using traditional financial analytical techniques. Cryptocurrencies don't have any real precedent from which to establish benchmarks. That makes them hard to value.
+   1. A technology which can cause a monumental shift in the way we view economies.
+   1. An easy way to move wealth across international borders.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -483,3 +485,5 @@
 1. The tales of lost fortunes are shifting from hidden treasure chests to misplaced hard drives and forgotten keys.
 1. The more valuable these cryptocurrencies become, the higher the likelihood of theft.
 1. Technology can remove barriers to economic participation
+1. First witnessed about a decade ago, digital identity theft has since then spread like wildfire. The alarming rates at which this crime expands is clearly visible considering U.S. in the year 2016 alone has 15 million victims.
+1. Bitcoin has redefined money and created the hitherto non-existent concept of a scarce digital asset. It’s hard to hold it to the standards of "normal" assets.
