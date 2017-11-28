@@ -50,6 +50,7 @@
    1. An easy way to move wealth across international borders.
    1. Its not a short-term phenomenon, its here to stay.
    1. A pathological phenomenon.
+   1. Bitcoins adoption becomes self reinforcing and makes every future transaction more valuable.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -490,3 +491,4 @@
 1. First witnessed about a decade ago, digital identity theft has since then spread like wildfire. The alarming rates at which this crime expands is clearly visible considering U.S. in the year 2016 alone has 15 million victims.
 1. Bitcoin has redefined money and created the hitherto non-existent concept of a scarce digital asset. It’s hard to hold it to the standards of "normal" assets.
 1. The virtual world - Investors are becoming desperate to see value for the hard-earned money that they are saving towards retirement. - Fund managers are struggling to find alpha, and there are increasing instances of clients who are turning towards self-investing as a way to find growth.
+1. What most people do on the stock market is literally an allocation of savings. The stock market isn’t where you get rich and it isn’t where people should think of themselves as "investors". One of the main reasons why millions of people jump on investment manias and get crushed by them is because of a simple Fear Of Missing Out.
