@@ -48,6 +48,7 @@
    1. A financial asset whoes "true" value cannot be determined using traditional financial analytical techniques. Cryptocurrencies don't have any real precedent from which to establish benchmarks. That makes them hard to value.
    1. A technology which can cause a monumental shift in the way we view economies.
    1. An easy way to move wealth across international borders.
+   1. Its not a short-term phenomenon, its here to stay.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
