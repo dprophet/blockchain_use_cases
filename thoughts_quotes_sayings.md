@@ -51,6 +51,9 @@
    1. Its not a short-term phenomenon, its here to stay.
    1. A pathological phenomenon.
    1. Bitcoin is a social network. See Metcalfe's law. Basically Bitcoins adoption becomes self reinforcing and makes every future transaction more valuable.
+   1. A separation of state and money.
+   1. It is a store of value that can't be censored and is resistant to seizure.
+   1. Crypto Cocaine?
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -492,4 +495,4 @@
 1. Bitcoin has redefined money and created the hitherto non-existent concept of a scarce digital asset. It’s hard to hold it to the standards of "normal" assets.
 1. The virtual world - Investors are becoming desperate to see value for the hard-earned money that they are saving towards retirement. - Fund managers are struggling to find alpha, and there are increasing instances of clients who are turning towards self-investing as a way to find growth.
 1. What most people do on the stock market is literally an allocation of savings. The stock market isn’t where you get rich and it isn’t where people should think of themselves as "investors". One of the main reasons why millions of people jump on investment manias and get crushed by them is because of a simple Fear Of Missing Out.
-1. Why does Bitcoin keep growing?  Because it's time to separate money and state.
+1. Why does Bitcoin keep growing?  Because it's time to separate money and state. The current Bitcoin price bubble is only a surprise to those who are new to the industry.
