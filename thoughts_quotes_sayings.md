@@ -501,3 +501,5 @@
 1. What most people do on the stock market is literally an allocation of savings. The stock market isn’t where you get rich and it isn’t where people should think of themselves as "investors". One of the main reasons why millions of people jump on investment manias and get crushed by them is because of a simple Fear Of Missing Out.
 1. Why does Bitcoin keep growing?  Because it's time to separate money and state. The current Bitcoin price bubble is only a surprise to those who are new to the industry.
 1. Bitcoin is successful only because of its potential for circumvention and lack of oversight.
+1. Despite many legendary names in the investment market cautioning investors to stay away from it, Bitcoin is witnessing huge demand.
+   
