@@ -54,6 +54,7 @@
    1. A separation of state and money.
    1. It is a store of value that can't be censored and is resistant to seizure.
    1. Crypto Cocaine? "greater fool" theory of investing?
+   1. Any sufficiently advanced technology is indistinguishable from magic.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
