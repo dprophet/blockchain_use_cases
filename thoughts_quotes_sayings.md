@@ -505,3 +505,4 @@
 1. Despite many legendary names in the investment market cautioning investors to stay away from it, Bitcoin is witnessing huge demand.
 1. Whatever your thoughts on social media, you have to admit that it has done an incredible job of getting people to air what used to be personal information online. At this point, most of us are already pretty comfortable relinquishing our privacy to businesses and the government. We hardly think twice when clicking on those buttons that say “Agree” or “I Accept the Terms.”
    * The question is, will this go both ways? Will governments and corporations be willing to become more transparent in exchange for the benefits that blockchain provides?
+1. The growing conflict between man and machine poses capitalism’s ultimate challenge.
