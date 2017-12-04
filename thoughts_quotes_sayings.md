@@ -512,3 +512,4 @@
 1. Buy the rumon, sell the news.
 1. If you dont have your own private keys you dont own any Bitcoin.
 1. Prices will only rise if the enthusiasm of buyers outweighs the fear of sellers. 
+1. Crypto Collapse
