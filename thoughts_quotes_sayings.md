@@ -511,3 +511,4 @@
 1. As Bitcoin grows to trade above $11,000 for a third time in a week, entry-level users across the globe have begun to experiment with both trading and ownership. Additional publicity in the mainstream press has contributed to the wave of adoption, with multiple countries posting record highs on Localbitcoins.
 1. Buy the rumon, sell the news.
 1. If you dont have your own private keys you dont own any Bitcoin.
+1. Prices will only rise if the enthusiasm of buyers outweighs the fear of sellers. 
