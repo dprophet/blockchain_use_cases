@@ -510,3 +510,4 @@
 1. Gold has performed abysmally since (it topped out) 2011. The money supply soared, and Gold tanked, not exactly a good sign. In doing the opposite of what was expected from it, Gold cemented the view that it was an ancient relic that has no place in today’s monetary system. “velocity of the money supply” which all but stalled after 2011.
 1. As Bitcoin grows to trade above $11,000 for a third time in a week, entry-level users across the globe have begun to experiment with both trading and ownership. Additional publicity in the mainstream press has contributed to the wave of adoption, with multiple countries posting record highs on Localbitcoins.
 1. Buy the rumon, sell the news.
+1. If you dont have your own private keys you dont own any Bitcoin.
