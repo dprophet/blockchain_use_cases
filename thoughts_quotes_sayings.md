@@ -51,7 +51,7 @@
    1. Its not a short-term phenomenon, its here to stay.
    1. A pathological phenomenon.
    1. Bitcoin is a social network. See Metcalfe's law. Basically Bitcoins adoption becomes self reinforcing and makes every future transaction more valuable.
-   1. A separation of state and money.
+   1. A separation of state and money. An end to economic and financial persecution. Overcomes financial blockaides.
    1. It is a store of value that can't be censored and is resistant to seizure, but also theft from hackers. An open source currency that is less influenced by the state of the economy or any looming geopolitical risk. Governments loose ability to affect monetary policy.
    1. Crypto Cocaine? "greater fool" theory of investing?
    1. Any sufficiently advanced technology is indistinguishable from magic.
@@ -59,7 +59,7 @@
    1. A poxy currency
    1. A blockchain of fools
    1. Bitcoin bonanza
-   1. Government-proof store of wealth. Overcomes financial blockaides.
+   1. Government-proof store of wealth.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
