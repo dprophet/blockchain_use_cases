@@ -52,7 +52,7 @@
    1. A pathological phenomenon.
    1. Bitcoin is a social network. See Metcalfe's law. Basically Bitcoins adoption becomes self reinforcing and makes every future transaction more valuable.
    1. A separation of state and money. An end to economic and financial persecution. Overcomes financial blockaides.
-   1. It is a store of value that can't be censored and is resistant to seizure, but also theft from hackers. An open source currency that is less influenced by the state of the economy or any looming geopolitical risk. Governments loose ability to affect monetary policy.
+   1. It is a store of value that can't be censored and is resistant to seizure, but is susceptible to theft from hackers. An open source currency that is less influenced by the state of the economy or any looming geopolitical risk. Governments/Feds loose ability to affect monetary policy.
    1. Crypto Cocaine? "greater fool" theory of investing?
    1. Any sufficiently advanced technology is indistinguishable from magic.
    1. A false God
