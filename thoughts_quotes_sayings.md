@@ -513,3 +513,5 @@
 1. If you dont have your own private keys you dont own any Bitcoin.
 1. Prices will only rise if the enthusiasm of buyers outweighs the fear of sellers. 
 1. Crypto Collapse
+1. The biggest security threat to a computer system is said to be the idiot at the keyboard
+ 
