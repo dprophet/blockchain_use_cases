@@ -60,6 +60,7 @@
    1. A blockchain of fools
    1. Bitcoin bonanza
    1. Government-proof store of wealth.
+   1. It undermine the government, reduce the power of central banks, and could destabilize the country’s economy.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
