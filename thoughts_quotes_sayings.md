@@ -520,3 +520,4 @@
 1. Crypto Collapse
 1. The biggest security threat to a computer system is said to be the idiot at the keyboard (Cyberwar for Dummies)
 1. Bitcoin is not in a bubble but other digital currencies are "flooding the market with perishable supplies of worthless value,"
+1. The futures markets are all about risk transfer and not irresponsible gambling. But, in order to transfer risk, I need to be able to form a view about the value of the underlying asset. Still, now to value Bitcoin.
