@@ -523,4 +523,4 @@
 1. Bitcoin is not in a bubble but other digital currencies are "flooding the market with perishable supplies of worthless value,"
 1. The futures markets are all about risk transfer and not irresponsible gambling. But, in order to transfer risk, I need to be able to form a view about the value of the underlying asset. Still, now to value Bitcoin.
 1. While cryptocurrencies appeal to people who lack faith in governments and banks, the digital assets often require a blind trust in companies about which few facts are available.
-1. Bitcoin regulations: Trying to centralize them in a bureaucracy is exactly the wrong way to go.
+1. Should central banks embrace cryptocurrencies, or even pioneer their own? In a nutshell, no. Crypto assets are an unusual innovation, still in flux and often poorly understood. Trying to centralize them in a bureaucracy is exactly the wrong way to go.
