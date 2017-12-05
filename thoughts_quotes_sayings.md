@@ -519,4 +519,4 @@
 1. Prices will only rise if the enthusiasm of buyers outweighs the fear of sellers. 
 1. Crypto Collapse
 1. The biggest security threat to a computer system is said to be the idiot at the keyboard (Cyberwar for Dummies)
- 
+1. Bitcoin is not in a bubble but other digital currencies are "flooding the market with perishable supplies of worthless value,"
