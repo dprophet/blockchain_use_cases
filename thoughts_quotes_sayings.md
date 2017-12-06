@@ -21,6 +21,7 @@
 1. What is Bitcoin?
    1. Its a religion.
    1. Its a large step toward a digital economy.
+   1. A truly democratic solution
    1. Its technology.  Even if bitcoin has no value the technology behind it does
    1. Currency
    1. Depository System (wallet)
