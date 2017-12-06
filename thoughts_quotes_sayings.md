@@ -527,3 +527,4 @@
 1. Should central banks embrace cryptocurrencies, or even pioneer their own? In a nutshell, no. Crypto assets are an unusual innovation, still in flux and often poorly understood. Trying to centralize them in a bureaucracy is exactly the wrong way to go.
 1. The Government wants more of your own money so they tax you and dilute your personal value in the economy.
 1. The West must decide soon whether it should try to regulate cryptocurrencies out of existence or join the fray - and perhaps lose its current financial dominance in the process. 
+1. Most people seldom stop to examine the speed of technological change and how it's transforming how we do business. But as we prepare for the so-called blockchain revolution, for which crypto is the new currency, many are refusing to accept the inevitable regarding how it will transform the global community and business.
