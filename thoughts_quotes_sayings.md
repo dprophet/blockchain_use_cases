@@ -526,3 +526,4 @@
 1. While cryptocurrencies appeal to people who lack faith in governments and banks, the digital assets often require a blind trust in companies about which few facts are available.
 1. Should central banks embrace cryptocurrencies, or even pioneer their own? In a nutshell, no. Crypto assets are an unusual innovation, still in flux and often poorly understood. Trying to centralize them in a bureaucracy is exactly the wrong way to go.
 1. The Government wants more of your own money so they tax you and dilute your personal value in the economy.
+1. The West must decide soon whether it should try to regulate cryptocurrencies out of existence or join the fray - and perhaps lose its current financial dominance in the process. 
