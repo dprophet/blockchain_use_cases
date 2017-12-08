@@ -545,3 +545,4 @@
    1. Anonymous team or team with weak experience
    1. Insufficient information on website/whitepaper
    1. No clear roadmap
+1. Bitcoin investing: As long as you can afford to lose everything you put into it, go with it
