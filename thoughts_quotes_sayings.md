@@ -546,3 +546,5 @@
    1. Insufficient information on website/whitepaper
    1. No clear roadmap
 1. Bitcoin investing: As long as you can afford to lose everything you put into it, go with it
+1. bitcoin’s value isn’t based on any underlying asset, but rather largely on human sentiment.
+1. Bubbles tend to be driven either by new technologies (like railroads in 1840s Britain or the Internet in the 1990s) or by new financial innovations (like the financial engineering that produced the 2008 financial crisis). Bitcoin, of course, is both a new technology and a major financial innovation.
