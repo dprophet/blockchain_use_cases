@@ -533,4 +533,4 @@
 1. There's an old market adage that says when the general public catches wind of a big market move occurring, that move is likely nearing its final stages before reversing its price trend. The Bitcoin publicity craze currently playing out in the world marketplace certainly fits into that old market saying.
 1. A Tale of Lost Won (Volatility and server outage causes people to loose money)   
 1. Whether you believe in Bitcoin or not, whether you are invested or not, this market is in a bubble formation. The parabolic move in the charts can only lead to a sell-off; still, a bubble doesn’t make it a bad investment. The fear of missing out has driven the crypto currency to the moon; buyers have forgotten all the essentials to investing and are chasing Bitcoin to the moon.
-   
+1. Everything old is new again: Tontine is a financial product that combines features of an annuity and a lottery. Named after Lorenzo de Tonti, a 17th century Italian banker, Tontine allows people to share investments and divide up the money based on survival—as participants pass away, their share is redistributed to the surviving members.   
