@@ -531,4 +531,4 @@
 1. Bitcoin is undergoing a historic deflation, which simply means that its value is growing relative to the goods and services it can purchase. This is in contrast to inflation, in which the value of the currency falls relative to its purchasing power. Inflation inspires spending – better to get rid of the money while it is more valuable. Deflation inspires saving – better to keep it so that your wealth rises over time. There is nothing selfish, strange, or weird about holding an asset that is rising in value.
 1. Demand for bitcoin is far outstripping gold as inexperienced investors pile into the online currency. Three times as many people are searching for the phrase 'buy bitcoin' on Google as searched for 'buy gold' during the financial crisis.
 1. There's an old market adage that says when the general public catches wind of a big market move occurring, that move is likely nearing its final stages before reversing its price trend. The Bitcoin publicity craze currently playing out in the world marketplace certainly fits into that old market saying.
-   
+1. A Tale of Lost Won (Volatility and server outage causes people to loose money)   
