@@ -538,3 +538,10 @@
 1. Everything old is new again: Tontine is a financial product that combines features of an annuity and a lottery. Named after Lorenzo de Tonti, a 17th century Italian banker, Tontine allows people to share investments and divide up the money based on survival—as participants pass away, their share is redistributed to the surviving members.   
 1. If Bitcoin futures succeed, they should be a liquidity go-to when the broad market declines. Like stock index futures, a proper cryptocurrency index future may eventually prevail in a maturing market.
 1. Bitcoin's Bubble: Bulls make money, bears make money, but pigs get slaughtered. If you've made money in bitcoin, congratulations, but don't expect the party to last forever.
+1. 6 red flags of an ICO scam
+   1. Use case does not require blockchain
+   1. Empty repositories for open-source projects
+   1. Mining structure disproportionately favors development team
+   1. Anonymous team or team with weak experience
+   1. Insufficient information on website/whitepaper
+   1. No clear roadmap
