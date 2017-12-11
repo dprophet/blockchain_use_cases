@@ -559,3 +559,4 @@
 1. When credit and leverage expand faster than the underlying economy, you are creating an unsable system. I can use my house to borrow more than the growth of the GDP.
 1. There is no well-accepted model that suggests a "fair" value for Bitcoin.
 1. US economy: From cash to ash
+1. Bitcoin: As long as there's buying, there's value. But when the buying goes away, so does the value.
