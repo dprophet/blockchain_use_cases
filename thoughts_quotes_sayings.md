@@ -556,3 +556,4 @@
 1. What is 'Financialization': Financialization is an increase in the size and importance of a country’s financial sector relative to its overall economy. Financialization has occurred as countries have shifted away from industrial capitalism. This impacts both the macroeconomy and the microeconomy by changing how financial markets are structured and operated and by influencing corporate behavior and economic policy.
 1. When credit and leverage expand faster than the underlying economy, you are creating an unsable system. I can use my house to borrow more than the growth of the GDP.
 1. There is no well-accepted model that suggests a "fair" value for Bitcoin.
+1. US economy: From cash to ash
