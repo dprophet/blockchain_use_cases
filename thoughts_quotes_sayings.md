@@ -67,6 +67,7 @@
    1. loyalty points of freedom from traditional financial systems
    1. Bitcoin is an indication in a complete lack trust and faith in the currency system. Gold market is manipulated by the paper market.
    1. A good idea that didnt require force.
+   1. A Bit of a Modern Miracle at Any Price
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
