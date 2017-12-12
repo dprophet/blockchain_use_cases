@@ -569,3 +569,4 @@
 1. Young People Feel Three Times More Confident They Understand Bitcoin Than Tracker Mortgages
 1. How do you measure the Mania?
 1. Sellers of bitcoin are often buying other cryptocurrencies, not cashing out
+1. Be ware of Banking Trojans
