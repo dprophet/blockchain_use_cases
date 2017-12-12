@@ -570,3 +570,4 @@
 1. How do you measure the Mania?
 1. Sellers of bitcoin are often buying other cryptocurrencies, not cashing out
 1. Be ware of Banking Trojans
+1. Bitcoin price doesnt matter. The fact it exists tells the story users are tired of status quo
