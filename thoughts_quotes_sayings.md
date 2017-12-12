@@ -15,8 +15,8 @@
    1.  Blockchains/DLT are decentralized and no one company is responsible for it. They are generally government-resistant so where is the incentive for a Government? They are created in an unregulated environment, outside the control of any central authority. A truly decentralized network cannot be regulated in any traditional sense, hence, blockchains are resistant to central authority-resistant (often phrased as censorship-resistant).
    1. Physical objects cannot be represented on a blockchain due to the dual consensus problem. One source of consensus is the physical world. Who electronically "owns" the item and who physically is holding the item.
    1. Generally 3 common usages of Blockchain
-      1. Platform coins
-      1. Tokens used within a specific blockchain-based application
+      1. Platform coins. Companies can issue tokens on the platform easily and use them for governance or stakeholder management.
+      1. Tokens used within a specific blockchain-based application. Tokens/coins that allow participation in a unique blockchain use case. For example, a decentralized prediction market launching next year. The tokens entitle the holder to a share of all transaction fees from the prediction markets, as well as voting rights to settle disputed prediction outcomes.
       1. Currencies
 
 
