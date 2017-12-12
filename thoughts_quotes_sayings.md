@@ -560,3 +560,4 @@
 1. There is no well-accepted model that suggests a "fair" value for Bitcoin.
 1. US economy: From cash to ash
 1. Bitcoin: As long as there's buying, there's value. But when the buying goes away, so does the value.
+1. Bitcoin Futures May Be a Validator But the Investment is Still Dangerous
