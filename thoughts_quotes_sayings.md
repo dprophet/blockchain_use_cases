@@ -14,6 +14,11 @@
    1. How do you secure the network? New blockchain projects are launched right into the fire of sophisticated attackers and an educated community.
    1.  Blockchains/DLT are decentralized and no one company is responsible for it. They are generally government-resistant so where is the incentive for a Government? They are created in an unregulated environment, outside the control of any central authority. A truly decentralized network cannot be regulated in any traditional sense, hence, blockchains are resistant to central authority-resistant (often phrased as censorship-resistant).
    1. Physical objects cannot be represented on a blockchain due to the dual consensus problem. One source of consensus is the physical world. Who electronically "owns" the item and who physically is holding the item.
+   1. Generally 3 common usages of Blockchain
+      1. Platform coins
+      1. Tokens used within a specific blockchain-based application
+      1. Currencies
+
 
 
 #### Some of my favorite notes, arguments, etc around the Bitcoin and Blockchain space.
