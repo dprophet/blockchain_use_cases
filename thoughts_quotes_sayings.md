@@ -568,3 +568,4 @@
 1. Bitcoin Futures May Be a Validator But the Investment is Still Dangerous
 1. Young People Feel Three Times More Confident They Understand Bitcoin Than Tracker Mortgages
 1. How do you measure the Mania?
+1. Sellers of bitcoin are often buying other cryptocurrencies, not cashing out
