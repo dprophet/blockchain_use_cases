@@ -3,6 +3,7 @@
 1. Rules when to use Blockchain/DLT technology
    1. A blockchain is a digital ledger in which transactions made are recorded chronologically and publicly.
    1. Linear records of transactions and data that form an immutable chain of information.
+   1. Holds the "single version of the truth" which makes it useful in banking, and businesses
    1. Blockchains provide consensus not efficiency.
    1. There is nothing easy about implementing distrubuted crypto systems. Launching a blockchain is extremely hard and perverts incentives. The skillsets to write code is very different than the skillsets required to develop distributed crypto systems. Make sure the use case fits the technology.
    1. Ledger entries are broadcasted to all participants. Everything is duplicated across all nodes.
