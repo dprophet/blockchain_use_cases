@@ -80,6 +80,7 @@
    1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
    1. Bitcoin has glitter but it isnt gold.
    1. The Gold Rush of the new millennium?
+   1. The trust machine
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
