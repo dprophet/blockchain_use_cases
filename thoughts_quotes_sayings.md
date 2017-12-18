@@ -85,6 +85,7 @@
    1. A casino, not an investment
    1. Wall Street is following the money.
    1. Price is based on momentum not intrinsic value.
+   1. Bitcoin to bring financial sovereignty to the common man in the world of central banks.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
