@@ -586,3 +586,4 @@
 1. Hedge funds are pulling out of gold bets as more exciting moves in equities and cryptocurrencies make safe-haven investments look boring.
 1. Bitcoin: The Greatest Story Ever Sold
 1. Volatility is what makes Bitcoin fun.
+1. Stock market bubbles don’t grow out of thin air. They have a solid basis in reality, but reality as distorted by misconception. 
