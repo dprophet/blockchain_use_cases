@@ -579,4 +579,4 @@
 1. Can Bitcoin Forks Deliver Value?
 1. Bitcoin Rises As Banks Die
 1. As a simple engineer what I don't understand is what happens if wealth is transferred to bitcoin and it then crashes. Does that do harm to the global economy or does the real wealth just get moved?
-   
+1. In two years there will be 300 million people in the world trying to get their hands on a few million bitcoin.
