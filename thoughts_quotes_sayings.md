@@ -84,6 +84,7 @@
    1. A digital spreadsheet that, thanks to the laws of mathematics and cryptography, was more inviolable than carving it in stone.
    1. A casino, not an investment
    1. Wall Street is following the money.
+   1. Price is based on momentum not intrinsic value.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
