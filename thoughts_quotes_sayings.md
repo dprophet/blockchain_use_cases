@@ -578,3 +578,5 @@
 1. Headed for Bankruptcy: The U.S. is a little further advanced toward the final stages of becoming a degenerate empire. Saddled with the cost of keeping its legions all over the world… and the cost of supporting 70 million retiring baby boomers, it is headed for bankruptcy. According to the bipartisan Simpson-Bowles budget commission, Washington needs a tax revenue base equal to 21% of GDP to cover its costs. The new tax bill – or what we know of it so far – will raise revenue equal to about 17% of GDP. This will leave the feds with a $1 trillion-a-year shortfall. That means trillion-dollar deficits… as far as the eye can see. Empires are cyclical, not eternal. They go up… up… and up. Then, having gone up too far, they go down… down… down, usually ending in military defeat or bankruptcy – often both. It’s business as usual that brings them down.
 1. Can Bitcoin Forks Deliver Value?
 1. Bitcoin Rises As Banks Die
+1. As a simple engineer what I don't understand is what happens if wealth is transferred to bitcoin and it then crashes. Does that do harm to the global economy or does the real wealth just get moved?
+   
