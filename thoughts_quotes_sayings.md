@@ -83,6 +83,7 @@
    1. The trust machine
    1. A digital spreadsheet that, thanks to the laws of mathematics and cryptography, was more inviolable than carving it in stone.
    1. A casino, not an investment
+   1. Wall Street is following the money.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -580,4 +581,4 @@
 1. Bitcoin Rises As Banks Die
 1. As a simple engineer what I don't understand is what happens if wealth is transferred to bitcoin and it then crashes. Does that do harm to the global economy or does the real wealth just get moved?
 1. In two years there will be 300 million people in the world trying to get their hands on a few million bitcoin.
-1. Its real estate, not the stock market, that undermines the wealth of the US consumer. A hot housing market makes for a happy voter, and a willing consumer.
+1. Its real estate, not the stock market, that undermines the wealth of the US consumer. A hot housing market makes for a happy voter, and a willing consumer. The housing market is pricing in growing earnings for the US banks (not US consumers). The US government used Fannie and Freddie to give housing loans to minority groups and low-income earners that, in hindsight, was bad economics but good politics.
