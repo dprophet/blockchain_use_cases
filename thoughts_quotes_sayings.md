@@ -594,3 +594,4 @@
 1. Bitcoin continues to be impacted more from market chatter than the futures markets, with the institutional money less sensitive to the speculative talk that has been doing the rounds this week.
 1. Some experts maintain that bitcoin will displace the existing fiat money and will usher in a new era of free banking, which will finally put to rest the menace of inflation.
 1. The way the bitcoin network deals with congestion is essentially by auctioning off scarce capacity to the highest bidder. Customers have the option to pay a higher fee in exchange for immediate delivery or to pay a lower fee and wait until congestion declines enough to make room for lower-fee transactions. As fees rise, this becomes a more and more dicey proposition.
+1. We no longer live in a world where people can rely on a savings account or a government bond to deliver an income on their savings.
