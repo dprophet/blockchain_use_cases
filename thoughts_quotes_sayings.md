@@ -76,10 +76,6 @@
    1. Bitcoin is an indication in a complete lack trust and faith in the currency system. Gold market is manipulated by the paper market.
    1. A good idea that didnt require force.
    1. A Bit of a Modern Miracle at Any Price
-1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
-   1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
-   1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
-   1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
    1. Bitcoin has glitter but it isnt gold.
    1. The Gold Rush of the new millennium?
    1. The trust machine
@@ -89,6 +85,10 @@
    1. Price is based on momentum not intrinsic value.
    1. Bitcoin to bring financial sovereignty to the common man in the world of central banks.
    1. How real is the virtual?
+1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
+   1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
+   1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
+   1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
