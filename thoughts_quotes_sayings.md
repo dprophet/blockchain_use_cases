@@ -83,9 +83,10 @@
    1. The trust machine
    1. A digital spreadsheet that, thanks to the laws of mathematics and cryptography, was more inviolable than carving it in stone.
    1. A casino, not an investment
-   1. Wall Street is following the money.
+   1. Wall Street is following the money.  We tend to invest both time and money in what's trending.
    1. Price is based on momentum not intrinsic value.
    1. Bitcoin to bring financial sovereignty to the common man in the world of central banks.
+   1. How real is the virtual?
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -588,3 +589,6 @@
 1. Bitcoin: The Greatest Story Ever Sold
 1. Volatility is what makes Bitcoin fun.
 1. Stock market bubbles don’t grow out of thin air. They have a solid basis in reality, but reality as distorted by misconception. 
+1. Even if the currency does see a short-term price correction, as is likely, the core value proposition at the heart of the bitcoin project continually proves to be vital and needed. The longer that the project succeeds, the better its future odds.
+1. The problem with a bubble is that we don't know if or when it will burst, or indeed whether it is a bubble or just a shift in fundamentals.
+
