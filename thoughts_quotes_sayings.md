@@ -588,7 +588,7 @@
 1. Its real estate, not the stock market, that undermines the wealth of the US consumer. A hot housing market makes for a happy voter, and a willing consumer. The housing market is pricing in growing earnings for the US banks (not US consumers). The US government used Fannie and Freddie to give housing loans to minority groups and low-income earners that, in hindsight, was bad economics but good politics.
 1. Hedge funds are pulling out of gold bets as more exciting moves in equities and cryptocurrencies make safe-haven investments look boring.
 1. Bitcoin: The Greatest Story Ever Sold
-1. Volatility is what makes Bitcoin fun.
+1. Volatility is what makes Bitcoin fun. The fact they its high risk and very volatile is what makes them good trading vehicles.
 1. Stock market bubbles don’t grow out of thin air. They have a solid basis in reality, but reality as distorted by misconception. 
 1. Even if the currency does see a short-term price correction, as is likely, the core value proposition at the heart of the bitcoin project continually proves to be vital and needed. The longer that the project succeeds, the better its future odds.
 1. The problem with a bubble is that we don't know if or when it will burst, or indeed whether it is a bubble or just a shift in fundamentals.
