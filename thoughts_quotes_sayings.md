@@ -592,3 +592,4 @@
 1. Even if the currency does see a short-term price correction, as is likely, the core value proposition at the heart of the bitcoin project continually proves to be vital and needed. The longer that the project succeeds, the better its future odds.
 1. The problem with a bubble is that we don't know if or when it will burst, or indeed whether it is a bubble or just a shift in fundamentals.
 1. Bitcoin continues to be impacted more from market chatter than the futures markets, with the institutional money less sensitive to the speculative talk that has been doing the rounds this week.
+1. Some experts maintain that bitcoin will displace the existing fiat money and will usher in a new era of free banking, which will finally put to rest the menace of inflation.
