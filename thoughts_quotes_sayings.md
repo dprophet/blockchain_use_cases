@@ -85,6 +85,7 @@
    1. Price is based on momentum not intrinsic value.
    1. Bitcoin to bring financial sovereignty to the common man in the world of central banks.
    1. How real is the virtual?
+   1. A mania that can only end in disaster
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
