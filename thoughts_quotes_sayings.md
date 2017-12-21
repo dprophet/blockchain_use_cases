@@ -86,10 +86,12 @@
    1. Bitcoin to bring financial sovereignty to the common man in the world of central banks.
    1. How real is the virtual?
    1. A mania that can only end in disaster
+   1. A systemic risk in the making
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
    1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
+   1. Ultimately, Bitcoin price will will ultimately be determined by its usefulness.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -206,7 +208,7 @@
    * Bitcoin is creating a 'sell the news' type of environment.
    * This broad set of outcomes means any small change in perception regarding the likelihood of the best case outcome drives significant changes to current valuation.
    * This would imply volatility in the price of bitcoin may not go away anytime soon, as the potential for bitcoin is being constantly measured by the market in light of rapid technology development and unpredictable regulatory constraints.
-   * We believe traders value volatility as they continue to gravitate to bitcoin trading as an active 24/7 market uncorrelated with other asset class returns.
+   * We believe traders value volatility as they continue to gravitate to bitcoin trading as an active 24/7 market uncorrelated with other asset class returns. Every year in recent memory, traders have looked to the future in the hope that volatility in the markets would finally return, and let them make some money. Those hopes have been almost entirely in vain, thanks to central banks steering markets on a narrow path. Wild fluctuations in the price of bitcoin and other cryptocurrencies will hark back to the good times.
    * Since economic activity (sale of goods & services, money remittance, P2P. is intermingled with trading activity, we believe the trading activity is helping create the network capacity and monetary base to support the future economic applications of bitcoin.
 1. Bitcoin Can Open Doors of the Global Economy for 2.5 Billion People
 1. If you don't have your own currency, you basically lose a lot of sovereign powers. Without money, the government has no power.
@@ -600,3 +602,4 @@
 1. We no longer live in a world where people can rely on a savings account or a government bond to deliver an income on their savings.
 1. Bubbles aren’t just about the madness of crowds, or excess liquidity and leverage. Every major bubble involves a premonition of the future. The trouble is that they turn out to be deeply flawed premonitions.
 1. No one cares if bitcoin is a bubble, as longer there’s money to be made.
+1. Bitcoin shows there is so much more to seduction than just showing up hungry.
