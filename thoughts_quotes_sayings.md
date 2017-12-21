@@ -92,6 +92,7 @@
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
    1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
    1. Ultimately, Bitcoin price will will ultimately be determined by its usefulness, its future use cases.
+   1. Speculation: The majority of trading in financial markets is not for the exchange of goods and services but for speculation.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -603,3 +604,4 @@
 1. Bubbles aren’t just about the madness of crowds, or excess liquidity and leverage. Every major bubble involves a premonition of the future. The trouble is that they turn out to be deeply flawed premonitions.
 1. No one cares if bitcoin is a bubble, as longer there’s money to be made.
 1. Bitcoin shows there is so much more to seduction than just showing up hungry.
+1. The biggest question in the world of crypto has always been: what is the best real-world use case for Bitcoin and cryptocurrencies? Is it digital money? The new gold? A medium of exchange for the black market? Now, after the meteoric rise in ICOs and Bitcoin prices, we can say for certain: speculation. And this isn’t a bad thing. The majority of trading in financial markets is not for the exchange of goods and services but for speculation. In the FX market, the most liquid in the world at $5T exchanged daily, over 80% of trading is speculative. Without speculators, markets would be less liquid and would function poorly. We believe that the blockchain may be one of the greatest technologies for speculative trading in history.
