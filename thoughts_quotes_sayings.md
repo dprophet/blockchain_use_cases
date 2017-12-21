@@ -599,4 +599,4 @@
 1. The way the bitcoin network deals with congestion is essentially by auctioning off scarce capacity to the highest bidder. Customers have the option to pay a higher fee in exchange for immediate delivery or to pay a lower fee and wait until congestion declines enough to make room for lower-fee transactions. As fees rise, this becomes a more and more dicey proposition.
 1. We no longer live in a world where people can rely on a savings account or a government bond to deliver an income on their savings.
 1. Bubbles aren’t just about the madness of crowds, or excess liquidity and leverage. Every major bubble involves a premonition of the future. The trouble is that they turn out to be deeply flawed premonitions.
-   
+1. No one cares if bitcoin is a bubble, as longer there’s money to be made.
