@@ -607,5 +607,5 @@
 1. No one cares if bitcoin is a bubble, as longer there’s money to be made.
 1. Bitcoin shows there is so much more to seduction than just showing up hungry.
 1. The biggest question in the world of crypto has always been: what is the best real-world use case for Bitcoin and cryptocurrencies? Is it digital money? The new gold? A medium of exchange for the black market? Now, after the meteoric rise in ICOs and Bitcoin prices, we can say for certain: speculation. And this isn’t a bad thing. The majority of trading in financial markets is not for the exchange of goods and services but for speculation. In the FX market, the most liquid in the world at $5T exchanged daily, over 80% of trading is speculative. Without speculators, markets would be less liquid and would function poorly. We believe that the blockchain may be one of the greatest technologies for speculative trading in history.
-1. Never give people goods on credit. Always collect money. Never sell to family members on credit because it will be hard for them to pay back which will affect your business.
+1. Small Business: Never give people goods on credit. Always collect money. Never sell to family members on credit because it will be hard for them to pay back which will affect your business.
 1. Political power as a tool for self-enrichment
