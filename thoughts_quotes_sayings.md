@@ -611,3 +611,4 @@
 1. Small Business: Never give people goods on credit. Always collect money. Never sell to family members on credit because it will be hard for them to pay back which will affect your business.
 1. Political power as a tool for self-enrichment
 1. The price to be paid for the success of cryptocurrencies is the tsunami of crime and malevolent activity that will follow.
+1. Bitcoinsternation: Speculative bubbles lead to speculative crashes
