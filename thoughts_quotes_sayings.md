@@ -90,6 +90,7 @@
    1. A systemic risk in the making
    1. Without censorship resistance Bitcoin is just a very expensive database.
    1. Bitcoin isnt volatile, it just never has a quiet day.
+   1. What is Bitcoin "currently" good for? Nothing but speculation.
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
