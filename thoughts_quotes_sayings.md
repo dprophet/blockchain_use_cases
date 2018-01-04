@@ -613,3 +613,4 @@
 1. Political power as a tool for self-enrichment
 1. The price to be paid for the success of cryptocurrencies is the tsunami of crime and malevolent activity that will follow.
 1. Bitcoinsternation: Speculative bubbles lead to speculative crashes
+1. In the world today, you cant make money using conventional wisdom. Conventional business creats limiting beliefs and kills business progress. You need to modernize everything.
