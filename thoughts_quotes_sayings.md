@@ -100,6 +100,7 @@
    1. Ultimately, Bitcoin price will will ultimately be determined by its usefulness, its future use cases.
    1. Speculation: The majority of trading in financial markets is not for the exchange of goods and services but for speculation.
    1. Bitcoin changes prices too quickly to be a currency and processes transactions too slowly to be a payments system, but it is juuust right for teaching libertarians everything they don't know about economics.
+   1. Bitcoin was created to decouple the past from the future. Blockchain technology was made to de-centralize the Bitcoin universe, and make it possible to transfer data without the consent of any one government. 
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
