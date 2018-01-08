@@ -621,3 +621,4 @@
 1. People are tired of being left out of the global economic surge.
 1. When a user first signs up for Apple Pay, either via an existing iTunes credit card or by loading a new one onto the iPhone, the card information is immediately encrypted and securely sent to the appropriate credit card network. Upon determining that the credit card account is valid, a token is sent back down to the device whereupon it's safely stored within the iPhone's Secure Element.
 1. A man buys bitcoin as he buys a lottery ticket — to strike it rich. Ask yourself… Who would give up his lottery ticket for a cup of coffee?
+1. With the direction of cryptocurrency prices seemingly impossible to predict, I would caution investors on the merits of cryptocurrencies alone, and would encourage any early-stage or emerging tech investors to consider companies operating in the blockchain technology space as a better way to play long-term growth in this sector. 
