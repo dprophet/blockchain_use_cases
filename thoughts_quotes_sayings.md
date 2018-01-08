@@ -27,6 +27,7 @@
 1. It is quite possible that some countries will adopt digital currencies but it is unlikely that they will be based on blockchain because the governments will lose control of money creation and of ability to properly execute their policy. These digital currencies will be centrally controlled and distributed based on policies for incentives.
 1. There are more index funds than there are stocks. There is more money speculating on goods and services than there are actual goods and services. In other words the international global derivatives market (a series of bets) is 10-20 times larger than the combined Global GDP of actual value creation. Information about money is indeed more valuable or as valuable as money. Information empires need to be both offensive and defensive in their provision of financial information and services.
 1. What is Bitcoin?
+   1. 99% noise, 1% value
    1. Its a religion.
    1. A libertarian fantasy
    1. A dark market
