@@ -102,6 +102,7 @@
    1. Bitcoin changes prices too quickly to be a currency and processes transactions too slowly to be a payments system, but it is juuust right for teaching libertarians everything they don't know about economics.
    1. Bitcoin was created to decouple the past from the future. Blockchain technology was made to de-centralize the Bitcoin universe, and make it possible to transfer data without the consent of any one government. 
    1. The most promising feature of the blockchain technology is to facilitate peer to peer transactions across various industries.
+   1. The Value of Bitcoin Isn’t What Most People Think It Is. Bitcoin itself does not hold any value. The value in bitcoin is provided by the miners. No miners = no Bitcoin value. So to invest in Bitcoin, you should really be familiar with the state of Bitcoin mining, and what sorts of challenges and risks it might face.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
