@@ -94,17 +94,18 @@
    1. Bitcoin isnt volatile, it just never has a quiet day.
    1. What is Bitcoin "currently" good for? Nothing but speculation.
    1. Bitcoin price is just noise that distracts from the bigger developments that are taking place. People are missing the point of whats occuring.
-1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
-   1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
-   1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
-   1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
-   1. Ultimately, Bitcoin price will will ultimately be determined by its usefulness, its future use cases.
+   1. Bitcoin is here to stay. It may not stay in this form forever, but it will continue to drive innovation and be a valuable, viable commodity for years to come.
    1. Speculation: The majority of trading in financial markets is not for the exchange of goods and services but for speculation.
    1. Bitcoin changes prices too quickly to be a currency and processes transactions too slowly to be a payments system, but it is juuust right for teaching libertarians everything they don't know about economics.
    1. Bitcoin was created to decouple the past from the future. Blockchain technology was made to de-centralize the Bitcoin universe, and make it possible to transfer data without the consent of any one government. 
    1. The most promising feature of the blockchain technology is to facilitate peer to peer transactions across various industries.
    1. The Value of Bitcoin Isn’t What Most People Think It Is. Bitcoin itself does not hold any value. The value in bitcoin is provided by the miners. No miners = no Bitcoin value. So to invest in Bitcoin, you should really be familiar with the state of Bitcoin mining, and what sorts of challenges and risks it might face.
    1. World is $233 Trillion In Debt. There needs to be a financial reset. Debt as cash is dangerous.
+1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
+   1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
+   1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
+   1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
+   1. Ultimately, Bitcoin price will will ultimately be determined by its usefulness, its future use cases.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
