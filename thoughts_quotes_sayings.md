@@ -107,6 +107,7 @@
    1. Third great force of history with which Bitcoin is conspicuously aligned is the dramatic surge in scepticism of – even scorn for – established political authority. Faith in traditional political parties and even in traditional representative democracy itself is evaporating at an alarming rate.
    1. Ultimately, Bitcoin price will will ultimately be determined by its usefulness, its future use cases.
    1. Bitcoin is and remains a key facilitator for cybercrime.
+   1. Blockchain bridges a very important gap, that of trust.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
