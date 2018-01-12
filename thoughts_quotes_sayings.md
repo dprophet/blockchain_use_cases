@@ -634,3 +634,4 @@
 1. Decentralization will naturally restore net neutrality.
 1. Maybe the Bitcoin mania has something to do with the emergence of the “winner take all” society. During the last two decades, the top one percent of U.S. earners captured more than 40 percent of the country's total earnings growth, one of the largest shifts any society has endured without a revolution or military defeat.
 1. Despite the laudable blockchain technology and the great opportunities it offers in enabling quicker transactions, numerous problems can be associated with its products – such as bitcoin and other cryptocurrencies 
+1. Bitcoin Is Worth Far More than Its Price. Bitcoin’s value isn’t its power to make transactions or its investment appeal. It is the power to make people think about money and the relations that happen around it and the necessity of it being controlled by the state or any other authority.
