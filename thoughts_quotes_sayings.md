@@ -109,6 +109,7 @@
    1. Bitcoin is and remains a key facilitator for cybercrime.
    1. Blockchain bridges a very important gap, that of trust.
    1. Blockchain: A "See through equity"?
+   1. Bitcoin is a "synthetic commodity money".
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
@@ -635,3 +636,4 @@
 1. Maybe the Bitcoin mania has something to do with the emergence of the “winner take all” society. During the last two decades, the top one percent of U.S. earners captured more than 40 percent of the country's total earnings growth, one of the largest shifts any society has endured without a revolution or military defeat.
 1. Despite the laudable blockchain technology and the great opportunities it offers in enabling quicker transactions, numerous problems can be associated with its products – such as bitcoin and other cryptocurrencies 
 1. Bitcoin Is Worth Far More than Its Price. Bitcoin’s value isn’t its power to make transactions or its investment appeal. It is the power to make people think about money and the relations that happen around it and the necessity of it being controlled by the state or any other authority.
+1. Bitcoin is similar to a gold standard in at least two ways. (1) Both Bitcoin and gold are stateless, so either can provide an international base money that is not the creature of any national central bank or finance ministry. (2) Both provide a base money that is reliably limited in quantity (this is the grounding for Selgin’s characterization), unlike a fiat money that a central bank can create in any quantity it likes, “out of thin air.”
