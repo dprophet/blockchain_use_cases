@@ -110,6 +110,9 @@
    1. Blockchain bridges a very important gap, that of trust.
    1. Blockchain: A "See through equity"?
    1. Bitcoin is a "synthetic commodity money".
+   1. Bitcoin mining has a positive effect on a China's economy. It plays an important role in reviving economies and providing employment in towns and cities that are not connected to economic nerve centers
+Read more: Which Countries Benefit From China's Crackdown On Bitcoin Mining? | Investopedia https://www.investopedia.com/news/which-countries-benefit-chinas-crackdown-bitcoin-mining/#ixzz53zwVaNVl 
+Follow us: Investopedia on Facebook
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
