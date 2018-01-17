@@ -647,3 +647,4 @@ Follow us: Investopedia on Facebook
 1. Bitcoin is similar to a gold standard in at least two ways. (1) Both Bitcoin and gold are stateless, so either can provide an international base money that is not the creature of any national central bank or finance ministry. (2) Both provide a base money that is reliably limited in quantity (this is the grounding for Selgin’s characterization), unlike a fiat money that a central bank can create in any quantity it likes, “out of thin air.”
 1. If Bitcoin wants to be taken seriously it probably shouldn’t be this easy or legal to manipulate the markets. (Bitcoin trading bot referrence from MtGox days)
 1. Second Market: A private share-trading platform
+1. Ripple holds 61.3 billion of the 100 billion XRP coins in existence.
