@@ -114,6 +114,7 @@
    1. Bitcoin becomes non-transactionable whereas gold is still transferable within a collapsed infrastructure
    1. Bitcoin will be driven by a larger uptake of institutional investors and futures contracts
    1. A decentralized currency allows for true independence from a state entity.
+   1. Learn to measure the social velocity not price velocity.
 Read more: Which Countries Benefit From China's Crackdown On Bitcoin Mining? | Investopedia https://www.investopedia.com/news/which-countries-benefit-chinas-crackdown-bitcoin-mining/#ixzz53zwVaNVl 
 Follow us: Investopedia on Facebook
 1. Tokenomics & Cryptonomics
