@@ -115,6 +115,7 @@
    1. Bitcoin will be driven by a larger uptake of institutional investors and futures contracts
    1. A decentralized currency allows for true independence from a state entity.
    1. Learn to measure the social velocity not price velocity.
+   1. Even rumors can cause a massive drop in the value of bitcoin
 Read more: Which Countries Benefit From China's Crackdown On Bitcoin Mining? | Investopedia https://www.investopedia.com/news/which-countries-benefit-chinas-crackdown-bitcoin-mining/#ixzz53zwVaNVl 
 Follow us: Investopedia on Facebook
 1. Tokenomics & Cryptonomics
