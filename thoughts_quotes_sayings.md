@@ -651,3 +651,4 @@
 1. Cryptocurrencies by their nature are secure and encrypted however the vehicles we use to store them are still very vulnerable.  Users of digital wallet provider BlackWallet found this out the hard way at the weekend when the web server was hacked resulting in the theft of their stash.
 1. It's time to look a little more defensively and start moving away from technology and some of the other names that have had huge runs here.
 1. Blockchain can be used for diamonds to stamp out illegal trading of the precious stones. It will use blockchain to record when gems change hands so that their authenticity can be guaranteed.
+1. Through a combination of Blockchain based patented ecommerce technology, natural capital land acquisition, and tokenizing one square meter of land at a time; OMAAT will democratize the purchase and protection of natural capital by creating an open and transparent global commonwealth of land asset owners.
