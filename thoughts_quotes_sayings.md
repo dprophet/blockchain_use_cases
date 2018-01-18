@@ -650,3 +650,4 @@ Follow us: Investopedia on Facebook
 1. Ripple holds 61.3 billion of the 100 billion XRP coins in existence.
 1. Cryptocurrencies by their nature are secure and encrypted however the vehicles we use to store them are still very vulnerable.  Users of digital wallet provider BlackWallet found this out the hard way at the weekend when the web server was hacked resulting in the theft of their stash.
 1. It's time to look a little more defensively and start moving away from technology and some of the other names that have had huge runs here.
+1. Blockchain can be used for diamonds to stamp out illegal trading of the precious stones. It will use blockchain to record when gems change hands so that their authenticity can be guaranteed.
