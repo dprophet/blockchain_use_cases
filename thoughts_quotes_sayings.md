@@ -116,7 +116,7 @@
    1. A decentralized currency allows for true independence from a state entity.
    1. Learn to measure the social velocity not price velocity.
    1. Even rumors can cause a massive drop in the value of bitcoin
-Read more: Which Countries Benefit From China's Crackdown On Bitcoin Mining? | Investopedia https://www.investopedia.com/news/which-countries-benefit-chinas-crackdown-bitcoin-mining/#ixzz53zwVaNVl 
+   1. Bitcoin bloodbath
 Follow us: Investopedia on Facebook
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
