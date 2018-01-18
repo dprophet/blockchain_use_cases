@@ -117,7 +117,7 @@
    1. Learn to measure the social velocity not price velocity.
    1. Even rumors can cause a massive drop in the value of bitcoin
    1. Bitcoin bloodbath
-Follow us: Investopedia on Facebook
+   1. Blockchain as command and control, empowering multiple trading partners to collaborate and establishing a single shared view of a transaction without compromising details, privacy or confidentiality.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
