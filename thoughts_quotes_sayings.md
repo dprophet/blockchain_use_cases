@@ -118,6 +118,7 @@
    1. There is a major problem posed by a currency like bitcoin with rapidly fluctuating value. "People want a fair exchange of value when they’re buying something, so if it costs $100, I want to pay $100"
    1. On the simplest level, blockchains are public ledgers that record transactions shared among many users. Once data is entered on a blockchain, it is secure and unalterable, and provides a permanent record. Blockchains provide the ultimate in transparency and trust, making this technology a brave new world for organizations that strive to conduct transparent business.
    1. Bitcoin craze chearly shows the generation conflicts (millenials)
+   1. The Bitcoin bubble may ultimately turn out to be a distraction from the true significance of the blockchain.
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
