@@ -31,6 +31,7 @@
    1. Money is being rewritten into code.
    1. Crypto craze
    1. Its a religion. More religion than asset.
+   1. Cryptonite, better watch out
    1. A libertarian fantasy
    1. A dark market
    1. A cryptocurrency cataclysm
