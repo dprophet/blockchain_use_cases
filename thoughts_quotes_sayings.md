@@ -34,6 +34,7 @@
    1. Cryptonite, better watch out
    1. Volatile because of a lack of fundamental valuation.
    1. A libertarian fantasy
+   1. An alternative economic model
    1. A dark market
    1. A cryptocurrency cataclysm
    1. Its a large step toward a digital economy.
