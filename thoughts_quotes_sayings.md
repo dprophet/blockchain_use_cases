@@ -130,6 +130,7 @@
    1. Bitcoin has a purpose but it wouldn't be to replace money.
    1. Blockchain to reinvigorate shareholder democracy by enabling the return of voting power to the real beneficiary owners of equities
    1. Bitcoin is an asset like art, diamonds or Pokemon cards
+   1. Bitcoin: Uncontrollable growth or decline against the value of the dollar.
 1. Tokenomics & Cryptonomics
 1. Bitcoin has only two proven use cases after eight years: criminal activity and speculation
 1. Bitcoin is not just an emerging asset class/currency, but a philosophical tool that helps early adopters to live incrementally further outside the scope of the State.
