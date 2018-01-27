@@ -34,6 +34,7 @@
    1. Cryptonite, better watch out
    1. A question of trust. Can you trust the code when there are hackers trying to exploit the developers mistakes?
    1. Volatile because of a lack of fundamental valuation.
+   1. Cryptocurrency is too volatile to be used as money
    1. A libertarian fantasy
    1. An alternative economic model
    1. A dark market
