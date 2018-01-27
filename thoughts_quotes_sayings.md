@@ -32,6 +32,7 @@
    1. Crypto craze
    1. Its a religion. More religion than asset.
    1. Cryptonite, better watch out
+   1. A question of trust. Can you trust the code when there are hackers trying to exploit the developers mistakes?
    1. Volatile because of a lack of fundamental valuation.
    1. A libertarian fantasy
    1. An alternative economic model
