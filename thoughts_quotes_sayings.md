@@ -672,3 +672,4 @@
 1. Can blockchain repair capitalism?
 1. The cryptocurrency asset class, with over $500B in market capitalization, has proven itself to be a phenomenon that is at least worth paying attention to. 
 1. Blockchain it is an open ledger that multiple parties can view at the same time, functioning in a decentralised manner without being owned or controlled by a single entity. Transactions and other data can be recorded with the agreement of other parties and, once recorded, the data is immutable which means it cannot be changed. Whatever you see on the blockchain is whatever was agreed, processed and recorded.
+1. If bitcoin doesn't rebound from current levels, then "the brand is tarnished," and success stories about investors having made millions off the cryptocurrencies will change to people losing all their investments.
