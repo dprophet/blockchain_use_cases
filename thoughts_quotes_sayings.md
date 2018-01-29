@@ -30,6 +30,7 @@
    1. 99% noise, 1% value
    1. Money is being rewritten into code.
    1. Crypto craze
+   1. Personal Finance, not Professional Finance.
    1. Its a religion. More religion than asset.
    1. Cryptonite, better watch out
    1. A question of trust. Can you trust the code when there are hackers trying to exploit the developers mistakes?
