@@ -679,3 +679,4 @@
 1. Blockchain it is an open ledger that multiple parties can view at the same time, functioning in a decentralised manner without being owned or controlled by a single entity. Transactions and other data can be recorded with the agreement of other parties and, once recorded, the data is immutable which means it cannot be changed. Whatever you see on the blockchain is whatever was agreed, processed and recorded.
 1. If bitcoin doesn't rebound from current levels, then "the brand is tarnished," and success stories about investors having made millions off the cryptocurrencies will change to people losing all their investments.
 1. The value of bitcoin today represents the collective analysis of all bitcoin market participants.
+1. A Blockchain project that works but doesn’t create business value is doomed from the beginning.
