@@ -29,6 +29,7 @@
 1. What is Bitcoin?
    1. 99% noise, 1% value
    1. Money is being rewritten into code.
+   1. Without censorship-resistance, Bitcoin is just a very expensive database.
    1. Crypto craze
    1. Personal Finance, not Professional Finance.
    1. Its a religion. More religion than asset.
@@ -98,7 +99,6 @@
    1. How real is the virtual?
    1. A mania that can only end in disaster
    1. A systemic risk in the making
-   1. Without censorship resistance Bitcoin is just a very expensive database.
    1. Bitcoin isnt volatile, it just never has a quiet day.
    1. What is Bitcoin "currently" good for? Nothing but speculation.
    1. Bitcoin price is just noise that distracts from the bigger developments that are taking place. People are missing the point of whats occuring.
