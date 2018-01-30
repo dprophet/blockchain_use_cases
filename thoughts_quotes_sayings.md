@@ -34,6 +34,8 @@
    1. Personal Finance, not Professional Finance.
    1. Its a religion. More religion than asset.
    1. Cryptonite, better watch out
+   1. The properties that made bitcoin a great decentralizing tool also rendered bitcoin an expensive and slow medium of exchange.
+   1. Lightning network: Above-chain project
    1. A question of trust. Can you trust the code when there are hackers trying to exploit the developers mistakes?
    1. Volatile because of a lack of fundamental valuation.
    1. Cryptocurrency is too volatile to be used as money
@@ -131,6 +133,7 @@
    1. Bitcoin is an asset like art, diamonds or Pokemon cards
    1. Bitcoin: Uncontrollable growth or decline against the value of the dollar.
    1. An enslavement by the passion to get rich quick vs to promote righteous labor, which should, of course, be adequately compensated
+   1. Part of the "free banking" era
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
