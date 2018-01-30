@@ -134,6 +134,7 @@
    1. Bitcoin: Uncontrollable growth or decline against the value of the dollar.
    1. An enslavement by the passion to get rich quick vs to promote righteous labor, which should, of course, be adequately compensated
    1. Part of the "free banking" era
+   1. Cryptocurrency thefts: Who will demand security for all over profits for a relative few?
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
