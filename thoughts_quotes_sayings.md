@@ -33,6 +33,7 @@
    1. Crypto craze
    1. Personal Finance, not Professional Finance.
    1. Its a religion. More religion than asset.
+   1. A Culture not a Currency
    1. Cryptonite, better watch out
    1. The properties that made bitcoin a great decentralizing tool also rendered bitcoin an expensive and slow medium of exchange.
    1. Lightning network: Above-chain project
