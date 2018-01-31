@@ -681,3 +681,4 @@
 1. If bitcoin doesn't rebound from current levels, then "the brand is tarnished," and success stories about investors having made millions off the cryptocurrencies will change to people losing all their investments.
 1. The value of bitcoin today represents the collective analysis of all bitcoin market participants.
 1. A Blockchain project that works but doesn’t create business value is doomed from the beginning.
+1. Bitcoin has become ever more popular with ordinary investors.
