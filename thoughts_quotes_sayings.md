@@ -139,6 +139,7 @@
    1. Cryptocurrency thefts: Who will demand security for all over profits for a relative few?
    1. The entire point of money is that it allows parties to transact without having to barter. How does Bitcoin fit this?
    1. As a currency, Bitcoin should be a serviceable unit of account, means of payments, and a stable store of value. It is none of those things. No one prices anything in Bitcoin. Few retailers accept it. And it is a poor store of value, because its price can fluctuate by 20-30% in a single day.
+   1. Politicized because its different
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
