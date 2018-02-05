@@ -31,6 +31,7 @@
    1. Money is being rewritten into code.
    1. Without censorship-resistance, Bitcoin is just a very expensive database.
    1. Crypto craze
+   1. What are the benefits of decentralized financial systems?
    1. Personal Finance, not Professional Finance.
    1. Its a religion. More religion than asset.
    1. A Culture not a Currency
