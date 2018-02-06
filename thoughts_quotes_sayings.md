@@ -695,3 +695,4 @@
 1. The financial-services industry has been undergoing a revolution. But the driving force is not overhyped blockchain applications such as Bitcoin. It is a revolution built on artificial intelligence, big data, and the Internet of Things.
 1. Patchwork oversight not sufficient for crypto
 1. In a world where hardware, software and data are increasingly commoditized, governance is the only defensible asset for crypto networks.
+1. Unlike traditional stock markets, Bitcoin and crypto is traded globally and can be influenced by companies or countries across the world deciding to support it or crack down on it. This results in both upwards and downwards cycles happening a lot faster.
