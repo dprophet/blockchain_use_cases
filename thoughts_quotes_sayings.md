@@ -691,3 +691,4 @@
 1. A Blockchain project that works but doesn’t create business value is doomed from the beginning.
 1. Bitcoin has become ever more popular with ordinary investors.
 1. The financial-services industry has been undergoing a revolution. But the driving force is not overhyped blockchain applications such as Bitcoin. It is a revolution built on artificial intelligence, big data, and the Internet of Things.
+1. Patchwork oversight not sufficient for crypto
