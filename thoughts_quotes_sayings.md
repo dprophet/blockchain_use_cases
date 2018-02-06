@@ -30,6 +30,7 @@
    1. 99% noise, 1% value
    1. Money is being rewritten into code.
    1. The value of bitcoin is really predicated on its being a useful means of transactions. If you take that away, all you are left with is a bubble asset.
+   1. A crash is a natural part of any market cycle.
    1. Without censorship-resistance, Bitcoin is just a very expensive database.
    1. Crypto craze
    1. What are the benefits of decentralized financial systems?
