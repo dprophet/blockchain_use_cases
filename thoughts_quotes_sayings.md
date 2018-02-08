@@ -145,6 +145,7 @@
    1. Politicized because its different
    1. What's The Big Deal With Blockchain?
    1. A Crypto exchange isnt about having the latest technology, its about the risk management procedures.
+   1. Only for middle-class dreamers
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
