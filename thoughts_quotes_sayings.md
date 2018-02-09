@@ -699,3 +699,4 @@
 1. Patchwork oversight not sufficient for crypto
 1. In a world where hardware, software and data are increasingly commoditized, governance is the only defensible asset for crypto networks.
 1. Unlike traditional stock markets, Bitcoin and crypto is traded globally and can be influenced by companies or countries across the world deciding to support it or crack down on it. This results in both upwards and downwards cycles happening a lot faster.
+1. Cryptocurrencies hail the end of state-controlled money.
