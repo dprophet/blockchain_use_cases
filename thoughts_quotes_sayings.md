@@ -700,4 +700,4 @@
 1. In a world where hardware, software and data are increasingly commoditized, governance is the only defensible asset for crypto networks.
 1. Unlike traditional stock markets, Bitcoin and crypto is traded globally and can be influenced by companies or countries across the world deciding to support it or crack down on it. This results in both upwards and downwards cycles happening a lot faster.
 1. Cryptocurrencies hail the end of state-controlled money. Cryptocurrencies are ideal for circumventing legal or regulatory authorities, because they aren’t governed by any.
-1. Crypto Skeptics Suffer from a 'Failure of the Imagination'. Crypto suffers from dissociative disorders.
+1. Crypto Skeptics Suffer from a 'Failure of the Imagination'. Crypto suffers from dissociative/derealization disorders.
