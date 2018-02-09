@@ -146,7 +146,7 @@
    1. Politicized because its different
    1. What's The Big Deal With Blockchain?
    1. A Crypto exchange isnt about having the latest technology, its about the risk management procedures.
-   1. Only for middle-class dreamers
+   1. Only for middle-class dreamers. Those people profiled seem to be those who can least afford to lose this money.
    1. cryptojacking = Ransomware mining
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
