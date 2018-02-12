@@ -54,7 +54,7 @@
    1. Currency
    1. Depository System (wallet)
    1. Payment System
-   1. Blockchain for data provenance. 
+   1. Blockchain for data provenance. Data mining could be used to advance their business models?
    1. Bitcoin is speculative investment, not currency
    1. denationalize money
    1. Bitcoin is a medium of exchange used to purchase goods and services.
