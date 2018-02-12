@@ -150,6 +150,7 @@
    1. Only for middle-class dreamers. Those people profiled seem to be those who can least afford to lose this money.
    1. cryptojacking = Ransomware mining
    1. Social Engagement: People have missed the real power of cryptocurrencies. So far, they’ve been thought of as alternative currencies, taking the place of fiat currency in transactions. What cryptocurrencies really do is monetize social networks, unlocking the value of a network by harnessing user engagement.
+   1. Technology is ideology, not reality.
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
