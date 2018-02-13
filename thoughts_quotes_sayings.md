@@ -152,6 +152,7 @@
    1. Social Engagement (sharing economy): People have missed the real power of cryptocurrencies. So far, they’ve been thought of as alternative currencies, taking the place of fiat currency in transactions. What cryptocurrencies really do is monetize social networks, unlocking the value of a network by harnessing user engagement.
    1. Technology is ideology, not reality.
    1. Cash is a 'public utility' that should not be privatize for profit (ie technology or blockchain based solution). Homeless will become barcode beggers?
+   1. The very nature of Blockchain is Eternal Records
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
