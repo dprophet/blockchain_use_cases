@@ -126,7 +126,7 @@
    1. Bitcoin becomes non-transactionable whereas gold is still transferable within a collapsed infrastructure
    1. Bitcoin will be driven by a larger uptake of institutional investors and futures contracts
    1. A decentralized currency allows for true independence from a state entity.
-   1. Learn to measure the social velocity not price velocity.
+   1. Learn to measure the social velocity not price velocity. Behavioral finance.
    1. Even rumors can cause a massive drop in the value of bitcoin
    1. Bitcoin bloodbath
    1. Blockchain as command and control, empowering multiple trading partners to collaborate and establishing a single shared view of a transaction without compromising details, privacy or confidentiality.
