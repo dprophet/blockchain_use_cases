@@ -48,6 +48,7 @@
    1. An alternative economic model
    1. A dark market
    1. A cryptocurrency cataclysm
+   1. Cryptovation
    1. Its a large step toward a digital economy.
    1. A truly democratic solution
    1. Its technology.  Even if bitcoin has no value the technology behind it does
