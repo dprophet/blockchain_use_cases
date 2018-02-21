@@ -39,6 +39,7 @@
    1. A Culture not a Currency
    1. Bitcoin is commodity, not payment instrument
    1. Cryptonite, better watch out
+   1. cryptobabble
    1. The properties that made bitcoin a great decentralizing tool also rendered bitcoin an expensive and slow medium of exchange.
    1. Lightning network: Above-chain project
    1. A question of trust. Can you trust the code when there are hackers trying to exploit the developers mistakes?
