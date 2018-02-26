@@ -712,3 +712,4 @@
 1. Crypto Skeptics Suffer from a 'Failure of the Imagination'. Crypto suffers from dissociative/derealization disorders.
 1. When you have an unregulated exchange, the ability to manipulate prices goes up significantly. Just a few coordinated sales can change the price.
 1. “stablecoin” concept – the techno-magical idea that a cryptocurrency can tell the market what its price should be, rather than the market determining what a cryptocurrency’s price should be.
+1. ICO greatest risk: Lack of transparency regarding the identity of the issuers and underlying business plans
