@@ -710,3 +710,4 @@
 1. Cryptocurrencies hail the end of state-controlled money. Cryptocurrencies are ideal for circumventing legal or regulatory authorities, because they aren’t governed by any.
 1. Crypto Skeptics Suffer from a 'Failure of the Imagination'. Crypto suffers from dissociative/derealization disorders.
 1. When you have an unregulated exchange, the ability to manipulate prices goes up significantly. Just a few coordinated sales can change the price.
+1. “stablecoin” concept – the techno-magical idea that a cryptocurrency can tell the market what its price should be, rather than the market determining what a cryptocurrency’s price should be.
