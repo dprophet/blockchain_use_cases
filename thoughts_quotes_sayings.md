@@ -156,6 +156,7 @@
    1. Technology is ideology, not reality.
    1. Cash is a 'public utility' that should not be privatize for profit (ie technology or blockchain based solution). Homeless will become barcode beggers?
    1. The very nature of Blockchain is Eternal Records
+   1. Cryptocurrency is showing us that national currencies have not helped in unlocking the movement of money to where there might be need for it and that is why people are investing in cryptocurrency
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
