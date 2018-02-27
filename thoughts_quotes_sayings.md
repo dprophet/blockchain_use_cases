@@ -714,3 +714,4 @@
 1. When you have an unregulated exchange, the ability to manipulate prices goes up significantly. Just a few coordinated sales can change the price.
 1. “stablecoin” concept – the techno-magical idea that a cryptocurrency can tell the market what its price should be, rather than the market determining what a cryptocurrency’s price should be.
 1. ICO greatest risk: Lack of transparency regarding the identity of the issuers and underlying business plans
+1. The lesson former KGB officer Vladimir Putin drew from the collapse of the Soviet Union was that it was its internal weaknesses, rather than external pressure, that led to its unravelling.
