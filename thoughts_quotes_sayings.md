@@ -28,6 +28,7 @@
 1. There are more index funds than there are stocks. There is more money speculating on goods and services than there are actual goods and services. In other words the international global derivatives market (a series of bets) is 10-20 times larger than the combined Global GDP of actual value creation. Information about money is indeed more valuable or as valuable as money. Information empires need to be both offensive and defensive in their provision of financial information and services.
 1. What is Bitcoin?
    1. 99% noise, 1% value
+   1. If you try to legislate against everything, eventually you have nothing.
    1. Money is being rewritten into code.
    1. The value of bitcoin is really predicated on its being a useful means of transactions. If you take that away, all you are left with is a bubble asset.
    1. A crash is a natural part of any market cycle.
