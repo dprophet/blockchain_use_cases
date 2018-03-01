@@ -652,7 +652,7 @@
 1. Bitcoin: As long as there's buying, there's value. But when the buying goes away, so does the value.
 1. Bitcoin Futures May Be a Validator But the Investment is Still Dangerous
 1. Young People Feel Three Times More Confident They Understand Bitcoin Than Tracker Mortgages
-1. How do you measure the Mania? Measure the social velocity.
+1. How do you measure the Mania? Measure the social velocity? Measure the madness of men?
 1. Sellers of bitcoin are often buying other cryptocurrencies, not cashing out
 1. Be ware of Banking Trojans
 1. Bitcoin price doesnt matter. The fact it exists tells the story users are tired of status quo
