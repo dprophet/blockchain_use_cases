@@ -719,3 +719,4 @@
 1. The lesson former KGB officer Vladimir Putin drew from the collapse of the Soviet Union was that it was its internal weaknesses, rather than external pressure, that led to its unravelling.
 1. Four different forces that influence behavior: law, social norms, markets, and architecture (i.e., technical infrastructure or code).
 1. Like all good suppressions of freedom, the heavy-handed push to chase down bitcoin profits comes from the land of the free (ie America)
+1. The fate of gig-economy workers is frequently in the hands of market forces that are well beyond their control.
