@@ -723,3 +723,4 @@
 1. Like all good suppressions of freedom, the heavy-handed push to chase down bitcoin profits comes from the land of the free (ie America)
 1. The fate of gig-economy workers is frequently in the hands of market forces that are well beyond their control.
 1. Investing in Bitcoin now is equivalent to betting that its will implement successful scaling solutions and become usable on a large scale.
+1. The top 1%, will own 64% of global wealth by 2030
