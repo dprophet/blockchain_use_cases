@@ -29,6 +29,7 @@
 1. What is Bitcoin?
    1. 99% noise, 1% value
    1. If you try to legislate against everything, eventually you have nothing.
+   1. Fintech innovation as a catalyst that sparks regulatory change?
    1. Money is being rewritten into code.
    1. The value of bitcoin is really predicated on its being a useful means of transactions. If you take that away, all you are left with is a bubble asset.
    1. A crash is a natural part of any market cycle.
