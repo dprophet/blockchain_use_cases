@@ -32,6 +32,7 @@
    1. Fintech innovation as a catalyst that sparks regulatory change?
    1. Money is being rewritten into code.
    1. The value of bitcoin is really predicated on its being a useful means of transactions. If you take that away, all you are left with is a bubble asset.
+   1. A nest egg abroad
    1. A crash is a natural part of any market cycle.
    1. Without censorship-resistance, Bitcoin is just a very expensive database.
    1. Crypto craze
@@ -724,3 +725,4 @@
 1. The fate of gig-economy workers is frequently in the hands of market forces that are well beyond their control.
 1. Investing in Bitcoin now is equivalent to betting that its will implement successful scaling solutions and become usable on a large scale.
 1. The top 1%, will own 64% of global wealth by 2030
+1. As long as you have dictatorships on the rise you will have a different ending, because the rulers in those countries will turn to Bitcoin to build a nest egg abroad
