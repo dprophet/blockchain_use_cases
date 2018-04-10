@@ -726,3 +726,4 @@
 1. Investing in Bitcoin now is equivalent to betting that its will implement successful scaling solutions and become usable on a large scale.
 1. The top 1%, will own 64% of global wealth by 2030
 1. As long as you have dictatorships on the rise you will have a different ending, because the rulers in those countries will turn to Bitcoin to build a nest egg abroad
+1. All ICOs are all just performance art trying to make a point about underfunded and ill-equipped securities regulators.
