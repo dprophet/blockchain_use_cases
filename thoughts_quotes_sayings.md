@@ -727,3 +727,4 @@
 1. The top 1%, will own 64% of global wealth by 2030
 1. As long as you have dictatorships on the rise you will have a different ending, because the rulers in those countries will turn to Bitcoin to build a nest egg abroad
 1. All ICOs are all just performance art trying to make a point about underfunded and ill-equipped securities regulators.
+1. The ability to recruit game-changing technical talent is going to be pivotal to your organization's success in 2018, but the market is competitive and technology is rapidly evolving. Hiring the right developers has never been more difficult.
