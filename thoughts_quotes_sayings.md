@@ -164,7 +164,7 @@
    1. Blockchain is about removing data silos, improving trust and operational efficiencies.
    1. Virtual currencies issued by national governments would mean an end to the anonymity that is part of the appeal of independent cryptocurrencies.
    1. Crypto-assets enable fast and inexpensive financial transactions, while offering some of the convenience of cash
-   1. Bitcoin is the internet... in the 1980s!
+   1. Bitcoin is the internet... in the 1980s! Almost everything has changed and now its money's turn.
    
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
