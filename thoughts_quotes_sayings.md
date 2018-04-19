@@ -65,7 +65,7 @@
    1. Bitcoin is speculative investment, not currency
    1. denationalize money
    1. Bitcoin is a medium of exchange used to purchase goods and services.
-   1. Bubble Trouble
+   1. Bubble Trouble. Explosive price growths causes excessive high peaks and extremely low valley's
    1. Bubble, Breakthrough, Boom, Boon, Bane, or Bonanza.
    1. Currency or Cult, its both
    1. Bitcoin is an index to launder money
