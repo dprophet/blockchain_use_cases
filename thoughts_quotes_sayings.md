@@ -166,7 +166,15 @@
    1. Virtual currencies issued by national governments would mean an end to the anonymity that is part of the appeal of independent cryptocurrencies.
    1. Crypto-assets enable fast and inexpensive financial transactions, while offering some of the convenience of cash
    1. Bitcoin is the internet... in the 1980s! Almost everything has changed and now its money's turn.
-   
+
+1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
+   1. Who’s offering the coin?
+   1. How active is the development team?
+   1. How strong is the community?
+   1. How much funding is backing it, and how are tokens distributed?
+   1. What’s the trading volume, and liquidity?
+   1. How does the market cap look?
+   1. What exchanges are hosting the currency?
 1. Bitcoin to represent the ground zero at which three of the most important historical forces at work in the world today converge.
    1. First and most obvious of these is the ongoing revolution in information technology that is transforming so many aspects of our lives.
    1. Second epochal trend with which Bitcoin seems utterly in tune: the collapse of trust in the established financial system following the crash of 2008.
