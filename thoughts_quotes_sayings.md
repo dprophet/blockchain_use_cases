@@ -166,6 +166,7 @@
    1. Virtual currencies issued by national governments would mean an end to the anonymity that is part of the appeal of independent cryptocurrencies.
    1. Crypto-assets enable fast and inexpensive financial transactions, while offering some of the convenience of cash
    1. Bitcoin is the internet... in the 1980s! Almost everything has changed and now its money's turn.
+   1. It's your money. Take charge of it
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
