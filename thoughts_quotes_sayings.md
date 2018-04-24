@@ -742,3 +742,4 @@
 1. The ability to recruit game-changing technical talent is going to be pivotal to your organization's success in 2018, but the market is competitive and technology is rapidly evolving. Hiring the right developers has never been more difficult.
 1. While debate around the use of ICOs continues, Initial Loan Procurements (ILPs) have emerged as a new fundraising method. Similar to an ICO but in the form of loans rather than coin acquisitions, ILPs enable borrowers and creditors to enter into a loan agreement through legally binding smart contracts. 
 1. seigniorage - profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs.
+1. Bitcoin mining operations suck up so much electricity that they are in some cases causing power rates to spike for ordinary customers. It's all worth it for the relatively few jobs created?
