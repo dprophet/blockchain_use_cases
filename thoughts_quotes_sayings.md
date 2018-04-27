@@ -747,3 +747,4 @@
 1. seigniorage - profit made by a government by issuing currency, especially the difference between the face value of coins and their production costs.
 1. Bitcoin mining operations suck up so much electricity that they are in some cases causing power rates to spike for ordinary customers. It's all worth it for the relatively few jobs created?
 1. Other cryptos supposedly exist to fix flaws in Bitcoin. While doing so, they introduced new flaws.
+1. How can firms foster technological innovation while upholding a rigorous cyber-defense strategy? Problems can arise when companies run head first into innovation without considering potential risks.
