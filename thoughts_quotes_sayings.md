@@ -749,3 +749,4 @@
 1. Bitcoin mining operations suck up so much electricity that they are in some cases causing power rates to spike for ordinary customers. It's all worth it for the relatively few jobs created?
 1. Other cryptos supposedly exist to fix flaws in Bitcoin. While doing so, they introduced new flaws.
 1. How can firms foster technological innovation while upholding a rigorous cyber-defense strategy? Problems can arise when companies run head first into innovation without considering potential risks.
+1. Wall Street is 'drunk on bitcoin nonsense'
