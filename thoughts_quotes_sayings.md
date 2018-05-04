@@ -74,6 +74,7 @@
    1. futuristic folly to mysterious fortune
    1. A capitalist revolution for the internet
    1. bitcoin is the world's best performing asset classes in recent years, also its the most volatile
+   1. Innovation, Disruption, or Distraction.
    1. Bitcoin a Distraction from More Important Risks?
    1. Modern version of gold.
    1. Bitcoin is a crisis currency in failing economies & hot spots. When there is instability in fiat people flock to it.
