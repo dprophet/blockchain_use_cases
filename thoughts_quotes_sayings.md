@@ -85,7 +85,7 @@
    1. An economic miracle accessible to anyone with a mobile device.
    1. Bitcoin is just another Investment Bubble
    1. An encouragement to take risks
-   1. A financial asset whoes "true" value cannot be determined using traditional financial analytical techniques. Cryptocurrencies don't have any real precedent from which to establish benchmarks. That makes them hard to value.
+   1. A financial asset whoes "true" value cannot be determined using traditional financial analytical techniques. Cryptocurrencies don't have any real precedent from which to establish benchmarks. That makes them hard to value. Learn to measure the social velocity not price velocity. Behavioral finance.
    1. A technology which can cause a monumental shift in the way we view economies.
    1. An easy way to move wealth across international borders.
    1. Its not a short-term phenomenon, its here to stay.
@@ -136,7 +136,6 @@
    1. Bitcoin becomes non-transactionable whereas gold is still transferable within a collapsed infrastructure
    1. Bitcoin will be driven by a larger uptake of institutional investors and futures contracts
    1. A decentralized currency allows for true independence from a state entity.
-   1. Learn to measure the social velocity not price velocity. Behavioral finance.
    1. Even rumors can cause a massive drop in the value of bitcoin
    1. Bitcoin bloodbath
    1. Blockchain as command and control, empowering multiple trading partners to collaborate and establishing a single shared view of a transaction without compromising details, privacy or confidentiality.
