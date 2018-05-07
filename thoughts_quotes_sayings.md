@@ -753,3 +753,4 @@
 1. How can firms foster technological innovation while upholding a rigorous cyber-defense strategy? Problems can arise when companies run head first into innovation without considering potential risks.
 1. Wall Street is 'drunk on bitcoin nonsense'
 1. A company’s actions impact a stock and its price. Regulation, Bugs, and News exert a lot of influence over the value of cryptocurrencies.
+1. Bitcoin is a nonproductive asset, and people who buy it do so merely with the hope they'll find someone else who will pay more for it
