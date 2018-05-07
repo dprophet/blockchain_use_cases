@@ -755,3 +755,4 @@
 1. Wall Street is 'drunk on bitcoin nonsense'
 1. A company’s actions impact a stock and its price. Regulation, Bugs, and News exert a lot of influence over the value of cryptocurrencies.
 1. Bitcoin is a nonproductive asset, and people who buy it do so merely with the hope they'll find someone else who will pay more for it
+1. Why havent large institutions adopted Bitcoin/Blockchain? Trustworthy institutions tend to evolve slowly and prize stability.
