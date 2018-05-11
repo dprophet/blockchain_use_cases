@@ -760,3 +760,4 @@
 1. Bitcoin is a nonproductive asset, and people who buy it do so merely with the hope they'll find someone else who will pay more for it
 1. Why havent large institutions adopted Bitcoin/Blockchain? Trustworthy institutions tend to evolve slowly and prize stability.
 1. We are moving toward an ever more complex automated world. We should embrace only those advances that truly bring a benefit.
+1. Satoshi added the 1M consensus limit in 2010, intentionally set above the free market fee range. This artificial ceiling acts against network DoS, raising the cost of attack. Setting the limit above free market range resulted in a safety limit reasonably free from politics.
