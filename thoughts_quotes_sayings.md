@@ -32,6 +32,7 @@
    1. If you try to legislate against everything, eventually you have nothing. Could bitcoin function better without government regulations?
    1. Fintech innovation as a catalyst that sparks regulatory change?
    1. Money is being rewritten into code.
+   1. Financial game-changer or the mother of all scams?
    1. Money isn't viable if it fluctuates in value, particularly with the wild swings characteristic of cryptocurrencies. However everyone forgets that the very instability of government-produced money is one of the two critical reasons cryptocurrencies were created in the first place (the other being privacy).
    1. Free? There is a big problem with Free. Value needs to come from somewhere.
    1. The value of bitcoin is really predicated on its being a useful means of transactions. If you take that away, all you are left with is a bubble asset.
