@@ -761,4 +761,4 @@
 1. Why havent large institutions adopted Bitcoin/Blockchain? Trustworthy institutions tend to evolve slowly and prize stability.
 1. We are moving toward an ever more complex automated world. We should embrace only those advances that truly bring a benefit.
 1. Satoshi added the 1M consensus limit in 2010, intentionally set above the free market fee range. This artificial ceiling acts against network DoS, raising the cost of attack. Setting the limit above free market range resulted in a safety limit reasonably free from politics.
-1. Computational law is when AI meets Blockchain?
+1. Computational law is when AI meets Blockchain? Blockchain “freezes the future”. “Once you’ve put it on a blockchain it’s very difficult to change your mind, and if these rules become self-reinforcing it would be a very costly affair both in terms of money but also in terms of effort, time, confusion and uncertainty if you would like to change that. 
