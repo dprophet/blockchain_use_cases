@@ -29,6 +29,7 @@
 1. What is Bitcoin?
    1. 99% noise, 1% value
    1. Money is an intermediary in the exchange of value. It’s not value itself. It’s a verb.
+   1. Social asset, not a financial instrument
    1. If you try to legislate against everything, eventually you have nothing. Could bitcoin function better without government regulations?
    1. Fintech innovation as a catalyst that sparks regulatory change?
    1. Money is being rewritten into code.
