@@ -178,6 +178,7 @@
    1. Blockchain is becoming "buzzwords as a tool for corporate promotion"
    1. Any crypto-asset price increases are based on the mob growing
    1. Technology should be a slave not a master
+   1. Cryptocurrencies are backed by electricity costs?
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
