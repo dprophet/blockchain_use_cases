@@ -767,3 +767,4 @@
 1. Computational law is when AI meets Blockchain? Blockchain “freezes the future”. “Once you’ve put it on a blockchain it’s very difficult to change your mind, and if these rules become self-reinforcing it would be a very costly affair both in terms of money but also in terms of effort, time, confusion and uncertainty if you would like to change that. 
 1. Security is never something we actually want. Security is something we need in order to avoid what we don't want.
 1. rapid industry growth in blockchain has fueled a war for talent in crypto hiring and forced people to learn in real time.
+1. Digital and real worlds are melding together faster than people think.
