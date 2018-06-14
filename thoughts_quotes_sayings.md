@@ -119,6 +119,7 @@
    1. A digital spreadsheet that, thanks to the laws of mathematics and cryptography, was more inviolable than carving it in stone.
    1. A casino, not an investment
    1. Wall Street is following the money.  We tend to invest both time and money in what's trending.
+   1. It's hard to be trendy. There's a lot of fool's gold in trends.
    1. Price is based on momentum not intrinsic value.
    1. Bitcoin to bring financial sovereignty to the common man in the world of central banks.
    1. How real is the virtual?
@@ -772,3 +773,4 @@
 1. Digital and real worlds are melding together faster than people think.
 1. Using algorithms to analyze the blockchain data, we find that purchases with Tether are timed following market downturns and result in sizable increases in Bitcoin prices. Less than 1% of hours with such heavy Tether transactions are associated with 50% of the meteoric rise in Bitcoin and 64% of other top cryptocurrencies. The flow clusters below round prices, induces asymmetric autocorrelations in Bitcoin, and suggests incomplete Tether backing before month-ends. These patterns cannot be explained by investor demand proxies but are most consistent with the supply-based hypothesis where Tether is used to provide price support and manipulate cryptocurrency prices.
 1. Can Bitcoin and other cryptocurrencies can disrupt banking the way Mr. Trump disrupted American politics.
+1. Don't get too far ahead of the customer. Customer needs beat customer wants. Focus on the problem, not on yourself.
