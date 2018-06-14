@@ -181,6 +181,7 @@
    1. Any crypto-asset price increases are based on the mob growing
    1. Technology should be a slave not a master
    1. Cryptocurrencies are backed by electricity costs?
+   1. Blockchain with a Purpose. Srinivas objective is to put blockchain on a positive trail to solve some of the most crucial challenges.
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
