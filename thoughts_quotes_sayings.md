@@ -776,3 +776,4 @@
 1. Can Bitcoin and other cryptocurrencies can disrupt banking the way Mr. Trump disrupted American politics.
 1. Don't get too far ahead of the customer. Customer needs beat customer wants. Focus on the problem, not on yourself.
 1. Bitcoin is "breaking the internet"
+1. A global crypto-currency really needs global supervision to avoid regulatory arbitrage across borders. 
