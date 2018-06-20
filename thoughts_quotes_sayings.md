@@ -778,3 +778,4 @@
 1. Don't get too far ahead of the customer. Customer needs beat customer wants. Focus on the problem, not on yourself.
 1. Bitcoin is "breaking the internet"
 1. A global crypto-currency really needs global supervision to avoid regulatory arbitrage across borders. 
+1. cryptocurrency, blockchain and cryptoassets: These days it’s hard to avoid pronouncements about how cryptocurrencies and blockchain technology could change everything (or at least, create massive wealth). Yet there’s an equally loud chorus labeling them a massive scam, useless, and dangerous. And a surprisingly large audience still doesn’t understand what’s going on. One big reason for the confusion is that we’re not all talking about the same things.
