@@ -33,6 +33,7 @@
    1. Blockchain is a theory not a consistent model that reflects reality
    1. Money is an intermediary in the exchange of value. It’s not value itself. It’s a verb.
    1. Social asset, not a financial instrument
+   1. Whats worse? Blockheads and Blockchain? Or do they go hand-in-hand.
    1. If you try to legislate against everything, eventually you have nothing. Could bitcoin function better without government regulations?
    1. Fintech innovation as a catalyst that sparks regulatory change?
    1. Money is being rewritten into code.
