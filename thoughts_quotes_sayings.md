@@ -35,6 +35,7 @@
    1. Money is an intermediary in the exchange of value. It’s not value itself. It’s a verb.
    1. Social asset, not a financial instrument
    1. Whats worse? Blockheads and Blockchain? Or do they go hand-in-hand.
+   1. Misfits and Millionaires Trying to Reinvent Money. The best laid BTC plans, both from misfits and millionaires, often go astray.
    1. If you try to legislate against everything, eventually you have nothing. Could bitcoin function better without government regulations?
    1. Fintech innovation as a catalyst that sparks regulatory change?
    1. Money is being rewritten into code.
@@ -188,6 +189,7 @@
    1. Cryptocurrencies are backed by electricity costs?
    1. Blockchain with a Purpose. Srinivas objective is to put blockchain on a positive trail to solve some of the most crucial challenges.
    1. Decentralized, unstable, and consuming too much electricity
+   1. A mirage not a currency 
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
@@ -786,3 +788,4 @@
 1. Cryptocurrencies are no match for a central bank
 1. As pointed out by Cornell University computer science professor Emin Gün Sirer, the number of Lightning Network routes has grown 10 times in the past five months, but the probability of successful routing has not increased at all.
 1. Today digital literacy is becoming more important than English literacy. We live in a remarkable time, when the promise of digital technology to genuinely improve human lives has accelerated in unimaginable ways. Enterprises expect to collaborate across numerous location and schools can connect their students with insights from around the world. Healthcare providers can deliver patient care over digital connections. And connectivity is so intertwined that we take it for granted, turning wonders into daily expectations. There is an optimism that is exciting and awe-inspiring. Digital technology promises to make a meaningful impact on humanity.
+1. For BTC to succeed it must go through professionalization states.
