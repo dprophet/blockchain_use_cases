@@ -32,6 +32,7 @@
    1. A social frenzy
    1. As technology advances, so does fraud
    1. Blockchain is a theory not a consistent model that reflects reality
+   1. Blockchain is a platform, not a panacea.
    1. Money is an intermediary in the exchange of value. It’s not value itself. It’s a verb.
    1. Social asset, not a financial instrument
    1. Whats worse? Blockheads and Blockchain? Or do they go hand-in-hand.
