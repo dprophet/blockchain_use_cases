@@ -20,7 +20,7 @@
       1. Platform coins. Companies can issue tokens on the platform easily and use them for governance or stakeholder management.
       1. Tokens used within a specific blockchain-based application. Tokens/coins that allow participation in a unique blockchain use case. For example, a decentralized prediction market launching next year. The tokens entitle the holder to a share of all transaction fees from the prediction markets, as well as voting rights to settle disputed prediction outcomes.
       1. Currencies
-
+1. The first step is choosing a sector and understanding the problems and pain points in the area. Are you solving a problem of efficiency or trust or other issues? Then finding a developer. But there is more to understanding what blockchain means for companies.
 
 
 #### Some of my favorite notes, arguments, etc around the Bitcoin and Blockchain space.
@@ -191,7 +191,8 @@
    1. Blockchain with a Purpose. Srinivas objective is to put blockchain on a positive trail to solve some of the most crucial challenges.
    1. Decentralized, unstable, and consuming too much electricity
    1. A mirage not a currency
-   1. The peoples currency
+   1. Bitcoin: The peoples currency?
+   1. A social innovation
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
