@@ -190,7 +190,8 @@
    1. Cryptocurrencies are backed by electricity costs?
    1. Blockchain with a Purpose. Srinivas objective is to put blockchain on a positive trail to solve some of the most crucial challenges.
    1. Decentralized, unstable, and consuming too much electricity
-   1. A mirage not a currency 
+   1. A mirage not a currency
+   1. The peoples currency
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
