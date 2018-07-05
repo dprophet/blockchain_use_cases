@@ -193,6 +193,8 @@
    1. A mirage not a currency
    1. Bitcoin: The peoples currency?
    1. A social innovation
+   1. As long as we discover new ways to create value, new types of businesses will emerge.
+   1. Blockchains create "Governance Markets"
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
