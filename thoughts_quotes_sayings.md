@@ -195,7 +195,7 @@
    1. A social innovation
    1. As long as we discover new ways to create value, new types of businesses will emerge.
    1. Blockchains create "Governance Markets". Decentralized collaboration rather than centralized ownership. Prediction: Crypto-powered governance markets will solve the tragedy of the commons and drive future abundance at the same level of scale as the stock market and the corporation. In a pervasively connected world, it will be more global and democratized than what we’ve seen before.
-   1. Legitimate use cases like decentralized exchanges and prediction markets are not gaining any traction while scams and useless games are thriving. CryptoKitties was lambasted when it was first launched since it garnered significant traction and caused transaction backlogs and increasing fees on the network. Then later, it was criticized for sacrificing full decentralization for the sake of usability. And this tension between usability and decentralization – manifest by the lack of user engagement on most dapps so far – was the most troubling concern for those at Dappcon.
+   1. We need to actually get to a point where the technology has real value and it only has real value if there are actually hundreds of millions of people using this technology.
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
@@ -797,3 +797,5 @@
 1. For BTC to succeed it must go through a time of professionalization. Kids with code dont cut it.
 1. For all the talk about a new era of fintech, in which digital currencies will supplant fiat money and the blockchain will be immune from subterfuge and an independent network unto itself, it seems as if there is a leap—and thus a missing link, so to speak—to the evolutionary process; as if the blockchain suddenly became not only intelligent but wise, rendering all other forms of artificial intelligence redundant and the role of humans remedial in the extreme. Such a scene reads more like a doomsday scenario than the dawn of a 21st century period of enlightenment.
 1. Many crypto enthusiasts are looking at blockchains as a way to correct the sins of the past (government over-reach, lack of sound money, expensive middlemen, centralized businesses, etc.)
+1. Legitimate use cases like decentralized exchanges and prediction markets are not gaining any traction while scams and useless games are thriving. CryptoKitties was lambasted when it was first launched since it garnered significant traction and caused transaction backlogs and increasing fees on the network. Then later, it was criticized for sacrificing full decentralization for the sake of usability. And this tension between usability and decentralization – manifest by the lack of user engagement on most dapps so far – was the most troubling concern for those at Dappcon.
+1. team protocols, decentralized mosaics
