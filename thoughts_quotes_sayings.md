@@ -195,6 +195,7 @@
    1. A social innovation
    1. As long as we discover new ways to create value, new types of businesses will emerge.
    1. Blockchains create "Governance Markets". Decentralized collaboration rather than centralized ownership. Prediction: Crypto-powered governance markets will solve the tragedy of the commons and drive future abundance at the same level of scale as the stock market and the corporation. In a pervasively connected world, it will be more global and democratized than what we’ve seen before.
+   1. Legitimate use cases like decentralized exchanges and prediction markets are not gaining any traction while scams and useless games are thriving. CryptoKitties was lambasted when it was first launched since it garnered significant traction and caused transaction backlogs and increasing fees on the network. Then later, it was criticized for sacrificing full decentralization for the sake of usability. And this tension between usability and decentralization – manifest by the lack of user engagement on most dapps so far – was the most troubling concern for those at Dappcon.
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
