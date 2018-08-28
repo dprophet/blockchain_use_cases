@@ -802,3 +802,4 @@
 1. team protocols, decentralized mosaics
 1. Easy software builds that aren't technologically complex, so work can go into marketing instead of development.
 1. Most of the crypto sector is nothing but unsubstantiated hype, a melting pot of impractical ideas fueled by psychologically manipulative marketing, greed and deceit. Like it or not, this is the reality of not just crypto but the majority of capitalism as a whole.
+1. Digitizing with debt instruments such as purchase order financing.
