@@ -804,3 +804,4 @@
 1. Most of the crypto sector is nothing but unsubstantiated hype, a melting pot of impractical ideas fueled by psychologically manipulative marketing, greed and deceit. Like it or not, this is the reality of not just crypto but the majority of capitalism as a whole.
 1. Digitizing with debt instruments such as purchase order financing.
 1. Media industry: blockchain could solve some interesting problems, particularly with verification of content
+1. Bitcoin is the bloodline of liquidity for crypto
