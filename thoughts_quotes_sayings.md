@@ -31,6 +31,7 @@
    1. Hope and Hype
    1. A fashion statement not a technology
    1. A social frenzy
+   1. 51% based attack on Bitcoin is based on economics not math
    1. As technology advances, so does fraud
    1. Blockchain is a theory not a consistent model that reflects reality
    1. Blockchain is a platform, not a panacea.
