@@ -198,7 +198,7 @@
    1. As long as we discover new ways to create value, new types of businesses will emerge.
    1. Blockchains create "Governance Markets". Decentralized collaboration rather than centralized ownership. Prediction: Crypto-powered governance markets will solve the tragedy of the commons and drive future abundance at the same level of scale as the stock market and the corporation. In a pervasively connected world, it will be more global and democratized than what we’ve seen before.
    1. We need to actually get to a point where the technology has real value and it only has real value if there are actually hundreds of millions of people using this technology.
-   1. Age of verification
+   1. Age of Verification, Age of Accountability
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
