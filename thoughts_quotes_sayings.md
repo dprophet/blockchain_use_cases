@@ -809,3 +809,4 @@
 1. Digitizing with debt instruments such as purchase order financing.
 1. Media industry: blockchain could solve some interesting problems, particularly with verification of content
 1. Bitcoin is the bloodline of liquidity for crypto
+1. Problem gamblers more likely to obsessively trade cryptocurrency
