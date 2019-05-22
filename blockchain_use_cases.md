@@ -166,7 +166,9 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
     - Dont shoot the messenger but is "crypto-love" or "chain of love" really a use case?
       - http://motherboard.vice.com/read/blockchain-of-love-someone-proposed-using-bitcoin
       - https://youtu.be/0_9HdZwf60U
-
+  - Love
+    - Inventory management platform
+    
   - WORDS OF WARNING:
     - 2015 saw a double increase in hacks targeting financial data
     - The very data structures of asset messaging will be targeted by hackers.
