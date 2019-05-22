@@ -812,3 +812,4 @@
 1. Media industry: blockchain could solve some interesting problems, particularly with verification of content
 1. Bitcoin is the bloodline of liquidity for crypto
 1. Problem gamblers more likely to obsessively trade cryptocurrency
+1. Bitcoin: The road to new highs is likely to be littered with short-term run-ups followed by substantial, yet healthy, pullbacks.
