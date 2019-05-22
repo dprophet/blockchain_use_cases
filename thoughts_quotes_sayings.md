@@ -812,4 +812,6 @@
 1. Media industry: blockchain could solve some interesting problems, particularly with verification of content
 1. Bitcoin is the bloodline of liquidity for crypto
 1. Problem gamblers more likely to obsessively trade cryptocurrency
-1. Bitcoin: The road to new highs is likely to be littered with short-term run-ups followed by substantial, yet healthy, pullbacks.
+1. Bitcoin: The road to new highs is likely to be littered with short-term run-ups followed by substantial, yet healthy, pullbacks. A climb to new heights will not be a steady journey -- it will involve many highs and lows, something that investors must weather through.
+1. Comments by financial institutions such as TD Ameritrade suggest that there remains significant interest in bitcoin as an investment asset rather than as a point-of-sale option.
+1. Bitcoin market cap is ~140bil, gold's market cap is ~7tril. Do the math!
