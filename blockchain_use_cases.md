@@ -104,6 +104,7 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
     - Content licensed to a cryptographic biometric identifier
     - Usage based licensing like 5 prints of a 3D printing schematic, 3 plays of a movie, 1 free play of a song, 1 passthrough of a electronic sheet music.
     - Better persistence of indication of rights (e.g., what happens if company using live data goes out of business?). Ledger persists even after companies are gone.
+    - Immutability and censorship-resistance are useful for governments in certain instances, such as conducting international trade in the face of sanctions.
   - Identity
     - In Capital Markets, Identity isn't just about "what you know" but also "when you knew it".
 	- Selective disclosure: You can verify the age but not the individual, Verify first and last name.
