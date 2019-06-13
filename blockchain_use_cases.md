@@ -169,7 +169,29 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
       - https://youtu.be/0_9HdZwf60U
   - Inventory
     - Inventory management platform
-    
+
+Blockchain projects: 7 mistakes to avoid
+  - Misunderstanding or misusing blockchain
+    - The majority of blockchain projects are used for recording data on blockchain platforms via decentralized ledger technology (DLT). While this is one function of the blockchain, it ignores its other critical features, including decentralized consensus, tokenization, and smart contracts.
+    - DLT is a component of blockchain, not the whole blockchain. The fact that organizations are so infrequently using the complete set of blockchain features prompts the question of whether they even need blockchain
+  - Assuming the technology is ready for production use
+    - The emerging blockchain platform market is increasingly large and fragmented. Vendors focus on everything from confidentiality to tokenization to universal computing in an attempt to differentiate themselves to customers. However, most remain too immature for large-scale production work, the research found. CIOs must keep an eye on the market to monitor these platforms as they evolve in the coming years, and change their blockchain project timelines accordingly.
+  - Confusing a protocol with a business solution
+    - Blockchain is a foundation-level technology—while it can be used across industries for different situations, it is not a complete application, the research said. For example, it must also include features such as user interface, business logic, data persistence, and interoperability mechanisms.
+    - When it comes to blockchain, there is the implicit assumption that the foundation-level technology is not far removed from a complete application solution. This is not the case. It helps to view blockchain as a protocol to perform a certain task within a full application. No one would assume a protocol can be the sole base for a whole e-commerce system or a social network.
+  - Viewing blockchain purely as a database or storage mechanism
+    - Blockchain technology is designed to provide an immutable, trusted record among a number of untrusted parties, not as a database manager. Currently, blockchain does not implement the "create, read update, delete" model used in conventional database managers—only "create" and "read" are supported. 
+    - You should assess the data management requirement of a blockchain project. A conventional data management solution is likely the better option.
+  - Assuming that interoperability standards exist
+    - Because most blockchain platforms are still being developed, interoperability with other blockchains is not yet fully possible. You should approach vendors who discuss interoperability with caution at this point in time.
+    - Never select a blockchain platform with the expectation that it will interoperate with next year's technology from a different vendor.
+  - Assuming smart contract technology is a solved problem
+    - Smart contracts are one of the most powerful features enabled by the blockchain. However, many challenges in terms of scalability and manageability of these contracts still exist. You should run small experiments with smart contract technology to start, as it will change significantly in the coming two to three years.
+  - Ignoring governance issues
+    - Public blockchains require governance from CIOs or trusted companies, while governance for private and permissioned blockchains is typically handled by the owner of the blockchain.
+    - Governance in public blockchains such as Ethereum and Bitcoin is mostly aimed at technical issues. Human behaviors or motivation are rarely addressed. You must be aware of the risk that blockchain governance issues might pose for the success of their project. Especially larger organizations should think about joining or forming consortia to help define governance models for the public blockchain.
+
+
   - WORDS OF WARNING:
     - 2015 saw a double increase in hacks targeting financial data
     - The very data structures of asset messaging will be targeted by hackers.
