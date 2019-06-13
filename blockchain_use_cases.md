@@ -3,7 +3,7 @@ Fork from https://github.com/dprophet/blockchain_use_cases
 Erik Anderson
 Bloomberg
 
-For the purpose of this document lets replace Blockchain with DLT (Distributed Ledger Technology). DLT is:
+### For the purpose of this document lets replace Blockchain with DLT (Distributed Ledger Technology). DLT is:
   - A ledger that generally runs in a hostile environment like the public internet
   - It uses cryptography to try and solve identity and ownership problems in this public environment
   - It uses cryptography to try and automate business processes & reduce latency to accelerate the value of money
@@ -14,7 +14,7 @@ For the purpose of this document lets replace Blockchain with DLT (Distributed L
   - Transactions are absolute, there is no reverting the transaction. Chargebacks/returns are a business process because the ledger cannot be reversed. You must initiate a transaction back to the originating party.
   - Current DLT Identity & Data security mechanisms is 'relatively unused' cryptography built for financial services in 1990's. These mathematics has a certain lifetime because computers and distributed calculations are getting faster & more efficient. The current cryptography is not resistive to quantum computer attacks, 5-10yr max additional lifetime, target window 2021-2026.
 
-Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Ledger Technology-DLT, Including Identity & Data Security
+### Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Ledger Technology-DLT, Including Identity & Data Security
   - Directly lending
     - Middle market direct lending
     - End consumer direct lending
@@ -170,7 +170,7 @@ Use Case, Direct Financial Services beneficiaries of Blockchain & Distributed Le
   - Inventory
     - Inventory management platform
 
-Blockchain projects: 7 mistakes to avoid
+### Blockchain projects: 7 mistakes to avoid
   - Misunderstanding or misusing blockchain
     - The majority of blockchain projects are used for recording data on blockchain platforms via decentralized ledger technology (DLT). While this is one function of the blockchain, it ignores its other critical features, including decentralized consensus, tokenization, and smart contracts.
     - DLT is a component of blockchain, not the whole blockchain. The fact that organizations are so infrequently using the complete set of blockchain features prompts the question of whether they even need blockchain
@@ -192,16 +192,16 @@ Blockchain projects: 7 mistakes to avoid
     - Governance in public blockchains such as Ethereum and Bitcoin is mostly aimed at technical issues. Human behaviors or motivation are rarely addressed. You must be aware of the risk that blockchain governance issues might pose for the success of their project. Especially larger organizations should think about joining or forming consortia to help define governance models for the public blockchain.
 
 
-  - WORDS OF WARNING:
-    - 2015 saw a double increase in hacks targeting financial data
-    - The very data structures of asset messaging will be targeted by hackers.
-      - Its inevitable that financial asset information starts to move over the public internet
-        - As asset information is exchanged it should not be possible to take the information about that asset out of the context for which that information was being exchanged.
-          Example: I have a Bar of Gold with QR code xxx, verified/signed by Well Fargo as safely secure in their facility, being exchanged as an asset/collateral for a transaction. Assuming a hacker somehow became a man-in-the-middle of the message chorography and has access to the raw signed asset message, he should not be able to separate that signed asset for a different intent.
-        - Verifiable asset exchange information must be 1x1 bound to the parties and inseparable from its original intent.
+### WORDS OF WARNING:
+  - 2015 saw a double increase in hacks targeting financial data
+  - The very data structures of asset messaging will be targeted by hackers.
+    - Its inevitable that financial asset information starts to move over the public internet
+      - As asset information is exchanged it should not be possible to take the information about that asset out of the context for which that information was being exchanged.
+  Example: I have a Bar of Gold with QR code xxx, verified/signed by Well Fargo as safely secure in their facility, being exchanged as an asset/collateral for a transaction. Assuming a hacker somehow became a man-in-the-middle of the message chorography and has access to the raw signed asset message, he should not be able to separate that signed asset for a different intent.
+      - Verifiable asset exchange information must be 1x1 bound to the parties and inseparable from its original intent.
     - Blockchain is an hyped attempt at a technology leading business solutions. What problem are we trying to solve before we pick a technology.
     - Blockchain, as it stands today, is based on yet another procedural programming language with traditional data structures and algorithms.
-        - Oracle, years ago, tried to codify interactive/behavior information systems into a database with PL/SQL and later followed by embedding Java. This didnt work out the way they intended. Irregardless of cryptography, Blockchain as a procedural database programming language is trying to repeat the history that Oracle went through.
-        - Blockchain does have a role in financial services but Blockchain ISNT THE ROLE ITSELF. Blockchain role is non-repudiation via final storage of the inputs to a financial agreement, not the code that executes the agreements.
-    - Blockchain, as a final resting place for the information, and a "dumb contract" who's intent is to help ensure the integrity of the information as its written to the ledger makes perfect sense. Codifying all information flows needed to construct financial agreements flowing to a public ledger? Now add in the integrity of the ledger is maintained by miners running computers in their basement?
+      - Oracle, years ago, tried to codify interactive/behavior information systems into a database with PL/SQL and later followed by embedding Java. This didnt work out the way they intended. Irregardless of cryptography, Blockchain as a procedural database programming language is trying to repeat the history that Oracle went through.
+      - Blockchain does have a role in financial services but Blockchain ISNT THE ROLE ITSELF. Blockchain role is non-repudiation via final storage of the inputs to a financial agreement, not the code that executes the agreements.
+  - Blockchain, as a final resting place for the information, and a "dumb contract" who's intent is to help ensure the integrity of the information as its written to the ledger makes perfect sense. Codifying all information flows needed to construct financial agreements flowing to a public ledger? Now add in the integrity of the ledger is maintained by miners running computers in their basement?
     
