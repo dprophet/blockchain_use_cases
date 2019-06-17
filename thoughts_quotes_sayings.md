@@ -1,4 +1,7 @@
 *********************************
+## Disclaimer: The below is extracts from many news stories, thoughts, discussions since 2011/2012. Keep in mind, when reading the below, Blockchain is a technology & protocol, not a business solution.
+
+*********************************
 #### General rules when to use Blockchain/DLT technology
 1. Rules when to use Blockchain/DLT technology
    1. A blockchain is a digital ledger in which transactions made are recorded chronologically and publicly.
