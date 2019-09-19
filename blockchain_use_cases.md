@@ -148,6 +148,8 @@ Bloomberg
       Example: Demographics, housing, International movement of money, spending habits where consumers switch from 2% milk to powdered milk, etc.
     - Oversight: There exists many instances where Regulatory authorities have legal oversight of the movement of value. In these cases, allowing consensus algorithms with regulatory "veto" power over those transactions provides the regulators with the tools they need.
       Note: This is a concept I have been pushing to put the "regulations in the code". Regulations can be automated with far less cost and slower human involvement. This will directly reduce the amount of regulatory arbitrage & hand waving those authorities utilize.
+    - Digital Forensics: If you combine a public ledger, access control on various information elements, you can unlock digital forensics yet prevent regulatory snooping.
+      - Example: Price/amount+country+ZIPCODE is anonymized enough to allow public access for metrics purposes. Various algorithms can be used to determine business health, health signs, money flows, etc.
    - Wallet
      - Current trend are toward physical wallets in the form of hardware (e.g. a dongle or mobile phone itself).
      - If you combine the hardware key management with a public ledger you can truly create a digital wallet since the contents of the wallet are secure regardless of the mechanics surrounding the wallet storage. Hardware will offer the privacy and access controls to a cloud or Blockchain based wallet.
