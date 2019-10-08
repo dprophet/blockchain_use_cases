@@ -208,7 +208,7 @@
    1. It will change how economic rights are licensed empower inanimate objects to communicate and interact with each other.
    1. Gambling or window to the future?
    1. The price of Bitcoin is subject to the raw forces of supply and demand in a relatively illiquid market compared to international foreign exchange markets. The combination of having no broad consensus on Bitcoin valuation and the relative thin liquidity of its trading can result in very large price swings.
-   1. New asset classes are more volatile than established assets
+   1. New asset classes are more volatile than established assets. As the benefits of cryptocurrencies become clear, more people and businesses will hold the coins for their utility value, which will reduce speculation and limit volatility.
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
