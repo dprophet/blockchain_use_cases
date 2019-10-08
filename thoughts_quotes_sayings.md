@@ -207,6 +207,7 @@
    1. Crypto Exchanges: They are the publisher, not just the postman. There cannot be a case of all profit, no responsibility.
    1. It will change how economic rights are licensed empower inanimate objects to communicate and interact with each other.
    1. Gambling or window to the future?
+   1. The price of Bitcoin is subject to the raw forces of supply and demand in a relatively illiquid market compared to international foreign exchange markets. The combination of having no broad consensus on Bitcoin valuation and the relative thin liquidity of its trading can result in very large price swings.
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
