@@ -824,3 +824,4 @@
 1. Bitcoin market cap is ~140bil, gold's market cap is ~7tril. Do the math!
 1. Bitcoin, Blockchain, Libra and other potential new payment solutions are shining a light on deficiencies in the system.
 1. Feds fear of recession becomes a self-fulfilling prophecy
+1. Bitcoin fans must abandon the dream of deflationary digital gold. Inflation is the key to its future. Even after its crashes and bubbles, it has become a semi-permanent feature of the landscape. But it may only become a currency if it acts more like the dollar, with a low but predictable inflation target.
