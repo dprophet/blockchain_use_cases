@@ -825,3 +825,4 @@
 1. Bitcoin, Blockchain, Libra and other potential new payment solutions are shining a light on deficiencies in the system.
 1. Feds fear of recession becomes a self-fulfilling prophecy
 1. Bitcoin fans must abandon the dream of deflationary digital gold. Inflation is the key to its future. Even after its crashes and bubbles, it has become a semi-permanent feature of the landscape. But it may only become a currency if it acts more like the dollar, with a low but predictable inflation target.
+1. With people told to work from home and stay away from others, the pandemic has deepened reliance on services from the technology industry’s most prominent companies while accelerating trends that were already benefiting them.
