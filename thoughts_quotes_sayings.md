@@ -32,6 +32,7 @@
 1. What is Bitcoin?
    1. 99% noise, 1% value
    1. Hope and Hype
+   1. Cash is trash and has been for a long time.
    1. A fashion statement not a technology
    1. A social frenzy
    1. 51% based attack on Bitcoin is based on economics not math
