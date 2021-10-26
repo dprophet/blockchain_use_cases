@@ -212,6 +212,7 @@
    1. New asset classes are more volatile than established assets. As the benefits of cryptocurrencies become clear, more people and businesses will hold the coins for their utility value, which will reduce speculation and limit volatility. Improved adoption, functionality, and regulation of cryptocurrencies like Bitcoin will serve to stabilise the price of the cryptocurrency. As regulation is introduced and the functionality of cryptocurrencies increases, the true price will become more consistent.
    1. A digital currency is harder to plan for than to build. More politics than technology.
    1. Innovation in digital assets continues rapidly and will likely drive increased institutional participation over time.
+   1. A delayering. Removing of the middle man.
 
 1. 7 Facts To Check Before Investing In A ICO Or New Cryptocurrency
    1. Who’s offering the coin?
